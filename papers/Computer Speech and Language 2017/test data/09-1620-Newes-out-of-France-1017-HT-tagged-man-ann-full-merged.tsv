@@ -1,0 +1,1208 @@
+#TOTEN	LEMMA	POS	SEMTAG1	MWE	SEMTAG2	Correct-Tag	SEMTAG3					
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+Newes	newes	NP1	Z99	0	NULL	03.09.05.09 [News/tidings]; 03.09.05.09-01 [piece of]	04.10 [] 					
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+France	france	NP1	Z2	0	04.01.02 [Geographical Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Elements	element	NN2	A4.1 N5 S5+c	0	01.01.10.02.02.02 [1.00000000] [Sphere of ancient astronomy]; 01.10.01.01 [1.00000000] [Alchemical elements]; 01.10.02.17-01 [1.00000000] [elements];	01.01.10.02.02.02 [Sphere of ancient astronomy]; 01.10.01.01 [Alchemical elements]; 01.16.07.04.01-16	AA.10.b [Celestial sphere  zodiacal signs]; AJ.01 [Alchemy]; AJ.02.l [Elements and compounds]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+thereby	thereby	RR	Z5	0	01.11.03.01 [Cause/reason]; 04.03 [];	01.11.03.01 [Cause/reason]; 04.03 [];	AK.03.a [Cause/reason]; ZC [Grammatical Item];					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+heale	heale	NN1	Z99	0	NULL	01.03.03 [Heal/cure]; 01.03.03 [Effect a cure]; 01.03.03.01 [Recover/be healed]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+vlcer	vlcer	NN1	Z99	0	NULL	02.03.05.10-04 [cause of]; 02.03.05.10.02-02 [corrupting]; 03.06.05.01-07.06	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+vices	vice	NN2	G2.2- G2.1- O2	0	03.11.11.09-07.01 [0.93750000] [vice]; 01.13.11.04.01-08 [0.95238095] [another's place]; 03.06.05.03-04.02 [0.95833333] [a vice/bad habit];	03.06.05.03-04.02 [a vice/bad habit]	BI.11.h [Clutching/gripping equipment]; AM.11.d.01 [Substitution]; BD.05.c [Wrong conduct]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+wallow	wallow	NN1	M1 E4.1- L2	0	01.01.04.04.04-10.03 [0.94736842] [wallow]; 01.09.10.06.03-08.01 [0.95454545] [in which swine wallow]; 01.01.04.04.04-10.05 [1.00000000] [act of rolling through mud-hole];	02.04.10.08 [Take joy/delight in]; 01.09.01.04.03-03 [remain plunged in sensuality]; 01.09.01.04;  [Please/gratify the senses]; 01.14.02.03-06.01; 01.09.01.04.03-03	AA.03.h [Waterlogged/wild land]; AI.16.f.03 [Dirt]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+take	take	VV0	A9+ T1.3 C1	0	02.06.13 [0.90909091] [Take]; 02.06.13.02.01 [0.92857143] [Catch/capture]; 02.04.13.01 [0.93750000] [Take a fancy/liking];	02.06.13 [Take]	AW.15 [Taking]; AW.15.a [Seizing	 capture]; AU.27.a [Liking]; 				
+pleasure	pleasure	NN1	E4.2+ K1	0	02.04.10 [0.88888889] [Pleasure]; 02.04.10.01-06 [0.94444444] [source of pleasure]; 02.04.10.01 [0.94736842] [Quality of being pleasant/pleasurable];	02.04.10 [Pleasure]	AU.08 [Pleasure]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+sinne	sinne	NN1	Z99	0	NULL	04.10 [] 						
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	ZC [Grammatical Item]; AP.01.i [Similarity];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Sow	sow	NN1	L2fn	0	01.07.03.03.04 [0.93750000] [Sowing]; 01.14.08.02-02 [0.93750000] [a stroke/blow]; 01.01.05.02.05-18 [0.94117647] [channel for conveyance of water];	01.05.19.06.04.0-04.01 [pig: female: sow]	AG.02.c.03 [Sowing]; AN.08.a [Striking]; AA.04.b [Rivers	 streams]; 				
+delighteth	delighteth	VVZ	Z99	0	NULL	02.04.10.08 [Joy/gladness/delight]	04.10 [] 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+wallow	wallow	VVI	M1 E4.1- L2	0	02.04.10.08 [0.80000000] [Take joy/delight in]; 01.09.01.04.03-03 [0.86363636] [remain plunged in sensuality]; 01.09.01.04 [0.88235294] [Please/gratify the senses];	02.04.10.08 [Take joy/delight in]; 01.09.01.04.03-03 [remain plunged in sensuality]; 01.09.01.04 [Please/gratify the senses]; 01.14.02.03-06.01	AU.11 [Happiness]; AI.05.c [Sensuality]; AI.05 [Sensuous pleasure]; 					
+in	in	II	altogether B5-	01:02:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	altogether B5-	01:02:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+mire	mire	NN1	W3 O4.2-	0	01.01.04.04.04-10 [0.86666667] [wet place/mire/slough]; 01.01.07.04.06.03-02 [0.88235294] [thin/soft]; 01.02.03.20.08.05 [0.92857143] [Faeces];	01.01.04.04.04-10 [wet place/mire/slough]; 01.01.07.04.06.03-02	AA.03.h [Waterlogged/wild land]; AA.08.b.02 [Mud]; AB.17.o.03 [Excretions]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+Which	which	DDQ	Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+plainely	plainely	RR	Z99	0	NULL	01.09.08.11-10 [clearly visible]; 02.01.07-01; 03.09.02.01	04.10 [] 					
+appeareth	appeareth	VVZ	Z99	0	NULL	01.09.08.11-04 [appear/become visible]; 03.09.02	04.10 [] 					
+by	by	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+deplorable	deplorable	JJ	O4.2-	0	02.01.14.07.02 [1.00000000] [Of persons: beyond hope  desperate]; 02.03.03.08 [1.00000000] [Wretched]; 02.04.11.03.02-01 [1.00000000] [lamentable];	02.04.11.03.02-01 [lamentable]; 02.03.03.08; 02.04.11.03.02-01	AR.50.f [Despair	 hopelessness]; AT.11 [Wretchedness/baseness]; AU.15.a [Expression of grief]; 				
+accident	accident	NN1	A1.1.2 A1.4	0	01.11.01.06-01.01 [0.85000000] [that which is non-essential/accident]; 02.01.15.27.04-13.01 [0.88888889] [accident]; 01.01.04.04.01.01-06 [0.94736842] [undulation];	01.15.18.01-02.10.05 [adversity/misfortune]; 01.11.04-02	AK.01.f [Extrinsicality/externality]; AR.53.j [Logic]; AA.03.e [High/rising ground]; 					
+happened	happen	VVD	A2.1+ A3+ X7-	0	01.11.04-03 [0.81250000] [happen to]; 02.07.06.04 [0.93333333] [Maintain/uphold as true]; 01.11.04-02 [0.94736842] [of an accident/something serious];	01.11.04-03 [happen to]; 01.11.04-02 [of an accident/something serious];	AK.04 [Present events]; AX.22 [Statement	 declaration]; 				
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+late	late	RR	T4- T1.1	0	01.13.05-01 [0.78571429] [late/till late in the day/night]; 01.13.08.04 [0.84615385] [Formerly/in the past]; 01.12.05.11 [0.93750000] [At the back/behind];	01.13.08.05.03.01 [recently]; 01.13.08.04	AM.05 [Day and night]; AM.08.c [The past]; AL.05.k [Position at the back]; 					
+in	in	II	altogether B5-	02:02:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	altogether B5-	02:02:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Citie	citie	FW	Z99	0	NULL	04.01.02 [Geographical Name]	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Paris	paris	NP1	Z2 Z1f	0	04.01.02 [Geographical Name]; 04.01.01 [Personal Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name]; ZA01 [Personal Name];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+where	where	CS	M6	0	01.11.01.07.01-04 [0.87500000] [(to) the point where]; 02.04.13.10 [0.87500000] [Contextually indicating person(s) as love object]; 01.11.01.07.01-01 [0.88888889] [in the case/circumstances in which];	01.12.04 [place]; 01.12.04.02-01	AK.01.g.01 [Circumstance/circumstances]; AU.29 [Amorous love]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+force	force	NN1	E3- S7.1+ G2.1c	0	01.10.07.01.01 [0.91666667] [Force]; 03.04.09.04.03 [0.94117647] [Compulsion]; 01.15.20.01 [1.00000000] [Vigour/energy];	01.10.07.01.01 [Force]; 01.15.20.01 [Vigour/energy]	AJ.07.a.01 [Force]; BB.09.d.03 [Compulsion]; AO.21.a [Vigour/energy]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+furie	furie	NN1	Z99	0	NULL	02.04.12.02-05 [0.89473684] [fury of beasts]; 01.15.20.03 [0.92307692] [Violent action/operation]	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.10.01.01-03 [0.93750000] [fire]; 01.10.08-10.01 [0.93750000] [resembling fire/flame]; 01.17.04.07-07 [0.93750000] [fire of];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.02	AJ.01 [Alchemy]; AJ.08 [Light]; AQ.04.g [Hell]; 					
+strucke	strucke	VV0	Z99	0	NULL	01.14.08.02 [Strike/deliver blows]; 01.14.08; 02.04.01.03-04	04.10 [] 					
+such	such	DA	Z5 Z8	0	01.16.02-02 [of a certain kind]; 04.03 [];	01.16.02-02 [of a certain kind]; 01.16.06.01-01 [quantity/degree]; 04.03 []	AP.02 [Kind/sort]; ZC [Grammatical Item];					
+an	an	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+astonishment	astonishment	NN1	X2.6-	0	02.01.14.08 [0.93750000] [Feeling of wonder/astonishment]; 01.03.02.01.02-04 [1.00000000] [mental prostration/paralysis]; 01.03.03.04.21-01 [1.00000000] [anaesthetization];	02.01.14.08 [Feeling of wonder/astonishment]; 01.03.02.01.02-04 [mental prostration/paralysis]; 01.03.03.04.21-01 [anaesthetization]; 02.04.21.08-02; 02.01.14.08	AR.51 [Feeling of wonder	 astonishment	 awe]; AC.01.g.02 [Degree/type of madness]; AC.02.d.04 [Anaesthetization/pain-killing]; 			
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+all	all	DB	N5.1+	0	01.16.07.02 [0.93750000] [All/the whole amount of]; 01.16.02.01-04 [0.95833333] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+inhabitants	inhabitant	NN2	H4/S2mf	0	03.02.06 [0.92307692] [Inhabitant]; 01.04.07.15.01.01-11 [1.00000000] [specific state];	03.02.06 [Inhabitant]	AZ.05 [Inhabitant]; AD.15.j.02 [Native/inhabitant of U.S.A.]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+they	they	PPHS2	Z8mfn	0	04.06 [];	04.06 []	ZF [Pronoun];					
+thought	think	VVD	X2.1	0	02.01.06 [0.90000000] [Think]; 02.01.06-02 [0.92857143] [in specified way]; 02.01.06.03.01 [0.93750000] [Consider/deliberate];	02.01.06 [Think]	AR.08 [Thinking	 thought]; AR.08.a [Contemplation	 reflection	 consideration]; 		
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Towne	towne	NP1	Z99	0	NULL	03.02.07.01.04.03 [Town]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+like	like	II	Z5	0	04.03 [Grammatical]	01.16.01.09-01 [in a relational manner]; 04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+second	second	MD	N4	0	01.16.04 [Number]	01.16.04 [Number]	AP.04 [Number];					
+Sodome	sodome	NN1	Z99	0	NULL	04.01.03 [other proper name]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+would	will	VM	A7+	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+suddenly	suddenly	RR	N3.8+	0	02.01.14.04 [0.93750000] [Suddenly unexpectedly]; 02.05.04.02-02 [0.94444444] [in unplanned manner]; 01.13.09.02-05 [0.94736842] [suddenly];	02.01.14.04 [Suddenly unexpectedly]; 02.05.04.02-02 [in unplanned manner]; 01.13.09.02-05 [suddenly]	AR.50.a.01 [Suddenness]; AV.03 [Intention]; AM.09.a [Untimeliness]; 					
+haue	haue	VHI	Z5	0	04.03 [Grammatical];	04.03 [Grammatical];	ZC [Grammatical Item];					
+beene	beene	NN1	Z99	0	NULL	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	04.10 [] 					
+consumed	consume	VVN	A1.5.1 F1	0	01.07.01.27 [0.90000000] [Consume]; 01.11.02.02-08 [0.94444444] [devour/engulf/consume (of fire/water etc )]; 01.11.02.02-08.03 [0.95238095] [in/into something];	01.11.02.02-08 [devour/engulf/consume (of fire/water etc )]; 01.11.02.02-08.03 [in/into something]; 01.11.02.02-08; 01.07.01.27	AG.01.x [Consumption of food/drink]; AK.02.b [Destruction]; 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+ashes	ash	NN2	O1.1 L3	0	01.06.13.09.06-03 [0.94117647] [ash as timber tree]; 01.06.13.02.03.01 [0.94444444] [Ash and allies]; 03.11.12.02.06.01-04 [0.96296296] [ash];	01.10.03.03.02.03.03-02 [Properties of materials: Products of burning: ashes/cinders]	AF.23 [Particular timber trees/shrubs]; AF.13 [Particular tree/shrub]; BI.12.a [Raw material]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+by	by	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+impetuous	impetuous	JJ	A1.3-	0	01.15.20.03-12 [0.93333333] [rapidly/suddenly]; 01.15.20.03-12.01 [0.94444444] [of personal actions/persons]; 02.04.08.08.02 [0.94444444] [Impetuous];	01.15.20.03-12 [rapidly/suddenly]; 01.15.20.03-12.01 [of personal actions/persons]; 02.04.08.08.02 [Impetuous]	AO.21.c [Violent action/operation]; AU.05.c [Impetuosity]; 					
+flames	flame	NN2	O4.6+ Q2.2	0	01.10.03.03.02.03.02-09.14 [0.89473684] [a flame]; 01.10.03.03.02.03.02-09 [0.89473684] [flame/blaze]; 02.04.13.10-20.01 [0.94736842] [(of love) a flame/burning passion];	01.10.03.03.02.03.02-09.14 [a flame]; 01.10.03.03.02.03.02-09 [flame/blaze]	AJ.03.c.02.c [Burning	 fire	 flame	 ash]; AU.29 [Amorous love]; 		
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.10.08-10.01 [0.86666667] [resembling fire/flame]; 01.10.03.03.02.03.02 [0.87500000] [Fire/flame]; 01.10.01.01-03 [0.93750000] [fire];	01.10.03.03.02.03.02 [Fire/flame]; 01.10.01.01-03 [fire]	AJ.08 [Light]; AJ.03.c.02.c [Burning	 fire	 flame	 ash]; AJ.01 [Alchemy]; 		
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+threatened	threaten	VVD	E3-/Q2.2 A15- X2.6+/O4.2-	0	01.15.17.04.02 [0.95652174] [Threaten]; 01.15.17.04.02 [0.96000000] [Threaten (evil etc )]; 01.01.11.02.02-03 [1.00000000] [be oppressive/threatening];	01.15.17.04.02 [Threaten]; 01.15.17.04.02 [Threaten (evil etc )]	AO.18.c.02 [Threat/threatening]; AA.11.b [Bad weather]; 					
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	04.06 [Pronoun]	ZF [Pronoun];					
+;	PUNC	YSCOL	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+yet	yet	RR	T1.1.2	0	01.13.08.03-06 [1.00000000] [as formerly/still/to this day]; 01.13.08.06-04 [1.00000000] [at some future time/one day]; 02.02.06.01.03-08 [1.00000000] [however nevertheless]	02.02.06.01.03-08  [however nevertheless]	 notwithstanding];	AM.08.b [The present (time)]; AM.08 [Relative time]; AS.05.b [Qualification	 condition	 reservation]; 		
+could	can	VM	A7+	0	02.01.13.08.09 [Expressing possibility]; 01.15.22 [Be able to]	02.01.13.08.09 [Expressing possibility]; 01.15.22 [Be able to]	AR.48.c [Possibility	 probability]; AO.23 [Ability];				
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+truly	truly	RR	A5.2+ A5.4+	0	02.01.12.08 [0.82352941] [In accordance with truth  truly]; 02.01.12.08.01-01 [0.83333333] [truly]	02.01.12.08 [In accordance with truth  truly]; 02.01.12.08.01-01 [truly]	 genuinely]; 02.01.12.08-08 [0.88235294] [assuredly	 indeed];	AR.38 [Truth	 validity	 correctness]; 	
+know	know	VVI	X2.2+ S3.2/B1%	0	02.01.12 [0.93333333] [Know  be aware of]; 02.01.12.02.03 [0.94444444] [Have mastery of]; 02.01.08 [1.00000000] [Understand];	02.01.12 [Know  be aware of]; 02.01.08 [Understand]	AR.36 [Knowledge]; AR.36.b [Scholarly knowledge	 erudition]; AR.16 [Understanding]; 				
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+truth	truth	NN1	A5.2+	0	02.01.12.08.03 [0.88888889] [Truthfulness veracity]; 02.01.12.08-02 [0.89473684] [personified]; 02.01.12.08-06 [0.89473684] [reality];	02.01.12.08.03 [Truthfulness veracity]; 02.01.12.08-06 [reality]	AR.39 [Truthfulness	 veracity]; AR.38 [Truth	 validity	 correctness]; 		
+how	how	RRQ	Z5 A13.3	0	02.02.03-02 [as a request]; 04.03 [];	02.02.03-02 [indicating a question]; 04.03 []	AS.04 [Enquiry]; ZC [Grammatical Item];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+began	begin	VVD	T2+	0	02.01.12.08.07.01 [0.81250000] [Entrap  ensnare]; 02.07.03-18 [0.93333333] [begin to speak]; 01.15.03.02 [0.93750000] [Begin action/activity];	01.15.03.02 [Begin action/activity]	AR.42.a [Snare	 trap	 entanglement]; AX.03 [Speech]; AO.04 [Beginning action/activity]; 			
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+For	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+is	be	VBZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+so	so	RG	A13.3	0	01.15.20-08 [0.92857143] [in that way]; 01.11.03.01 [0.93333333] [For that reason/therefore]; 01.16.01.09-02 [0.94117647] [such that];	01.16.06.01-01 [in respect of quantity: to this/that extent]; 01.16.01.09-02	AO.21 [Manner of action]; AK.03.a [Cause/reason]; AP.01.i [Similarity]; 					
+diversly	diversly	RR	Z99	0	01.16.01.06 [Differently]	01.16.01.06 [Differently]	AP.01.f [Difference] 					
+reported	report	VVN	Q2.2	0	03.09.05.04 [0.91666667] [Report]; 03.09.11-01 [0.92857143] [report]; 03.10.01.07-01 [0.95238095] [report one's arrival];	03.09.05.04 [Report]; 03.09.11-01 [report]; 02.07.03.03	BG.05.d [Reporting]; BG.11 [Journalism]; BH.06 [Arrival]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+men	man	NN2	S2.2m	0	01.04.04.01 [0.92307692] [Man]; 01.04.04.01-05 [0.93750000] [men collectively];	01.04.04.01 [Man]; 01.04.04.01-05 [men collectively]	AD.03.a [Man]; 					
+can	can	VM	A7+	0	02.01.13.08.09 [Expressing possibility]; 01.15.22 [Be able to]	02.01.13.08.09 [Expressing possibility]; 01.15.22 [Be able to]	AR.48.c [Possibility	 probability]; AO.23 [Ability];				
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+assuredly	assuredly	RR	A7+	0	02.01.13.08.11.01.01 [0.96296296] [Assuredly  of course]; 02.01.13.08.11 [1.00000000] [With certainty	02.01.13.08.11.01.01 [Assuredly  of course]; 02.01.13.08.11 [With certainty]; 02.01.13.08.11	 confidently];	AR.49 [Absence of doubt	 confidence]; 			
+declare	declare	VVI	Q2.2 K5.1%	0	02.07.06 [0.93333333] [State/declare/set forth]; 02.07.06.03 [0.94736842] [Asseverate/assert/affirm/positively declare]; 03.12.19.03.06.04-08 [0.95454545] [declare dutiable goods];	02.07.06 [State/declare/set forth]; 02.07.06.03 [Asseverate/assert/affirm/positively declare]	AX.22 [Statement	 declaration]; BJ.01.s.06 [Duty on goods]; 				
+any	any	DD	N5.1+	0	01.16.04.01-10 [0.93333333] [any one]; 01.16.06-03 [0.94444444] [some/any]; 01.16.02.01-10.06.01 [0.95652174] [any];	01.16.04.01-10 [any one]; 01.16.06-03 [some/any]; 01.16.02.01-10.06.01 [any]	AP.04.a [One]; AP.06 [Quantity]; AP.02.a [Generality]; 					
+truth	truth	NN1	A5.2+	0	02.01.12.08.03 [0.94444444] [Truthfulness  veracity]; 01.11.01.05.02-01 [0.94736842] [true nature]; 02.01.12.08-02 [0.94736842] [personified];	02.01.12.08.03 [Truthfulness  veracity]; 01.11.01.05.02-01 [0.94736842] [true nature]; 02.01.12-01	AR.39 [Truthfulness	 veracity]; AK.01.e.02 [Character/nature]; AR.38 [Truth	 validity	 correctness]; 		
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.03 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+And	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+is	be	VBZ	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+prohibited	prohibit	VVN	S7.4-	0	03.04.09.06 [0.93333333] [Prohibit]; 03.04.09.06-03 [0.95000000] [prohibit a person from doing something]; 01.15.11.03.02-02 [1.00000000] [from an action/purpose etc]	03.04.09.06 [Prohibit]; 03.04.09.06-03 [prohibit a person from doing something]; 01.15.11.03.02-02 [from an action/purpose etc]	BB.09.f [Prohibition]; AO.12.c.02 [Hindering completely/preventing]; 					
+by	by	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Decree	decree	NN1	Q2.2 G2.1	0	01.17.04.01.03-08 [0.87500000] [decree]; 03.05-11 [0.94444444] [edict/decree/ordinance/institute]; 03.05.12.06.05-02 [0.96153846] [judgement/decision of court];	03.05-11 [edict/decree/ordinance/institute]; 03.05.12.06.05-02 [judgement/decision of court]	AQ.04.a.03 [Activities of God]; BC [Law]; BC.09.f.05 [Judging]; 					
+made	make	VVN	A1.1.1 A9+ A2.2	0	01.01.05.09.02.01-02 [1.00000000] [ebb/flow]; 01.01.05.09.02.01-03 [1.00000000] [flow in]; 01.11.02-05 [1.00000000] [construct];	01.01.05.09.02.01-02 [1.00000000] [ebb/flow]; 01.01.05.09.02.01-03 [1.00000000] [flow in]; 01.11.02-05 [1.00000000] [construct];	AA.04.g [Flowing water]; AK.02 [Creation]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Court	court	NN1	G2.1 H3 M7/K5.2	0	03.13.04.13.16.10-03 [0.95238095] [court]; 03.05.12.01 [0.95454545] [Judicial body/assembly/court]; 03.04.06.13.09.01-14 [1.00000000] [assembly held by sovereign];	03.05.12.01 [Judicial body/assembly/court]; 03.04.06.13.09.01-14 [assembly held by sovereign];	BK.08.v.08 [Racket games]; BC.09.a [Judicial body/assembly/court]; BB.06.h.09 [Deliberative/legislative/administrative assembly]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Parliament	parliament	NN1	G1.1	0	03.05.12.01-38 [0.95238095] [courts in France]; 03.05.08.01-13.03 [0.95454545] [consultative assembly of]; 03.03.19.01.01-03 [0.95652174] [peace talks/conference];	03.05.12.01-38 [courts in France]; 03.04.06.13.09.03	BC.09.a [Judicial body/assembly/court]; BC.05.a [Lawyer]; BA.18.a.01 [Peace treaty]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+sort	sort	NN1	A4.1	0	01.16.02-04 [0.93333333] [a kind/sort/class];	01.16.02-04 [a kind/sort/class]	AP.02 [Kind/sort]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+speake	speake	VVI	Z99	0	NULL	02.07.03 [Speak/say/utter]	04.10 [] 					
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.03 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+shunne	shunne	NN1	Z99	0	NULL	01.15.09.02.01-12 [avoid/shun]; 01.14.05.05-11.02.02 [to escape/evade something]; 01.14.05.13-09 [run away from]	04.10 [] 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+auoid	auoid	NN1	Z99	0	NULL	01.12.01.01-05 [avoid/shun]; 01.15.09.02.01-12 [avoid/shun]; 03.01.04.06-02 [avoid]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+tumult	tumult	NN1	E3- X2.5- X5.2+	0	01.16.03.02.01.03 [0.94444444] [Commotion/disturbance/disorder]; 01.09.09.02.03.01.03-01 [0.95652174] [uproar/tumult]; 01.14.02.03 [1.00000000] [Irregular movement/agitation];	01.16.03.02.01.03 [Commotion/disturbance/disorder]; 01.09.09.02.03.01.03-01 [uproar/tumult]; 03.04.10.01.01-03;	AP.03.b.01.c [Commotion/disturbance/disorder]; AI.15.c.01 [Loudness]; AN.02.c [Irregular movement/agitation]; 	e construction 'in and sort' is not found in OED, HT or EEBO. Most probably a typo for 'in any sort', so I have assumed that in suggesting the correct tag				
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+commotion	commotion	NN1	E3- X5.2+	0	01.16.03.02.01.03 [0.94444444] [Commotion/disturbance/disorder]; 01.14-06 [1.00000000] [continuous/recurrent motion]; 01.14.02.03 [1.00000000] [Irregular movement/agitation];	01.16.03.02.01.03 [Commotion/disturbance/disorder]; 01.14-06 [continuous/recurrent motion]; 01.14.02.03 [Irregular movement/agitation];	AP.03.b.01.c [Commotion/disturbance/disorder]; AN [Movement]; AN.02.c [Irregular movement/agitation]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+people	people	NN	S2mfc	0	01.04 [0.87500000] [People]; 01.04.03 [0.88888889] [People collectively]; 03.01.06.02 [0.94117647] [The common people];	01.04 [People]; 01.04.03 [People collectively]; 03.01.06.02	AD [People]; AD.02 [People collectively]; AY.06.b [The common people]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+But	but	CCB	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+so	so	CS	Z5	0	01.11.03.01 [Cause/reason]; 04.03 [];	01.11.03.01 [Cause/reason]; 04.03 []	AK.03.a [Cause/reason]; ZC [Grammatical Item];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+is	be	VBZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+vpon	vpon	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+Saturday	saturday	NPD1	T1.3	0	01.13.04.04.01-07 [Specific daysSaturday]	01.13.04.04.01-07 [Specific daysSaturday]	AM.04.d [A day/twenty-four hours] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+23	23	MC	N1 T1.2 T3	0	01.16.04 [Number]	01.16.04 [Number]	AP.04 [Number];					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+October	october	NPM1	T1.3	0	01.13.04.02.01-11 [0.92857143] [October]; 01.07.02.02.03.01-09 [1.00000000] [other kinds of beer];	01.13.04.02.01-11 [October]	AM.04.b [A month/calendar month]; AG.01.y.01.b [Ale/beer]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+about	about	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+one	one	MC1	N1 T1.2 T3	0	01.16.04 [Number]	01.16.04 [Number]	AP.04 [Number];					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+clocke	clocke	NN1	Z99	0	NULL	01.13.07-01 [In a manner measuring time, o'clock]	04.10 [] 					
+after	after	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+midnight	midnight	NNT1	T1.2	0	01.13.05.02-06 [0.92857143] [midnight]; 02.01.12.07.02-02 [1.00000000] [period of]; 02.04.11.08-11 [1.00000000] [period of darkness/gloom];	01.13.05.02-06 [midnight]	AM.05.b [Night]; AR.37 [Ignorance]; AU.21 [Dejection	 depression	 melancholy]; 			
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.01.07.04.02-08 [0.88888889] [volcanic fire]; 01.10.01.01-03 [0.93750000] [fire]; 01.10.08-10.01 [0.93750000] [resembling fire/flame];	01.10.01.01-03 [fire]	AA.08.a.04 [Ejected volcanic material]; AJ.01 [Alchemy]; AJ.08 [Light]; 					
+began	begin	VVD	T2+	0	02.07.03-18 [0.93750000] [begin to speak]; 01.15.03.02 [0.94117647] [Begin action/activity]; 01.16.03.03.02 [0.94444444] [Begin];	01.15.03.02 [Begin action/activity]	AX.03 [Speech]; AO.04 [Beginning action/activity]; AP.03.c.02 [Beginning]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+such	such	DA	Z5 Z8	0	01.16.02-02 [of a certain kind]; 04.03 [];	01.16.02-02 [of a certain kind]; 04.03 []	AP.02 [Kind/sort]; ZC [Grammatical Item];					
+manner	manner	NN1	S1.1.1 X4.2	0	01.15.20 [0.91666667] [Manner of action]; 03.13.03.04.05 [0.96000000] [Style of language/writing]; 03.13.03.04.05.10-08 [0.96296296] [affectation];	01.15.20 [Manner of action]	AO.21 [Manner of action]; BK.06.e [Style of language/writing]; BK.06.e.10 [Inelegance]; 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+flame	flame	NN1	O4.6+ S3.2/S2mf Q2.2%	0	01.10.03.03.02.03.02-09.14 [0.90000000] [a flame]; 01.10.03.03.02.03.02-09 [0.90000000] [flame/blaze]; 02.04.13.10-20.01 [0.95000000] [(of love) a flame/burning passion];	01.10.03.03.02.03.02-09.14 [a flame]; 01.10.03.03.02.03.02-09 [flame/blaze]	AJ.03.c.02.c [Burning	 fire	 flame	 ash]; AU.29 [Amorous love]; 		
+out	out	RP	M6	0	01.14.05.11 [0.93333333] [Out (of motion)];	01.14.05.11 [Out (of motion)]	AN.05.k [Going/coming out]; 					
+vpon	vpon	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+Merchants	merchant	NN2	I2.2/S2mf	0	03.12.10.02 [0.84615385] [Merchant]; 01.04.04.01 [1.00000000] [Man]; 01.06.13.09.02.01-05.03.04 [1.00000000] [other types of];	03.12.10.02 [Merchant]; 04.01.03 [other proper name]	BJ.01.h.02 [Merchant]; AD.03.a [Man]; AF.20 [Particular food plant/product]; 					
+Bridge	bridge	NN1	H1 W3 A2.2/S3.1	0	01.03.03.17-13.04 [0.93333333] [bridge]; 01.16.01-10 [0.93750000] [that which connects/bond]; 03.13.03.03.04.06-23 [0.94736842] [bridge];	03.10.03.01.03-04 [means of travel: bridge]; 04.01.03 [other proper name]	AC.02.m [Dentistry]; AP.01 [Relation/relationship]; BK.05.d.06 [Equipment for painting/drawing]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+inhabitants	inhabitant	NN2	H4/S2mf	0	03.02.06 [0.92857143] [Inhabitant]; 01.04.07.15.01.01-11 [1.00000000] [specific state];	03.02.06 [Inhabitant]	AZ.05 [Inhabitant]; AD.15.j.02 [Native/inhabitant of U.S.A.]; 					
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.03 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+were	be	VBDR	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+surprized	surprized	JJ	Z99	0	NULL	02.01.14.02-05 [taken unawares]; 02.01.14.02-04; 02.01.14.02	04.10 [] 					
+sleeping	sleeping	NN1	B1 H4/N5	0	01.09.02.01-10 [0.95833333] [action/fact/state of sleeping/falling asleep];	01.09.02.01-10 [action/fact/state of sleeping/falling asleep]	AI.08.a [Sleep]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+beds	bed	NN2	H5 L3	0	01.09.02.01.01 [0.90000000] [Bed related to sleep/rest]; 01.01.05.07-03 [0.93333333] [bed of]; 03.02.07.03.09.09 [0.94117647] [Bed];	01.09.02.01.01 [Bed related to sleep/rest]; 03.02.07.03.09.09;	AI.08.a.01 [Bed related to sleep/rest]; AA.04.d [Lake]; AZ.06.f.05.h [Bed]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+before	before	CS	Z5	0	01.13.08.04.03 [Antecedence]; 04.03 [];	01.13.08.04.03 [Antecedence]; 04.03 []	AM.08.c.02 [Antecedence/being earlier]; ZC [Grammatical Item];					
+they	they	PPHS2	Z8mfn	0	04.06 [];	04.06 [];	ZF [Pronoun];					
+heard	hear	VVD	X3.2 X2.3+ G2.1@	0	01.09.09 [0.90909091] [Hear]; 02.07.03.13.01-01 [0.95238095] [concede to/comply with]; 03.05.12.06.04 [0.96153846] [Try/hear cause];	01.09.09 [Hear]	AI.15 [Hearing/noise]; AX.14 [Agreement	 consent]; BC.09.f.04 [Trying/hearing of cause]; 				
+or	or	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+perceiued	perceiue	VVD	Z99	0	NULL	02.01.07 [Perceive]; 02.01.07.02 [Recognize, acknowledge]; 01.09 [Apprehend by sensuous perception];	04.10 [] 					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.10.01.01-03 [0.93333333] [fire]; 01.10.08-10.01 [0.93333333] [resembling fire/flame]; 01.17.04.07-07 [0.93333333] [fire of];	01.10.01.01-03 [fire]	AJ.01 [Alchemy]; AJ.08 [Light]; AQ.04.g [Hell]; 					
+(	PUNC	YBL	PUNC	0	NULL	NULL						
+which	which	DDQ	Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+met	meet	VVD	S3.1 M6 A1.1.1	0	01.14.05.12.01 [0.94117647] [Meet]; 03.03.02.01-01 [0.94444444] [meet in battle]; 01.14.05.12.01-03 [0.94736842] [person(s)];	01.14.05.12.01 [Meet]; 01.12.01.02-06 [be near: be in contact]; 01.11.04-01 [befall: encounter/experience]	AN.05.l.01 [Meeting/encounter]; BA.02.a [Contending in battle]; 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+nothing	nothing	PN1	Z6/Z8	0	04.04 [];	04.04 []	ZD [Negative];					
+else	else	RR	A6.1- Z4	0	01.16.01.05-07 [0.94444444] [else/otherwise/under other conditions]; 01.16.06.05.01-02.01 [0.95454545] [besides/else]; 01.12.06-02.07.01 [1.00000000] [to/towards another place];	01.16.01.05-07 [else/otherwise/under other conditions]; 01.16.06.05.01-02.01 [besides/else]	AP.01.e [Contrariety/contrast]; AP.06.c.01 [Addition/supplementation]; AL.06 [Direction]; 					
+but	but	CCB	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+which	which	DDQ	Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+was	be	VBDZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+combustible	combustible	JJ	E6- A12- O4/A15-	0	01.10.03.03.02.03-06 [0.92000000] [able to be burnt/combustible]; 03.11.12.04.09 [0.95000000] [Combustible/inflammable]; 01.10.03.03.02.03 [1.00000000] [Burning/on fire];	01.10.03.03.02.03-06 [able to be burnt/combustible]; 03.11.12.04.09 00] [Combustible/inflammable]; 01.10.03.03.02.03 [Burning/on fire];	AJ.03.c.02.c [Burning	 fire	 flame	 ash]; BI.12.c [Fuel]; 		
+)	PUNC	YBR	PUNC	0	NULL	NULL						
+increased	increase	VVD	N5+/A2.1	0	01.16.06.05 [0.93333333] [Increase in quantity/amount/degree];	01.16.06.05 [Increase in quantity/amount/degree]	AP.06.c [Increase in quantity/amount/degree]; 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+such	such	DA	Z5 Z8	0	01.16.02-02 [of a certain kind]; 04.03 [];	01.16.02-02 [of a certain kind]; 01.16.06.01-01 [quantity/degree]; 04.03 []	AP.02 [Kind/sort]; ZC [Grammatical Item];					
+Newes	newe	NN2	Z99	0	NULL	03.09.05.09 [News/tidings]; 03.09.05.09-01 [piece of]	04.10 [] 					
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+France	france	NP1	Z2	0	04.01.02 [Geographical Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+impetuositie	impetuositie	NN1	Z99	0	NULL	01.15.20.03-01 [instance of]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+in	in	II	T1.3-	03:04:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	T1.3-	03:04:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+short	short	JJ	T1.3-	03:04:03	01.13.02.02 [0.72727273] [Short/brief]; 01.13.02.02-02 [0.82352941] [thankfully/regretfully short]; 01.13.08.02-04 [0.84615385] [short (of notice)];	01.13.02.02 [Short/brief]	AM.02.b [Shortness/brevity in time]; AM.08.a [Immediacy]; 					
+time	time	NNT1	T1.3-	03:04:04	01.13-03 [0.84615385] [stretch/period/portion of time]; 01.13 [0.87500000] [Time]; 01.13.03 [0.88888889] [Particular time];	01.13-03 [stretch/period/portion of time]; 01.13 [Time]	AM [Time]; AM.03 [Particular time]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+all	all	DB	N5.1+	0	01.16.07.02 [0.87500000] [All/the whole amount of]; 01.13.02-05 [0.88888889] [while something lasts/during]; 01.16.02.01-04 [0.91666667] [affecting all indiscriminately];	01.16.07.02 [All/the whole amount of]	AP.07.b [The whole/all]; AM.02 [Duration]; AP.02.a [Generality]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+houses	house	NN2	H1 P1/S5+c G1.1c	0	03.02.07.03 [0.93750000] [A building]; 03.01.01.02.04 [0.95238095] [Stock/race/family]; 03.02.07.02 [1.00000000] [Dwelling-place/abode];	03.02.07.03 [A building]; 03.02.07.02 [Dwelling-place/abode]; 03.02.07.02.06.01	AZ.06.f [A building]; AY.01 [Kinship/relationship]; AZ.06.e [Dwelling-place/abode]; 					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+stodd	stodd	VV0	Z99	0	NULL	01.12.05.26.03 [Have specific position/arrangement, Rise/be standing]; 01.12.04.01	04.10 [] 					
+vpon	vpon	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+said	said	JJ	Z99	0	02.07.03-04.02 [1.00000000] [aforementioned]; 02.07.03-04.02 [1.00000000] [aforementioned];	02.07.03-04.02 [aforementioned]	AX.03 [Speech]; 					
+bridge	bridge	NN1	H1 W3 A2.2/S3.1	0	01.03.03.17-13.04 [0.93333333] [bridge]; 01.16.01-10 [0.93750000] [that which connects/bond]; 03.13.03.03.04.06-23 [0.94736842] [bridge];	03.10.03.01.03-04 [means of travel: bridge]	AC.02.m [Dentistry]; AP.01 [Relation/relationship]; BK.05.d.06 [Equipment for painting/drawing]; 					
+on	on	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+both	both	DB2	N5.1+	04:02:01	01.16.04.01.02-07 [0.93333333] [both];	01.16.04.01.02-07 [0.93333333] [both]	AP.04.b [Two]; 					
+sides	side	NN2	N5.1+	04:02:02	01.12.05.12-02 [0.93750000] [the side of anything]; 01.12.06-07 [0.94444444] [direction to either side of something]; 03.01.04.05 [1.00000000] [Party/faction];	01.12.05.12-02 [the side of anything]; 01.12.06-07 [direction to either side of something]; 01.12.05.12-04.01.01 [quality of having sides/being a side: space lying to either hand]	AL.05.l [Quality of having sides/being a side]; AL.06 [Direction]; AY.04.e [Party/faction]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+were	be	VBDR	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+on	on	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]; 01.10.03.03.02.03	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.17.04.07-07 [0.84615385] [fire of]; 01.10.01.01-03 [0.92857143] [fire]; 01.10.08-10.01 [0.92857143] [resembling fire/flame];	01.10.01.01-03 [fire]; 01.10.03.03.02.03; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AQ.04.g [Hell]; AJ.01 [Alchemy]; AJ.08 [Light]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+by	by	II	Z5	0	04.03 [Grammatical]	[MWE] 01.11.03.06-04 [Effect/result as a consequence of]; 01.15.14.01.01.04	ZC [Grammatical Item];					
+meanes	meane	NN2	Z99	0	NULL	[MWE] 01.11.03.06-04 [Effect/result as a consequence of]; 01.15.14.01.01.04; 01.15.14.01.01.04-04	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	[MWE] 01.11.03.06-04 [Effect/result as a consequence of]; 01.15.14.01.01.04	ZC [Grammatical Item];					
+certaine	certaine	NN1	Z99	0	NULL	01.16.02.02.03-01 [Specific, a particular/certain]	04.10 [] 					
+beames	beame	VVZ	Z99	0	NULL	03.02.07.03.06.01-05 [Inhabited place, framework of building, roof-beam]; 01.12.05.09-04.16; 03.11.12.02.06.02-07	04.10 [] 					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+lay	lay	VV0	M2 M1 L2	0	  impute]; 03.12.18-04 [0.93750000] [lay down money]; 01.12.05.26.08-04 [0.94444444] [lay down/cause to lie down];02.02.06.05-08 [0.90909091] [lay to one's charge	01.12.05.15 [Have specific position/arrangement, be placed horizontally]; 01.12.02-05; 01.12.04.01	AS.06 [Accusation	 charge]; BJ.01.p [Payment]; AL.05.w.04 [Action/fact of lying down/reclining]; 				
+crosseouer	crosseouer	VV0	Z99	0	NULL	01.14.05.09-07 [Move over/across/through/past, across]; 01.12.05.18.01-04	04.10 [] 					
+one	one	PN1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+another	another	DD1	A6.1- N5++	0	4.1	04.06 []	ZZ [Unrecognised] 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+The	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Change	change	NN1	A2.1+ I1 B1	0	01.13.11 [0.85714286] [Change]; 01.13.11-01 [0.90000000] [a change]; 03.12.15.02-06.02 [1.00000000] [as surplus (after payment)];	01.11.01.07 [be/remain in specific state/condition]; 03.12.13.06-09	periphrastic auxiliary 'do' marked as grammatical after discussion with Fraser					
+Bridge	bridge	NN1	H1 W3 A2.2/S3.1	0	01.03.03.17-13.04 [0.92857143] [bridge]; 03.13.03.03.04.06-23 [0.94444444] [bridge]; 03.13.03.02.08.02.04-06 [0.94736842] [bridge];	03.10.03.01.03-04 [means of travel: bridge]; 04.01.03 [other proper name]	AC.02.m [Dentistry]; BK.05.d.06 [Equipment for painting/drawing]; BK.04.h.02.b [Lute-/viol-type parts]; 					
+did	do	VDD	A1.1.1 G2.2- X9.2+	0	01.15.02 [0.90909091] [Act/do]; 01.11.01.07-05 [1.00000000] [fare/get on]; 01.15.06 [1.00000000] [Carry out];	04.03 [Grammatical]	AO.02 [Doing]; AK.01.g [State/condition]; AO.07 [Carrying out]; 					
+no	no	AT	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+less	less	DAR	N5--	0	01.16.06.07-12 [0.94444444] [less]; 01.12.02.04.02-04 [1.00000000] [smaller]; 01.16.04.02.01-04 [1.00000000] [fewer];	01.16.06.07-12 [less]	AP.06.d [Smallness of quantity/amount/degree]; AL.02.d.02 [Smallness]; AP.04.i.01 [Fewness]; 					
+feele	feele	NN1	Z99	0	NULL	01.09.05 [Perceive by touch/feeling]; 01.15.01-17; 02.01.12.01.01	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+force	force	NN1	E3- S7.1+ G2.1c	0	01.10.07.01.01 [0.91666667] [Force]; 01.15.20.01 [0.93750000] [Vigour/energy]; 03.04.09.04.03 [1.00000000] [Compulsion];	01.10.07.01.01 [Force]; 01.15.20.01 [Vigour/energy]	AJ.07.a.01 [Force]; AO.21.a [Vigour/energy]; BB.09.d.03 [Compulsion]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+vigour	vigour	NN1	X5.2+ S1.2.5+ O4.1	0	03.13.03.04.05.05 [0.92307692] [Vigour/force]; 01.15.20.01 [0.94117647] [Vigour/energy]; 01.03-04.17.02 [0.94444444] [state of greatest strength];	01.15.20.01 [Vigour/energy]; 01.15.14.02-08 [intensity of effect]	BK.06.e.05 [Vigour/force]; AO.21.a [Vigour/energy]; AC.01 [Health and disease]; 					
+which	which	DDQ	Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+said	said	JJ	Z99	0	02.07.03-04.02 [1.00000000] [aforementioned]; 02.07.03-04.02 [1.00000000] [aforementioned];	02.07.03-04.02 [aforementioned]	AX.03 [Speech]; 					
+fire	fire	NN1	O4.6+	0	01.10.01.01-03 [0.93333333] [fire]; 01.10.08-10.01 [0.93333333] [resembling fire/flame]; 01.17.04.07-07 [0.93333333] [fire of];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AJ.01 [Alchemy]; AJ.08 [Light]; AQ.04.g [Hell]; 					
+vomited	vomit	VVD	B2-	0	01.14.05.11-17 [0.93333333] [violently]; 01.14.05.11.01-04 [0.94117647] [eject]; 01.14.05.11.01-03.10 [0.94736842] [in large numbers];	01.14.05.11.01-04 [eject]; 01.03.01.04.18.03-04	AN.05.k [Going/coming out]; AN.05.k.01 [Letting/sending out]; 					
+out	out	RP	M6	0	01.14.05.11 [0.92307692] [Out (of motion)];	01.14.05.11 [Out (of motion)]	AN.05.k [Going/coming out]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+by	by	II	Z5	0	04.03 [Grammatical]	[MWE] 01.11.03.06-04 [Effect/result as a consequence of]; 01.15.14.01.01.04	ZC [Grammatical Item];					
+meanes	meane	NN2	Z99	0	NULL	[MWE] 01.11.03.06-04 [Effect/result as a consequence of]; 01.15.14.01.01.04; 01.15.14.01.01.04-04	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	[MWE] 01.11.03.06-04 [Effect/result as a consequence of]; 01.15.14.01.01.04	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+flames	flame	NN2	O4.6+ Q2.2	0	01.10.03.03.02.03.02-09.14 [0.88888889] [a flame]; 01.10.03.03.02.03.02-09 [0.88888889] [flame/blaze]; 02.04.13.10-20.01 [0.94444444] [(of love) a flame/burning passion];	01.10.03.03.02.03.02-09.14 [a flame]; 01.10.03.03.02.03.02-09 [flame/blaze]	AJ.03.c.02.c [Burning	 fire	 flame	 ash]; AU.29 [Amorous love]; 		
+issuing	issue	VVG	A9- Q2.2 Q1.2	0	02.06.12-14.01 [0.84615385] [authoritatively]; 02.06.12.03 [0.92307692] [Distribute/deal out]; 01.12.05.17.02-03.02 [0.93333333] [branch off/out];	01.14.05.11 [Move in a certain direction Go/come out]; 01.12.05.17.02-03.02 [branch off/out]	AW.11 [Giving]; AW.11.c [Distributing	 sharing out]; AL.05.p [Inclination]; 				
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+same	same	DA	A6.1+++	0	01.16.01.04-02.02 [0.85714286] [same that]; 01.16.01.04 [0.91666667] [Same]; 01.16.01.04-02.01 [0.93333333] [same as];	01.16.01.04 [Same]; 01.16.01.04-02.01 [same as]; 01.16.01.04-02	AP.01.d [Identity]; 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+descending	descending	JJ	M6 N5-/A2.1	0	01.01.10.04.01-05 [1.00000000] [setting]; 01.13.08.05.02-02 [1.00000000] [succeeding/subsequent]; 01.12.06.01-04.03 [1.00000000] [extending downwards];	01.12.06.01-04.03 [extending downwards]; 01.14.05.08;	AA.10.d [Heavenly body]; AM.08.d.01 [Succession/following in time]; AL.06.a [Specific directions]; 					
+downe	downe	NN1	Z99	0	NULL	 [MWE] 01.12.06.01-03 [Specific directions in a downward direction upon]; 01.14.05.08; 01.12.06.01-04	04.10 [] 					
+to	to	II	Z5	0	04.03 [Grammatical]	 [MWE] 01.12.06.01-03 [Specific directions in a downward direction upon]; 4.03	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+foundations	foundation	NN2	T2+ H2 S5+c	0	03.05.18.05-11.03 [0.90000000] [an endowment]; 03.01.05.01-03 [0.90909091] [philanthropic society]; 03.05.19.01-14 [0.91304348] [document creating a corporation];	03.02.07.03.06-12 [Inhabited place Parts of building foundations]; 01.12.05.08-05.02.03	BC.15.c [Settlement of property]; AY.05.a [Philanthropy]; BC.16 [Legal document]; 					
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.03 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+in	in	II	N4	05:03:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	N4	05:03:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+end	end	NN1	N4	05:03:03	02.05.04-03.06 [0.80000000] [end/purpose/object]; 01.16.03.03.04 [0.81250000] [End/conclusion]; 01.12.05.13 [0.88235294] [End/extremity];	01.16.03.03.04 [End/conclusion]; 01.11.03.06-09 [Causation Effect/result/consequence outcome]	AV.03 [Intention]; AP.03.c.03 [End/conclusion]; AL.05.m [End/extremity]; 					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+burnt	burn	VVD	O4.6+ E1	0	01.03.01.08-06 [0.80000000] [burn/scald]; 03.04.12.03-14 [0.81818182] [burn]; 02.04.13.10-02 [0.83333333] [inflame with love/desire];	01.10.03.03.02.03 [Burn/consume by fire]	AC.01.e [Injury]; BB.12.c [Capital punishment]; AU.29 [Amorous love]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+cast	cast	VV0	K4 A4.1 M2	0	02.05.04.01 [0.90000000] [Plan]; 02.05.04 [0.90000000] [Intend]; 02.05.05 [0.92307692] [Decide];	01.12.04.05-16 [Place/put in a position forcibly/firmly/quickly]; 01.12.06-04; 01.14.07.01	AV.03.a [Planning]; AV.03 [Intention]; AV.04 [Decision]; 					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+water	water	NN1	O1.2 W3/M4 B1	0	01.01.05 [0.90000000] [Water]; 01.02.03.20.08.06 [1.00000000] [Urine];	01.01.05 [Water]	AA.04 [Water]; AB.17.o.03 [Excretions]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+all	all	DB	N5.1+	0	01.16.07.02 [0.94117647] [All/the whole amount of]; 01.16.02.01-04 [0.96000000] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+houses	house	NN2	H1 P1/S5+c G1.1c	0	03.02.07.02 [1.00000000] [Dwelling-place/abode]; 03.12.10-24 [1.00000000] [trading firm/establishment]; 03.02.07.03 [1.00000000] [A building];	03.02.07.02 [Dwelling-place/abode]; 03.02.07.03 [A building]; 03.02.07.02.06.01	AZ.06.e [Dwelling-place/abode]; BJ.01.h [Trader]; AZ.06.f [A building]; 					
+standing	stand	VVG	M6 M2 M8	0	02.07.03.13.03-02 [0.93750000] [abide by]; 02.07.03.13.03-02.01 [0.94444444] [offer to abide by]; 01.07.04.01.01-04 [1.00000000] [point];	01.12.04.01-02 [Be positioned/situated, of a country, building, etc.]; 01.12.04.01	AX.15 [Promise	 pledge]; AG.03.a [Hunting with hounds]; 				
+thereon	thereon	RR	M6 Z5	0	01.13.08.05-10.01 [1.00000000] [immediately afterwards]; 01.12.04.05-01 [1.00000000] [on/in contact with a surface/position]; 01.12.04.05.01 [1.00000000] [Into what/which place];	01.12.04.05-01 [on/in contact with a surface/position] 	AM.08.d [The future/time to come]; AL.04.e [Placing/fact of being placed in (a) position]; AL.04.e.01 [Insertion/putting in]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+together	together	RL	S5+ T1.1.2 M6	0	01.16.01.12-01 [0.93750000] [together]; 01.16.04.09-02.01 [0.94117647] [together]; 01.14.05.12-05 [0.94444444] [together (expressing motion)];	01.16.01.12-01 [together]	AP.01.l [Accompaniment]; AP.04.p [Arithmetic/algebraic operations]; AN.05.l [Movement towards a thing/person/position]; 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.94117647] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.16.06.03 [Great in quantity/amount/degree]; 01.12.02.04.01 [Large]	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+riches	riches	NN2	I1.1+++	0	02.06.05.01 [0.93750000] [Wealth/riches]; 02.03.01.11 [1.00000000] [Worth];	02.06.05.01 [Wealth/riches]	AW.03 [Wealth]; AT.05 [Worth	 merit]; 				
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+inhabitants	inhabitant	NN2	H4/S2mf	0	03.02.06 [0.91666667] [Inhabitant]; 01.04.07.15.01.01-11 [1.00000000] [specific state];	03.02.06 [Inhabitant]	AZ.05 [Inhabitant]; AD.15.j.02 [Native/inhabitant of U.S.A.]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+by	by	II	Z5	0	04.03 [Grammatical]	 [MWE] 01.16.06.07-12 [Small of quantity/amount/degree not at all]	ZC [Grammatical Item];					
+no	no	AT	Z6	0	04.04 [];	 [MWE] 01.16.06.07-12 [Small of quantity/amount/degree not at all]	ZD [Negative];					
+meanes	meane	NN2	Z99	0	NULL	 [MWE] 01.16.06.07-12 [Small of quantity/amount/degree not at all]; 01.15.14.01.01.04-04	04.10 [] 					
+could	can	VM	A7+	0	02.01.13.08.09 [Expressing possibility]; 01.15.22 [Be able to]	02.01.13.08.09 [Expressing possibility]; 01.15.22 [Be able to]	AR.48.c [Possibility	 probability]; AO.23 [Ability];				
+saue	saue	VVI	Z99	0	NULL	01.15.15.02-09 [Make save/secure, rescue/deliver (from), property from fire, etc.]; 01.15.15.01.01 	04.10 [] 					
+any	any	DD	N5.1+	0	01.16.06-03 [0.88888889] [some/any]; 01.16.02.01-10.06.01 [0.91304348] [any]; 01.16.02.01-10.06 [0.91304348] [of any kind];	01.16.06-03 [some/any]; 01.16.02.01-10.06.01 [any]; 01.16.02.01-10.06 [of any kind]	AP.06 [Quantity]; AP.02.a [Generality]; 					
+thing	thing	NN1	O2 X4.1 A7-	0	01.11.01-09 [0.93750000] [entity/being/thing];	01.11.01-09 [entity/being/thing]	AK.01 [Existence]; 					
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.03 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+by	by	II31	A2.2	06:03:01	[MWE] 01.11.03.01-05 [0.86666667] [Cause/reason because of]; 01.16.01-04 [0.93333333] [Relation in respect of/with regard to];	[MWE] 01.11.03.01-05 [Cause/reason because of]; 01.16.01-04 [Relation in respect of/with regard to]	AK.03.a [Cause/reason]; AP.01 [Relation/relationship]; 					
+reason	reason	II32	A2.2	06:03:02	[MWE] 01.11.03.01-05 [0.86666667] [Cause/reason because of]; 01.16.01-04 [0.93333333] [Relation in respect of/with regard to];	[MWE] 01.11.03.01-05 [Cause/reason because of]; 01.16.01-04 [Relation in respect of/with regard to]	AK.03.a [Cause/reason]; AP.01 [Relation/relationship]; 					
+of	of	II33	A2.2	06:03:03	[MWE] 01.11.03.01-05 [0.86666667] [Cause/reason because of]; 01.16.01-04 [0.93333333] [Relation in respect of/with regard to];	[MWE] 01.11.03.01-05 [Cause/reason because of]; 01.16.01-04 [Relation in respect of/with regard to]	AK.03.a [Cause/reason]; AP.01 [Relation/relationship]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+smoake	smoake	NN1	Z99	0	NULL	01.10.03.03.02.03.03-08 [smoke]	04.10 [] 					
+and	and	CC	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+heate	heate	NN1	Z99	0	NULL	01.10.03.03.02 [Heat]; 01.10.03.03.02.03.01 [A fire]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+hurt	hurt	JJ	B2- E4.1- A1.1.2	0	4.1	01.15.17-02.09 [Cause/effect harm: affect detrimentally]	ZZ [Unrecognised] 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+choked	choke	VVD	S8- A1.1.2 G2.1-	0	01.06.03-01 [0.93333333] [strangle/choke]; 01.10.03.03.03.03-06 [0.94736842] [choke/smother (a fire)]; 01.03.01.04.18.13-01 [0.95238095] [choke];	01.03.01.04.18.13-01 [choke]	AF.03 [Valued plants and weeds]; AJ.03.c.03.c [Extinguishing fire]; AC.01.b.05 [Disordered breathing]; 					
+diuers	diuer	NN2	Z99	0	NULL	01.16.04.02-01 [Plurality, more than one/person/thing]	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+people	people	NN	S2mfc	0	01.04 [0.90000000] [People]; 01.04.03 [0.90909091] [People collectively]; 03.01.06.02 [0.94736842] [The common people];	01.04 [People]; 01.04.03 [People collectively]	AD [People]; AD.02 [People collectively]; AY.06.b [The common people]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+some	some	DD	N5 Z5	0	01.16.06-03 [0.94736842] [some/any]; 01.16.06-03.01 [0.95000000] [some at least]; 01.16.02.01-10.07 [0.95833333] [some kind of/some];	01.16.06-03 [some/any]; 01.16.06-03.01 [some at least]	AP.06 [Quantity]; AP.02.a [Generality]; 					
+men	man	NN2	S2.2m	0	01.04.04.01 [0.90909091] [Man]; 01.04.04.01-05 [0.92857143] [men collectively];	 01.04.04.01-05 [men collectively]; 01.04.04.01	AD.03.a [Man]; 					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+were	be	VBDR	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+burnt	burn	VVN	O4.6+ E1	0	03.04.12.03-14 [0.91666667] [burn]; 01.10.08.07.01-01 [0.93333333] [burn/shine]; 02.04.06.01-03 [0.93333333] [burn with passion];	01.10.03.03.02.03 [Burn/consume by fire]; 01.03.01.08-06; 01.10.03.03.02.01.02	BB.12.c [Capital punishment]; AJ.08.g [Artificial light]; AU.04 [Intense emotion]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+fell	fall	VVD	M1 N5-/A2.1 S7.1-	0	01.14.05.08.01 [0.92857143] [Fall]; 01.14.05.08.01 [0.93750000] [Fall down (something)]; 01.12.06-04 [0.94117647] [cause to fall in specific direction];	01.14.05.08.01 [Fall];  01.12.06-04 [cause to fall in specific direction]	AN.05.h.01 [Falling]; AL.06 [Direction]; 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+beames	beame	NN2	Z99	0	NULL	03.02.07.03.06.01-05 [Inhabited place, framework of building, roof-beam]; 01.12.05.09-04.16;  03.11.12.02.06.02-07	04.10 [] 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+peeces	peece	NN2	Z99	0	NULL	01.16.07.04.01-19.02 [a piece/bit]; 01.16.07.04.01	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+wood	wood	NN1	O1.1 W3/L3	0	01.06.10.16.01 [0.93750000] [Wood]; 01.06.10.16.01-02 [0.94444444] [young wood/alburnum]; 03.11.12.02.06 [0.94736842] [Wood];	01.06.10.16.01 [Wood]; 03.11.12.02.06 [Wood]	AF.10.l [Wood	 other part of tree/woody plant]; BI.12.a.04 [Wood]; 				
+all	all	RR	A13.2	0	01.05.19.06.02.10-03 [1.00000000] [without deviation]; 01.16.07.01-07 [1.00000000] [entirely/altogether/completely]; 02.01.12.08.02.01-05 [1.00000000] [exactly so just];	01.16.07.01-07 [entirely/altogether/completely]	AE.14.j.05 [Horse defined by speed/gait]; AP.07.a [Completeness]; AR.38.a [Accuracy	 precision]; 				
+burning	burn	VVG	O4.6+ E1 A1.5.1	0	03.04.12.03-14 [0.91666667] [burn]; 01.10.08.07.01-01 [0.93333333] [burn/shine]; 02.04.06.01-03 [0.93333333] [burn with passion];	01.10.03.03.02.03 [Burn/consume by fire]	BB.12.c [Capital punishment]; AJ.08.g [Artificial light]; AU.04 [Intense emotion]; 					
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+river	river	NN1	W3/M4 N5+	0	01.01.05.02-02 [0.91666667] [river]; 01.02.04-28 [1.00000000] [boundary between life and death]; 01.07.04.11 [1.00000000] [Hawking];	01.01.05.02-02 [river]	AA.04.b [Rivers	 streams]; AB.18 [Death]; AG.03.h [Hawking]; 				
+.	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+You	you	PPY	Z8mf	0	04.06 [];	04.06 []	ZF [Pronoun];					
+may	may	VM	A7+	0	01.15.22 [1.00000000] [Be able to]; 01.15.22-01 [1.00000000] [is/are able to/capable of]; 02.01.13.08.09 [1.00000000] [Expressing possibility];	01.15.22 [Be able to]; 01.15.22-01 [is/are able to/capable of]; 02.01.13.08.09 [Expressing possibility]	AO.23 [Ability]; AR.48.c [Possibility	 probability]; 				
+iudge	iudge	VVI	Z99	0	NULL	02.02.07 [Judge, determine]	04.10 [] 					
+how	how	RGQ	Z5 A13.3	0	01.16.06.01-03 [to what extent]; 04.03 [];	01.16.06.01-03 [to what extent]; 04.03 []	AP.06 [Quantity]; ZC [Grammatical Item];					
+many	many	DA2	N5+	0	01.16.04.02.02 [0.94117647] [Many];	01.16.04.02.02 [0.94117647] [Many];	AP.04.i.02 [Great number	 numerousness]; 				
+children	child	NN2	S2mf/T3- S4mf	0	01.04.04.04 [0.91666667] [Child]; 01.04.04.04.02 [0.92307692] [Girl]; 03.01.01.03.02 [0.94736842] [Child];	01.04.04.04 [Child]; 03.01.01.03.02 [Child]	AD.03.d [Child]; AD.03.d.02 [Girl]; AY.01.e.02 [Child]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+poore	poore	VVI	Z99	0	NULL	02.04.16.02 [Exciting pity]; 02.04.16.01; 01.15.18	04.10 [] 					
+innocent	innocent	JJ	G2.1+ X9.1- G2.2+	0	01.15.21.07-05 [0.94117647] [artless/guileless/innocent]; 03.06.04.05.02 [0.94117647] [Innocent]; 01.09.10 [1.00000000] [Clean/dirty];	01.15.21.07-05 [artless/guileless/innocent]; 03.06.04.05.02 [Innocent]	AO.22.f [Unaffectedness/naturalness]; BD.04.e.02 [Innocence]; AI.16 [Cleanness/dirtiness]; 					
+soules	soule	NN2	Z99	0	01.07.01.18-01 [Amounts of foodsatisfying amount]	01.04.04 [Person/soul]; 03.08.01.24.01	AG.01.p [Amounts of food] 					
+were	be	VBDR	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+buried	bury	VVN	A10- L1-	0	01.02.04.05.01 [0.93333333] [Bury/entomb]; 01.02.04.05.01-01 [0.94736842] [bury]; 01.12.05.03.05-02.01 [0.95454545] [under the ground/bury];	01.02.04.05.01 [Bury/entomb]; 01.02.04.05.01-01 [bury]; 01.12.05.03.05-33;	AB.18.e.01 [Means/place of burial]; AL.05.c.05 [Covering	 wrapping	 coating with a layer]; 			
+in	in	II	Z5	07:02:01	 [MWE] 01.11.03.01-06 [Cause/reason for that reason/because of that/inasmuch as]	 [MWE] 01.11.03.01-06 [Cause/reason for that reason/because of that/inasmuch as]	AK.03.a [Cause/reason]					
+that	that	DD1	Z5	07:02:02	 [MWE] 01.11.03.01-06 [Cause/reason for that reason/because of that/inasmuch as]	 [MWE] 01.11.03.01-06 [Cause/reason for that reason/because of that/inasmuch as]	AK.03.a [Cause/reason]					
+impiteous	impiteous	JJ	Z99	0	02.04.16.02 [Pitiless]	02.04.16.02 [Pitiless]	AU.34.a [Pitilessness] 					
+fire	fire	NN1	O4.6+	0	01.10.01.01-03 [0.93333333] [fire]; 01.10.08-10.01 [0.93333333] [resembling fire/flame]; 01.17.04.07-07 [0.93333333] [fire of];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AJ.01 [Alchemy]; AJ.08 [Light]; AQ.04.g [Hell]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+fathers	father	NN2	S4m S9/S2.2m	0	03.01.01.03.01.02 [0.95000000] [Father]; 03.01.01.03.10 [1.00000000] [Ancestor]; 03.08.03.05.02 [1.00000000] [Priest];	03.01.01.03.01.02 [Father]	AY.01.e.01.a [Father]; AY.01.e.10 [Ancestor]; BF.23.d.05 [Priest]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+mothers	mother	NN2	S4f	0	03.01.01.03.01.03 [0.95000000] [Mother]; 03.08.03.06.01.06 [1.00000000] [Abbess];	03.01.01.03.01.03 [Mother]	AY.01.e.01.b [Mother]; BF.23.e.01 [Religious superior]; 					
+had	have	VHD	A9+ Z5 A2.2	0	02.01 [0.90909091] [Have in the mind]; 02.06 [0.90909091] [Have/possess]; 02.01.08 [0.91666667] [Understand];	02.01 [Have in the mind]; 02.06 [Have/possess]; 02.01.08 [Understand]	AR.01 [Mental capacity]; AW [Possession/ownership]; AR.16 [Understanding]; 					
+worke	worke	NN1	Z99	0	NULL	03.11.01 [Work]; 01.15.20.02-10	04.10 [] 					
+enough	enough	RR	N5+ N6+	0	01.16.06.04 [1.00000000] [Sufficiently]; 01.16.06.04.01 [1.00000000] [Abundantly];	01.16.06.04 [Sufficiently]; 01.16.06.04.01 [Abundantly]	AP.06.b [Sufficient quantity/amount/degree]; AP.06.b.01 [Abundance]; 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+doe	doe	NN1	L2f	0	01.05.19.05.09-01.01.01.02 [1.00000000] [female]; 01.05.19.05.09-01.03.01 [1.00000000] [male/female]; 01.05.19.06.05.10-08 [1.00000000] [female];	01.15.02 [Act/do]; 01.15.06	AE.14.i [Order Lagomorpha (rabbits	 hares)]; AE.14.m.08 [Family Cervidae (deer)]; 				
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+saue	saue	VVI	Z99	0	NULL	01.15.15.02-11 [Make save/secure, rescue/deliver (from), be means of deliverance to]; 01.15.15.01.01-07; 01.15.15.01 	04.10 [] 					
+themselves	themselves	PPX2	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+Many	many	DA2	N5+	0	01.16.04.02.02 [0.92307692] [Many];	01.16.04.02.02 [Many]	AP.04.i.02 [Great number	 numerousness]; 				
+women	woman	NN2	S2.1f	0	01.04.04.02 [0.88888889] [Woman]; 01.04.04.02-03 [0.92857143] [as pun]; 01.04.04.02-02 [0.93750000] [as form of address];	01.04.04.02 [Woman]; 01.04.04.02-11 [Women collectively]	AD.03.b [Woman]; 					
+newly	newly	RR	T3-	0	01.13.08.02 [1.00000000] [Immediately]; 01.13.08.05.03 [1.00000000] [In a new/novel manner]; 01.13.08.05.03.01 [1.00000000] [Recently];	01.13.08.05.03.01 [Recently]	AM.08.a [Immediacy]; AM.08.d.02 [Newness/novelty	 recency]; 				
+brought	bring	VVN	M2 A2.2	0	01.14.06.01 [0.88888889] [Bring]; 01.11.03 [0.90909091] [Cause/bring about]; 03.09.05.04-07 [0.90909091] [bring word];	01.02.01.04.01-02 [give birth]; 01.14.06.01	AN.06 [Transference]; AK.03 [Cause]; BG.05.d [Reporting]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+bed	bed	NN1	H5 H3/L3	0	01.01.05.07-03 [0.93333333] [bed of]; 01.12.05.09-04 [0.93750000] [that which supports]; 03.02.07.03.09.09 [0.94117647] [Bed];	01.09.02.01.01 [Bed related to sleep/rest]; 03.02.07.03.09.09;	AA.04.d [Lake]; AL.05.i [Support]; AZ.06.f.05.h [Bed]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+others	other	NN2	A6.1-/Z8	0	01.16.01.06-09 [0.94117647] [something else/something other]; 02.01.15.05.01-04.08 [0.94444444] [the other/other-self]; 01.16.06.05.01-06.01 [0.95454545] [other persons/things in addition];	01.16.06.05.01-06.01 [other persons/things in addition]	AP.01.f [Difference]; AR.53.c [Metaphysics]; AP.06.c.01 [Addition/supplementation]; 					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+were	be	VBDR	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+sicke	sicke	NN1	Z99	0	NULL	01.03.01-02 [In state of ill-health/diseased]; 01.03.01	04.10 [] 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+beds	bed	NN2	H5 L3	0	01.01.05.07-03 [0.93333333] [bed of]; 01.12.05.09-04 [0.93750000] [that which supports]; 03.02.07.03.09.09 [0.94117647] [Bed];	01.09.02.01.01 [Bed related to sleep/rest]; 03.02.07.03.09.09;	AA.04.d [Lake]; AL.05.i [Support]; AZ.06.f.05.h [Bed]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+payd	payd	VV0	Z99	0	NULL	02.06.12-24 [give as due/fitting]; 03.12.18	04.10 [] 					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+debt	debt	NN1	I1.2	0	03.06.01-08 [0.92857143] [an immaterial debt]; 03.12.20.04.01-05 [0.94736842] [a debt]; 03.06.01 [1.00000000] [Duty/obligation];	03.06.01-08 [an immaterial debt]; 03.06.01 [Duty/obligation]; 03.12.20.04.01-05	BD.01 [Duty/obligation]; BJ.01.y.04.a [Indebtedness]; 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+nature	nature	NN1	W5 A4.1 S1.2	0	01.11.01-10 [0.83333333] [all that exists]; 01.04-03 [0.92857143] [nature of humans]; 01.11.01.04-05 [0.92857143] [nature];	01.11.01.04-05 [nature]; 01.02.01	AK.01 [Existence]; AD [People]; AK.01.d [Materiality]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+whci	whci	NN2	Z99	0	NULL	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	04.10 [] 					
+all	all	DB	N5.1+	0	01.16.07.02 [0.94117647] [All/the whole amount of]; 01.13.02-05 [0.94736842] [while something lasts/during]; 01.16.02.01-04 [0.96000000] [affecting all indiscriminately];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.07.b [The whole/all]; AM.02 [Duration]; AP.02.a [Generality]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+vs	vs	II	Z99	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+one	one	MC1	T1.1.3 T1.1.1	08:02:01	 [MWE] 01.13.08.06-04 [Different time at some future time/one day]	 [MWE] 01.13.08.06-04 [Different time at some future time/one day]	AM.08 [Relative time]					
+day	day	NNT1	T1.1.3 T1.1.1	08:02:02	 [MWE] 01.13.08.06-04 [Different time at some future time/one day]	 [MWE] 01.13.08.06-04 [Different time at some future time/one day]	AM.08 [Relative time]					
+must	must	VM	S6+ A7+	0	01.05.19.06.03-01 [0.96153846] [be in state of must]; 01.09.07.03-01 [1.00000000] [become fusty/musty]; 01.09.10.06.05-01 [1.00000000] [become musty/mouldy];	02.05.02-04 [Must of necessity Be absolutely compelled/obliged]	AE.14.k [Order Proboscidea (elephants)]; AI.13.b [Stench]; AI.16.f.05 [Corruption/putridness]; 					
+doe	doe	NN1	L2f	0	01.05.19.05.09-01.01.01.02 [1.00000000] [female]; 01.05.19.05.09-01.03.01 [1.00000000] [male/female]; 01.05.19.06.05.10-08 [1.00000000] [female];	01.15.02 [Do]; 01.15.06	AE.14.i [Order Lagomorpha (rabbits	 hares)]; AE.14.m.08 [Family Cervidae (deer)]; 				
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+neither	neither	RR	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+hauing	haue	VVG	Z99	0	NULL	02.06 [Have/possess]	04.10 [] 					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+force	force	NN1	E3- S7.1+ G2.1c	0	01.10.07.01.01 [0.92307692] [Force]; 01.15.20.01 [1.00000000] [Vigour/energy]; 03.04.09.04.03 [1.00000000] [Compulsion];	01.02.03.05.01 [Bodily strength]; 01.15.20.01	AJ.07.a.01 [Force]; AO.21.a [Vigour/energy]; BB.09.d.03 [Compulsion]; 					
+nor	nor	CC	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+dexteritie	dexteritie	NN1	Z99	0	NULL	01.15.22.01-18.04.02 [dexterity]; 02.01.08.01 [Intelligence, cleverness]	04.10 [] 					
+sufficient	sufficient	JJ	N5	0	01.16.06.04 [0.92857143] [Sufficient]; 01.15.14.02-01 [1.00000000] [specifically of sanctions/dispositions etc]; 01.15.14.02 [1.00000000] [Efficacious];	01.16.06.04 [Sufficient]	AP.06.b [Sufficient quantity/amount/degree]; AO.15.b [Efficacy]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+saue	saue	VVI	Z99	0	NULL	01.15.15.02-11 [Make save/secure, rescue/deliver (from), be means of deliverance to]; 01.15.15.01.01-07; 01.15.15.01 	04.10 [] 					
+themselues	themselue	NN2	Z99	0	NULL	04.06 []	04.10 [] 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+It	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+was	be	VBDZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+most	most	RGT	A13.2	0	01.16.06.03.01-09 [0.94736842] [in the greatest degree/most]; 01.16.02.01-01 [0.95454545] [for/in the most part]; 01.16.01.09-10 [1.00000000] [almost/nearly];	01.16.06.03.01-09 [in the greatest degree/most]	AP.06.a.01 [High/intense degree]; AP.02.a [Generality]; AP.01.i [Similarity]; 					
+lementable	lementable	JJ	Z99	0	NULL	02.04.11.03.02-01 [Suffering mental pain, lamenting/expressing grief, lamentable]; 02.04.16.01	04.10 [] 					
+Newes	newe	NN2	Z99	0	NULL	03.09.05.09 [News/tidings]; 03.09.05.09-01 [piece of]	04.10 [] 					
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+France	france	NP1	Z2	0	04.01.02 [Geographical Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+heare	heare	VVI	Z99	0	NULL	01.09.09 [Hear]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+wofull	wofull	NN1	Z99	0	NULL	01.15.18-06.02 [full of/attended with misery] 02.04.11.03 [Sorrowful/afflicted with grief]; 02.03.03.08	04.10 [] 					
+cries	cry	NN2	Q2.2	0	01.09.09.02.04.03 [0.93333333] [Cry/exclamation]; 01.09.09.02.04.04 [0.93750000] [Cry/shout (loudness)]; 03.09.04.02.02-02 [0.93750000] [watchword/rallying cry];	01.09.09.02.04.03 [Cry/exclamation]; 01.09.09.02.04.04 [Cry/shout (loudness)]	AI.15.d.03 [Cry/exclamation]; AI.15.d.04 [Loud cry/shout]; BG.04.b.02 [Identifying word/cry]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+sighings	sighing	NN2	Q2.2/X3.2	0	01.02.03.22.01.03-01 [0.94117647] [sighing]; 01.02.03.22.01.03-01.01 [1.00000000] [a sigh]; 01.09.09.02.03.08-03.01.01 [1.00000000] [sough/sigh];	01.02.03.22.01.03-01 [sighing]; 01.02.03.22.01.03-01.01 [a sigh]; 02.04.11.03.02.05-02; 01.02.03.22.01.03-01.01	AB.17.q.01 [Breathing]; AI.15.c.08 [Continuous/protracted sound]; 					
+,	PUNC	PUNC	YCOM	PUNC	0	NULL	NULL					
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+onely	onely	RR	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+those	those	DD2	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+were	be	VBDR	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+afflicted	afflict	VVN	B2- E4.1- E6-	0	01.15.18-04 [0.94444444] [afflict]; 02.04.11.01 [1.00000000] [Cause mental pain/suffering to]; 02.04.11.08 [1.00000000] [Be/become dejected];	01.15.18-04 [afflict]	AO.19 [Adversity]; AU.14 [Suffering]; AU.21 [Dejection	 depression	 melancholy]; 			
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+but	but	CCB	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+also	also	RR	N5++	0	01.16.06.05.01-02 [in addition/also/besides]; 01.15.20-07.01 [in this very manner]; 01.16.01.04 [In the same way/form]	01.16.06.05.01-02 [0.94117647] [in addition/also/besides]; 01.15.20-07.01 [1.00000000] [in this very manner]; 01.16.01.04 [1.00000000] [In the same way/form];	AP.06.c.01 [Addition/supplementation]; AO.21 [Manner of action]; AP.01.d [Identity]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+spectators	spectator	NN2	X3.4/S2mf	0	01.09.08.05-05 [0.94444444] [beholder/spectator]; 01.09.08.05-05.02 [0.95454545] [at a show/spectacle]; 02.01.12.03.02-15.02 [1.00000000] [relying on observation/experiment];	01.09.08.05-05 [beholder/spectator]	AI.14.d [One who sees]; AR.36.c.02 [Science]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+miserable	miserable	JJ	E4.1- N3.2-	0	01.15.18-06 [0.87500000] [miserable/wretched]; 02.04.11.05 [0.93333333] [Miserable]; 01.15.18-06.02 [0.94736842] [full of/attended with misery];	01.15.18-06 [miserable/wretched]; 01.15.18-06.02 [full of/attended with misery]; 02.04.16.01	AO.19 [Adversity]; AU.17 [Misery]; 					
+accident	accident:the	FO	Z99	0	NULL	01.15.18.01-02.10.05 [adversity/misfortune]; 01.11.04-02	04.10 [] 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+The	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+men	man	NN2	S2.2m	0	01.04.04.01 [0.91666667] [Man]; 01.04.04.01-05 [0.93333333] [men collectively];	01.04.04.01 [Man]; 01.04.04.01-05 [men collectively]	AD.03.a [Man]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.94444444] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01 [Large]; 01.16.06.03	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+feare	feare	NN1	Z99	0	NULL	02.04.21 [Fear]; 02.04.11.06.01.01	04.10 [] 					
+saued	saue	VVD	Z99	0	NULL	01.15.15.02-11 [Make save/secure, rescue/deliver (from), be means of deliverance to]; 01.15.15.01.01-07; 01.15.15.01	04.10 [] 					
+themselues	themselue	NN2	Z99	0	NULL	04.06 []	04.10 [] 					
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+vnexpected	vnexpected	JJ	Z99	0	NULL	02.01.14.02-06 [Indicating surprisesurprising, unexpected]	04.10 [] 					
+deluge	deluge	NN1	W4 N5+	0	01.01.05.09.08 [0.92857143] [Flood/flooding]; 01.01.11.02.08.02.02-16.03 [0.95833333] [downpour]; 01.16.06.04.01-05.01.01 [1.00000000] [viewed as flowing/falling];	01.01.05.09.08 [Flood/flooding]	AA.04.g.06 [Flood/flooding]; AA.11.i.01 [Rain]; AP.06.b.01 [Abundance]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+manner	manner	NN1	S1.1.1 X4.2	0	01.15.20 [0.90909091] [Manner of action]; 03.13.03.04.05 [0.95833333] [Style of language/writing]; 03.13.03.04.05.10-08 [0.96153846] [affectation];	01.15.20 [Manner of action]	AO.21 [Manner of action]; BK.06.e [Style of language/writing]; BK.06.e.10 [Inelegance]; 					
+halfe	halfe	NN1	Z99	0	NULL	[MWE] 01.02.04.01-04 [Dead, half-dead]; 01.09.02.03 [Weary/exhausted]; 01.16.04.01.02.04-01.01	04.10 [] 					
+dead	dead	JJ	L1- X5.2- A4.2+	0	01.02.04.01 [0.88888889] [Dead]; 01.01.05.01.01 [0.93333333] [Still/standing water]; 01.01.11.02.07-32 [0.93750000] [completely without wind];	[MWE] 01.02.04.01-04 [Dead, half-dead]; 01.09.02.03 [Weary/exhausted]; 01.02.04.01	AB.18.a [Dead person/the dead]; AA.04.a [Body of water]; AA.11.g [Wind]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+blaming	blame	VVG	Q2.2/G2.2- G2.1	0	02.02.10.06.03 [Blame]; 02.02.06.05-04 [accuse of/charge with]; 02.02.06.05 [Accuse]	02.02.10.06.03 [Blame]; 02.02.06.05-04 [accuse of/charge with]; 02.02.06.05 [Accuse]	AS.14.d [Blame	 reproach	 rebuke]; AS.06 [Accusation	 charge]; 		
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+heauens	heauen	NN2	Z99	0	NULL	01.17.04.06 [Heaven]; 01.17.04.06-01	04.10 [] 					
+[NULL]	null	null	Z99	0	NULL	NULL						
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+disaster	disaster	NN1	A5.1--- X9.2- A1.1.2/W4	0	01.01.10.04.03-03.02.01 [1.00000000] [aspect or body]; 01.03.01.04 [1.00000000] [A disease]; 01.15.18.01-02.10.01 [1.00000000] [dreadful/severe];	01.01.10.04.03-03.02.01 [aspect or body]; 01.15.18.01-02.10.01 [dreadful/severe]	AA.10.d.01 [Heavenly body as influence on mankind]; AC.01.a.01 [Disease]; AO.19.a [Calamity/misfortune]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+knowing	know	VVG	X2.2+ S3.2/B1%	0	02.01.12 [0.93333333] [Know  be aware of]; 02.01.12.02.03 [0.94444444] [Have mastery of]; 02.01.08 [1.00000000] [Understand];	02.01.12 [Know  be aware of]; 02.01.08 [Understand]; 02.01.12.01.02-01	AR.36 [Knowledge]; AR.36.b [Scholarly knowledge	 erudition]; AR.16 [Understanding]; 				
+how	how	RRQ	Z5 A13.3	0	02.02.03-02 [as a request]; 04.03 [];	02.02.03-02 [indicating a question]; 04.03 []	AS.04 [Enquiry]; ZC [Grammatical Item];					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+bee	bee	NN1	L2mfn K1/S1.1.3+	0	01.15.02.03-05.02 [0.96296296] [one who is not idle/slothful]; 01.05.12.11.08.14-05.03.01.01 [0.96666667] [member of/bee]; 01.05.12.11.08.14-05.03.01.39 [1.00000000] [member of family Apidae/honey-bee];	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AO.02.b [Activity/occupation]; AE.08.i [Class Insecta (insects)]; 					
+reuenged	reuenge	VVD	Z99	0	NULL	01.15.21.09.02 [0.95454545] [Execute revenge]; 01.15.21.09.02 [0.95652174] [Take/execute revenge]; 01.15.21.09.02-04 [0.95833333] [avenge (a person)]; 01.15.21.09.02-01 [be revenged]; 03.04.12.01-01	04.10 [] 					
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+losse	losse	NN1	Z99	0	NULL	02.06.09 [Loss]; 01.02.04-06 [loss by]; 02.06.09-05	04.10 [] 					
+,	PUNC	YCOMisast	PUNC	0	NULL	NULL						
+tooke	tooke	VV0	Z99	0	NULL	01.11.03.02-03 [Cause/bring about/derive/come from originate in]; 01.15.06-03; 02.06.08-12	04.10 [] 					
+reuenge	reuenge	NN1	Z99	0	NULL	01.15.21.09.02 [Revenge]; 01.15.21.09.02-10.01 [act/instance of]	04.10 [] 					
+vpon	vpon	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+themselues	themselue	NN2	Z99	0	NULL	04.06 []	04.10 [] 					
+;	PUNC	YSCOL	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+men	man	NN2	S2.2m	0	01.04.04.01 [0.92307692] [Man]; 01.04.04.01-05 [0.93750000] [men collectively];	01.04.04.01 [Man]; 01.04.04.01-05 [men collectively]	AD.03.a [Man]; 					
+were	be	VBDR	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+as	as	RG	A13	0	01.16.01.09-03 [0.94444444] [as if/as though]; 01.16.01.09-01 [0.95238095] [so/in such a manner]; 01.11.03.01-01 [1.00000000] [because];	01.16.06.01-04 [In respect of quantity/degree To such an extent] 01.16.01.09-01 [so/in such a manner]; 01.16.06-05	AP.01.i [Similarity]; AK.03.a [Cause/reason]; 					
+much	much	RR	A13.3 N6+	0	02.01.12.08.02.01.01 [0.96000000] [Nearly  approximately]; 01.16.06.03.01-03 [1.00000000] [by/to a great degree/extent]; 01.16.06.03.01-06 [1.00000000] [very];	01.16.06.03.01-03 [by/to a great degree/extent]; 01.16.06.03.01-06 [very]; 01.16.06-05	AR.38.a [Accuracy	 precision]; AP.06.a.01 [High/intense degree]; 				
+troubled	trouble	VVN	E6-	0	01.15.20.02-02 [0.94117647] [take trouble]; 01.01.11.02.08 [0.94736842] [Become cloudy/overcast]; 01.16.03.02.01.03 [0.94736842] [Be in commotion/disorder];	02.04.11.06.01 [Suffering mental pain Worried]; 01.15.20.02	AO.21.b [Effort/exertion]; AA.11.h [Cloud]; AP.03.b.01.c [Commotion/disturbance/disorder]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+comfort	comfort	VVI	S8+	0	01.16.07.05.07.02 [0.89473684] [Make fast]; 02.04.10.07 [0.92857143] [Be consoled/relieved]; 02.04.10.01 [0.93333333] [Please/give pleasure to];	02.04.10.07 [Be consoled/relieved]; 02.04.10.07-02	AP.07.e.06.b [Condition of being fast bound/firmly fixed]; AU.11.a [Consolation	 relief]; AU.08 [Pleasure]; 				
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	04.06 [Pronoun]	ZF [Pronoun];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+as	as	II21	Z5	09:02:01	 [MWE] 01.16.01-03 [Relation in relation/with reference to/concerning]	01.16.06.01-04 [In respect of quantity/degree/extent]; 02.02.04.04 [linking comparatives]; 4.03	AP.01 [Relation/relationship]					
+to	to	II22	Z5	09:02:02	 [MWE] 01.16.01-03 [Relation in relation/with reference to/concerning]	04.03 [Grammatical]; 4.03	AP.01 [Relation/relationship]					
+saue	saue	NN1	Z99	0	NULL	01.15.15.02-11 [Make save/secure, rescue/deliver (from), be means of deliverance to]; 01.15.15.01.01-07; 01.15.15.01	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+rest	rest	NN1	E3+ K1 T2-/T1.3	0	01.16.07.04.01.01-02 [0.90476190] [the rest]; 01.16.07.04.01.01 [0.91304348] [That which is left/remainder]; 01.03.03.17-14.02 [0.93333333] [rest];	01.16.07.04.01.01-02 [the rest]; 01.16.07.04.01.01 [That which is left/remainder]	AP.07.d.01.a [That which is left/remainder]; AC.02.m [Dentistry]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+those	those	DD2	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+were	be	VBDR	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+within	within	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+houses	house	NN2	H1 P1/S5+c G1.1c	0	03.02.07.02 [1.00000000] [Dwelling-place/abode]; 03.12.10-24 [1.00000000] [trading firm/establishment]; 03.02.07.03 [1.00000000] [A building];	03.02.07.02 [Dwelling-place/abode]; 03.02.07.03 [A building]; 03.02.07.02.06.01; 03.02.07.02	AZ.06.e [Dwelling-place/abode]; BJ.01.h [Trader]; AZ.06.f [A building]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+Women	woman	NN2	S2.1f	0	01.04.04.02 [0.85714286] [Woman]; 01.04.04.02-03 [0.91666667] [as pun]; 01.04.04.02-02 [0.92857143] [as form of address];	01.04.04.02 [Woman]; 01.04.04.02-11 [Women collectively]	AD.03.b [Woman]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+extreme	extreme	JJ	N5.1+++ N5.2+ S1.2.6-	0	01.16.06.03.01-06 [0.94444444] [very great/extreme]; 02.01.12.08.05-04 [0.94736842] [extreme]; 01.12.01.01-11 [1.00000000] [most distant/remotest];	01.16.06.03.01-06 [very great/extreme]	AP.06.a.01 [High/intense degree]; AR.40 [Exaggeration]; AL.01.a [Distance/farness]; 					
+discomfort	discomfort	NN1	B2- O4.2- S8-	0	01.03.01.09.01-13 [0.93750000] [discomfort]; 01.15.17.03.01.01-01 [1.00000000] [an inconvenience]; 01.15.18-09 [1.00000000] [cause of];	01.03.01.09.01-13 [discomfort]; 01.15.17.03.01.01-01 [an inconvenience]; 01.15.18-09 [cause of]; 02.04.11.03; 02.04.21.08	AC.01.f.01 [Types of pain]; AO.18.b.01 [Uselessness]; AO.19 [Adversity]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+haire	haire	NN1	Z99	0	01.08.01.14.01.06.06 [1.00000000] [Made from hair]; 01.10.06.03 [1.00000000] [Air]; 03.08.04.08.02.03-06 [1.00000000] [garment of];	1.12.03.11 [The body Hair]; 01.02.03.11.05	AH.01.h.03 [Textile fabric made from specific material]; AJ.06.c [Air]; BF.24.h.02 [Confession]; 					
+hanging	hang	VVG	M8 N3.8- S1.1.1	10:02:01	01.12.05.09.01-06 [0.88235294] [hang allowing movement about attachment point]; 01.12.05.09.01 [0.92307692] [Hang/suspend]; 03.04.12.03.01 [0.92857143] [Hang];	01.12.05.09.01 [Hang/suspend]	AL.05.i.01 [Hanging/suspension]; BB.12.c.01 [Hanging]; 					
+about	about	RP	M8 N3.8- S1.1.1	10:02:02	01.12.06-11 [0.93333333] [(turned) round/about]; 03.10.05.03.03-06 [0.96551724] [about/on to opposite tack]; 01.12.03.06.03-01.01 [1.00000000] [in/upon circumference];	01.12.01.02-04 [Near to, in the vicinity of]; 01.12.05.03.03 [Round/around]; 4.03	AL.06 [Direction]; BH.14.c.02 [Use of wind]; AL.03.f.02 [Roundness]; 					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+heades	heade	NN2	Z99	0	NULL	01.02.03.08.01 [Head]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+manner	manner	NN1	S1.1.1 X4.2	0	01.15.20 [0.91666667] [Manner of action]; 03.13.03.04.05 [0.96000000] [Style of language/writing]; 03.13.03.04.05.10-08 [0.96296296] [affectation];	01.15.20 [Manner of action]; 01.15.21-09	AO.21 [Manner of action]; BK.06.e [Style of language/writing]; BK.06.e.10 [Inelegance]; 					
+naked	naked	JJ	B5- A10+	0	01.08.02.03.02 [0.94444444] [Naked/unclothed]; 01.01.11.02.07-28 [0.94736842] [cold/keen]; 01.01.04.04.06.01-01 [0.95238095] [lacking];	01.08.02.03.02 [Naked/unclothed]	AH.02.c.01 [Nakedness/state of being unclothed]; AA.11.g [Wind]; AA.03.i [Fertile land	 parkland]; 				
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+beholding	behold	VVG	X3.4	0	01.09.08.03-02 [0.94444444] [look/behold]; 01.09.08.03-06 [0.94444444] [look at/behold]; 01.09.08.03 [1.00000000] [See];	01.09.08.03-02 [look/behold]; 01.09.08.03-06 [look at/behold]; 01.09.08.03 [See]	AI.14.b [Seeing/looking]; 					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+horrible	horrible	JJ	O4.2-	0	02.04.21.10.03 [0.93750000] [Horrifying]; 02.04.14.03.01 [1.00000000] [Causing/fit to cause horror];	02.04.21.10.03 [Horrifying]; 02.04.14.03.01 [Causing/fit to cause horror]	AU.46 [Source of fear]; AU.31 [Hatred]; 					
+spectacle	spectacle	NN1	X3.4 O2/X3.4 K4	0	01.09.08.10-06 [0.94117647] [sight/spectacle]; 03.13.03.05.15 [0.95000000] [A public show/spectacle]; 01.09.08.10-06.01 [0.95454545] [of specific description];	01.09.08.10-06 [sight/spectacle]; 03.13.03.05.15; 01.09.08.10-06.01 [of specific description]	AI.14.h [Thing seen]; BK.07.i [A public show/spectacle]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+bathing	bthe	VVG	B4/M4 N5.1+	0	4.1	01.10.05.04 [Liquid, Make wet]	ZZ [Unrecognised] 					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+faces	face	NN2	B1 W3 O2	0	01.02.03.08.01.04 [0.93333333] [Face]; 01.12.05.03.01-19 [1.00000000] [front surface]; 02.01.12.08.07.07.01 [1.00000000] [Semblance  outward show];	01.02.03.08.01.04 [Face]	AB.17.e.01.a [Face	 facial sexpression]; AL.05.c.01 [Surface]; AR.42.h [Dissimulation	 pretence]; 			
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+teares	teare	NN2	Z99	0	NULL	01.02.03.20.08.03 [The body, excretions from eye]; 02.04.11.03.02.04-07	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+casting	cast	VVG	K4 A4.1 M2	0	01.01.10.13-01 [1.00000000] [calculate]; 01.03.01.04.18.03-03 [1.00000000] [vomit]; 01.03.01.05.12-02 [1.00000000] [vomit];	01.14.05.11.01-03 [Cause to move in a direction, Let/send out, emit]; 01.12.06-04	AA.10.k [Astrology]; AC.01.b.03 [Disorders of digestive system]; AC.01.c [Animal disease/disorder]; 					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+thousand	thousand	NNO	N1 I1	0	03.12.15.02-11.10 [0.94117647] [a thousand pounds]; 03.12.15.02-11.16 [0.94117647] [a thousand dollars]; 01.16.04.01.12-03 [0.95238095] [thousand];	01.16.04.01.12-03 [thousand]	BJ.01.m.02 [Sum of money]; AP.04.h [Hundred and over]; 					
+sighes	sighe	VVZ	Z99	0	NULL	02.04.11.03.02.05-02 [Suffering, sighing, a sigh]; 01.02.03.22.01.03-01.01	04.10 [] 					
+vp	vp	NNU	I1	0	NULL	01.14.05.07 [Upwards (of movement)]; 01.12.06.01-03	04.10 [] 					
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+ayre	ayre	NN1	Z99	0	NULL	01.10.06.03 [Air]; 01.10.06.03-09 [Air above our heads]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+swouned	swoun	VVD	Z99	0	NULL	01.09.02.03-04 [Become weary/exhausted, break down/collapse/faint]; 01.09.01.03.01-01	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+manner	manner	NN1	S1.1.1 X4.2	0	01.15.20 [0.91666667] [Manner of action]; 03.13.03.04.05 [0.96000000] [Style of language/writing]; 03.13.03.04.05.10-08 [0.96296296] [affectation];	01.15.20 [Manner of action]	AO.21 [Manner of action]; BK.06.e [Style of language/writing]; BK.06.e.10 [Inelegance]; 					
+fell	fall	VVD	G2.2-	11:02:01	[MWE] 01.15.03.02-05 [0.95238095] [Beginning action/activity begin an action/fall to doing something]; 01.15.14.01.01.03-01 [1.00000000] [Recourse a course of action]; 01.15.18-02 [1.00000000] [Suffer (adversity) fall into (some adverse condition)];	[MWE] 01.15.18-02 [Suffer (adversity) fall into (some adverse condition)]	AO.04 [Beginning action/activity]; AO.15.a.01 [Use (made of things)]; AO.19 [Adversity]; 					
+into	into	II	G2.2-	11:02:02	[MWE] 01.15.03.02-05 [0.95238095] [Beginning action/activity begin an action/fall to doing something]; 01.15.14.01.01.03-01 [1.00000000] [Recourse a course of action]; 01.15.18-02 [1.00000000] [Suffer (adversity) fall into (some adverse condition)];	[MWE] 01.15.18-02 [Suffer (adversity) fall into (some adverse condition)]	AO.04 [Beginning action/activity]; AO.15.a.01 [Use (made of things)]; AO.19 [Adversity]; 					
+despaire	despaire	NN1	Z99	0	NULL	02.01.14.07-03 [loss of hope]	04.10 [] 					
+.	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+Diuers	diuers	NP1	Z99	0	NULL	01.16.04.02 [More than one, plural]; 01.16.01.08-01 [Various/varied, various/sundry/several]; 01.16.01.08	04.10 [] 					
+seruants	seruant	NN2	Z99	0	NULL	03.04.09.02.01 [Servant]; 03.04.09.02.01.02 [Personal/domestic servant]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+both	both	RR	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+maides	maide	VVZ	Z99	0	NULL	01.04.04.04.02 [Girl]; 03.04.09.02.01-05	04.10 [] 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+men	man	NN2	S2.2m	0	01.04.04.01 [0.90000000] [Man]; 01.04.04.01-05 [0.92307692] [men collectively];	03.04.09.02-01 [Servant, man/boy]; 01.04.04.01; 01.04.04.01-05	AD.03.a [Man]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+as	as	II31	N5++	12:02:01	[MWE] 01.16.01.11-06 [0.85714286] [Equality as well as (anyone)]; 01.16.02.01.01-02 [1.00000000] [In the number/class of inclusion with another]; 01.16.06-04 [1.00000000] [Quantity to the same extent/degree];	[MWE] 01.16.02.01.01-02 [In the number/class of inclusion with another]; 01.16.06-04 [Quantity to the same extent/degree]	AP.01.k [Equality/equivalence]; AP.02.a.01 [Condition/state of being inclusive]; AP.06 [Quantity]; 					
+well	well	II32	N5++	12:02:02	[MWE] 01.16.01.11-06 [0.85714286] [Equality as well as (anyone)]; 01.16.02.01.01-02 [1.00000000] [In the number/class of inclusion with another]; 01.16.06-04 [1.00000000] [Quantity to the same extent/degree];	[MWE] 01.16.02.01.01-02 [In the number/class of inclusion with another]; 01.16.06-04 [Quantity to the same extent/degree]	AP.01.k [Equality/equivalence]; AP.02.a.01 [Condition/state of being inclusive]; AP.06 [Quantity]; 					
+as	as	II33	A13	0	[MWE] 01.16.01.11-06 [0.85714286] [Equality as well as (anyone)]; 01.16.02.01.01-02 [1.00000000] [In the number/class of inclusion with another]; 01.16.06-04 [1.00000000] [Quantity to the same extent/degree];	[MWE] 01.16.02.01.01-02 [In the number/class of inclusion with another]; 01.16.06-04 [Quantity to the same extent/degree]	AP.01.k [Equality/equivalence]; AP.02.a.01 [Condition/state of being inclusive]; AP.06 [Quantity]; 					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+masters	master	NN2	S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m	0	01.15.22.01-19.04 [0.87500000] [a master/mistress]; 03.03.15.09-02 [0.90476190] [master of]; 03.04-22.03.09 [0.92857143] [master of servant];	 03.04-22.03.09  [master of servant]; 03.04.06.04.01-18	AO.23.a [Skill/skilfulness]; BA.14.i [Member of order of knights	 etc.]; BB [Authority]; 				
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+mistresses	mistress	NN2	S7.1+/S2.1f S3.2/S2.1f P1/S2.1f	0	01.15.22.01-19.04 [0.88235294] [a master/mistress]; 02.06.02-01 [0.93750000] [female]; 03.04-22.03.09.01 [0.93750000] [woman];	03.04-22.03.09.01 [woman]; 03.04-22.03.05; 03.04.03.01-02	AO.23.a [Skill/skilfulness]; AW.01 [Owning]; BB [Authority]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+induring	indure	VVG	Z99	0	02.04.02-07 [1.00000000] [make hard/callous]; 02.05.05.04-02 [1.00000000] [make obdurate];	01.15.08 [Suffer (adversity)]	AU.03 [Absence of emotion]; AV.04.b.02 [Obstinacy	 stubbornness]; 				
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+felling	fell	VVG	A1.1.1	0	01.07.03.07.01-04 [0.93750000] [fell timber]; 01.08.01.15.03.03-01.10 [0.95000000] [other]; 01.02.04.04 [1.00000000] [Kill];	01.15.01-17.01 [Have effect on, be affected by some action]; 02.01.12.01.01; 01.09	AG.02.f [Forestry/arboriculture]; AH.01.i.04 [Sewing/ornamenting textile fabric]; AB.18.d [Killing]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+rigor	rigor	NN1	Z99	0	01.03.01.04.20-16.01 [Afflict with fevercold stage of]	01.15.18-14 [Adversity, hardship]; 02.04.11.02	AC.01.b.14 [Fever] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+mischance	mischance	NN1	Z99	0	01.03.01.08-18 [0.88888889] [other injuries]; 01.15.18.01-02.05 [1.00000000] [an evil fate]; 01.15.18.01-02.10.05 [1.00000000] [a mishap/unlucky accident];	01.15.18.01-02.05 [an evil fate]; 01.15.18.01-02.10.05 [a mishap/unlucky accident]; 01.15.18.01-02	AC.01.e [Injury]; AO.19.a [Calamity/misfortune]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+stood	stand	VVD	M6 M2 M8	0	03.04.09.04-06 [0.90909091] [act in conformity to a rule/decree]; 03.13.01.05.03-01 [0.92307692] [bet (money  etc )]; 01.15.17.04-07.02 [0.92592593] [be unprotected/unsheltered from];	01.12.05.26.03 [Have specific position/arrangement, Rise/be standing]; 01.12.05.26.03-03; 01.11.01.07	BB.09.d [Obedience]; BK.01.d.05 [Betting]; AO.18.c [Danger]; 					
+in	in	II	altogether B5-	13:02:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	altogether B5-	13:02:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+like	like	JJ	Z99	0	01.16.01.09-02 [0.75000000] [like each other]; 02.01.13.08.10-04 [0.86363636] [likely to be/do]; 01.16.01.09-04 [0.88888889] [like/such as];	01.16.01.09-02 [like each other]; 01.16.01.09	AP.01.i [Similarity]; AR.48.c [Possibility	 probability]; 				
+manner	manner	NN1	S1.1.1 X4.2	0	03.13.03.04.05 [0.86363636] [Style of language/writing]; 03.13.03.04.05.10-08 [0.87500000] [affectation]; 03.13.03.01-06.01 [0.88235294] [specific phase in];	01.15.20 [Manner of action]	BK.06.e [Style of language/writing]; BK.06.e.10 [Inelegance]; BK.03.a [Artist]; 					
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	ZC [Grammatical Item]; AP.01.i [Similarity];					
+others	other	NN2	A6.1-/Z8	0	02.01.15.05.01-04.08 [0.80000000] [the other/other-self]; 01.16.06.05.01-06.01 [0.90000000] [other persons/things in addition]; 01.16.01.06-09 [0.93750000] [something else/something other];	01.16.06.05.01-06.01 [other persons/things in addition]; 01.16.01.06-09	AR.53.c [Metaphysics]; AP.06.c.01 [Addition/supplementation]; AP.01.f [Difference]; 					
+did	do	VDD	A1.1.1 G2.2- X9.2+	0	01.15.02 [0.91666667] [Act/do]; 01.11.01.07-05 [1.00000000] [fare/get on]; 01.15.06 [1.00000000] [Carry out];	01.15.02 [Act/do]; 04.03 [Grammatical]	AO.02 [Doing]; AK.01.g [State/condition]; AO.07 [Carrying out]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+ready	ready	JJ	O4.1 A1.2+ X7+	0	02.05.03.01-04 [0.88888889] [ready/prompt]; 03.12.15-04 [0.92307692] [ready money/cash]; 01.15.20.05-10 [0.94117647] [characterized by promptness of action];	 01.15.20.05-10 [characterized by promptness of action]; 01.15.03.01-06; 02.05.03.01-04	AV.02.a [Willingness]; BJ.01.m [Money]; AO.21.e [Speed of action/operation]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+pay	pay	VVI	I1.2 A9- I1.1/I3.1	0	03.12.18 [0.91666667] [Pay]; 03.12.18 [0.92857143] [Pay money/things]; 02.06.12-24 [1.00000000] [give as due/fitting];	02.06.12-24 [give as due/fitting]; 03.12.18	BJ.01.p [Payment]; AW.11 [Giving]; 					
+their	their	APPGE	Z8	0	02.06.01-03.03.03 [their]; 04.06 [];	02.06.01-03.03.03 [their]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+debt	debt	NN1	I1.2	0	03.06.01-08 [0.92857143] [an immaterial debt]; 03.12.20.04.01-05 [0.94736842] [a debt]; 03.06.01 [1.00000000] [Duty/obligation];	03.06.01-08 [an immaterial debt]; 03.06.01 [Duty/obligation]; 03.12.20.04.01-05	BD.01 [Duty/obligation]; BJ.01.y.04.a [Indebtedness]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+cruell	cruell	VVI	Z99	0	NULL	02.03.06.13 [Savage, cruel]; 01.15.21.05.05.01 [Cruel]	04.10 [] 					
+destiny	destiny	NN1	A7+++/S7.1- A3+/S7.1-	0	01.11.01.07-10 [0.91666667] [ultimate condition/destiny]; 02.05.02.01 [0.92307692] [Fate/destiny as determining events]; 01.11.04.01-01 [0.93750000] [destiny/fate];	01.11.01.07-10 [ultimate condition/destiny]; 02.05.02.01 [Fate/destiny as determining events]; 01.11.04.01-01 [destiny/fate]	AK.01.g [State/condition]; AV.01.b.01 [Fate	 destiny]; AK.04.a [Future events]; 				
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+The	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.10.01.01-03 [0.91666667] [fire]; 01.10.08-10.01 [0.91666667] [resembling fire/flame]; 01.17.04.07-07 [0.91666667] [fire of];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AJ.01 [Alchemy]; AJ.08 [Light]; AQ.04.g [Hell]; 					
+still	still	RR	T2++ Z4 E3+	0	01.13.08.03-06 [0.92307692] [as formerly/still/to this day]; 01.14.09-01 [1.00000000] [without moving];	01.13.08.03-06 [as formerly/still/to this day]; 01.13.08.05-10 [In future, after/afterwards/later]	AM.08.b [The present (time)]; AN.09 [Absence of movement]; 					
+waxing	wax	VVG	A1.1.1 N3.2+/A2.1 A2.1+	0	01.01.10.05.03.05.04-03 [0.93333333] [wax]; 03.11.06.03.07-07 [0.94444444] [wax]; 01.16.07.05.06-08.02.02 [0.95652174] [join together with wax];	01.16.06.05-04 [Amount to a quantity, Increase in quantity/amount/degree, in intensity/degree]; 01.16.06.05; 01.01.10.05.03.05.04-03	AA.10.e.02 [Earth's moon]; BI.06.c [Working with specific materials]; AP.07.e.05 [Fact/action of being joined/joining]; 					
+greater	great	JJR	A5.1++ A11.1++ N3.2++	0	02.02.08-06 [0.93333333] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01[Large]; 01.16.06.03	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+greater	great	JJR	A5.1++ A11.1++ N3.2++	0	02.02.08-06 [0.93750000] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01[Large]	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+mounted	mount	VVD	T2+ A1.1.1 N5+/A2.1	0	02.02.18.01-10 [0.93333333] [tip/edge/mount]; 01.05.11.02.08-01.01 [0.93750000] [mount]; 03.10.02.04-03 [0.94444444] [mount a cycle];	01.12.02.04.06-01 [Extend in space, Become high(er), extend to a great/considerable height]; 01.16.06.05	AS.21.a [Ornamentation	 jewellery]; AE.07 [Animal body]; BH.11.d [Cycling]; 				
+vp	vp	NNU	I1	0	NULL	01.14.05.07 [Upwards (of movement)]; 01.12.06.01-03	04.10 [] 					
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+ayre	ayre	NN1	Z99	0	NULL	01.10.06.03 [Air]; 01.10.06.03-09 [Air above our heads]	04.10 [] 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+mighty	mighty	JJ	S1.2.5+ N3.2+	0	03.04.01 [0.92857143] [Powerful/mighty]; 01.02.03.05.01 [1.00000000] [Physically strong]; 01.03-03.01 [1.00000000] [healthy];	03.04.01 [Powerful/mighty]; 01.02.03.05.01 [Physically strong]; 01.03-03.01 [healthy]; 01.15.22-06; 03.04.01	BB.01 [Power]; AB.17.d.01 [Bodily strength]; AC.01 [Health and disease]; 					
+flames	flame	NN2	O4.6+ Q2.2	0	02.04.13.10-20.01 [0.94444444] [(of love) a flame/burning passion]; 01.10.03.03.02.03.02-09.14 [0.94736842] [a flame]; 01.10.03.03.02.03.02-09 [0.94736842] [flame/blaze];	01.10.03.03.02.03.02-09.14 [a flame]; 01.10.03.03.02.03.02-09 [flame/blaze]	AU.29 [Amorous love]; AJ.03.c.02.c [Burning	 fire	 flame	 ash]; 		
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+cast	cast	VV0	K4 A4.1 M2	0	01.01.10.13-01 [1.00000000] [calculate]; 01.03.01.04.18.03-03 [1.00000000] [vomit]; 01.03.01.05.12-02 [1.00000000] [vomit];	01.14.08-01.01 [Impact, upon a particular place/position, specifically of light/shade]; 01.14.05.11.01-03; 01.12.06-04	AA.10.k [Astrology]; AC.01.b.03 [Disorders of digestive system]; AC.01.c [Animal disease/disorder]; 					
+such	such	DA	Z5 Z8	0	01.16.02-02 [of a certain kind]; 04.03 [];	01.16.02-02 [of a certain kind]; 01.16.06.01-01 [quantity/degree]; 04.03 []	AP.02 [Kind/sort]; ZC [Grammatical Item];					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+so	so	RG	A13.3	0	01.16.01.09-01 [0.90000000] [so/in such a manner]; 01.16.01.09-02 [0.94444444] [such that]; 01.11.03.01 [1.00000000] [For that reason/therefore];	01.16.06.01-01 [in respect of quantity: to this/that extent]	AP.01.i [Similarity]; AK.03.a [Cause/reason]; 					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.94444444] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01[Large]; 01.16.06.03	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+light	light	JJ	W2 O4.3 N3.5-	0	01.10.03.02 [0.92857143] [Light];	01.10.03-04 [Light, quantity/portion of light]; 01.10.08; 01.10.07.03.04	AJ.03.b [Lightness]; 					
+ouer	ouer	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+all	all	DB	N5.1+	0	01.16.06.03-09.03 [0.93750000] [greatest possible]; 01.16.07.02 [0.93750000] [All/the whole amount of]; 01.16.02.01-04 [0.95833333] [affecting all indiscriminately];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.06.a [Greatness of quantity/amount/degree]; AP.07.b [The whole/all]; AP.02.a [Generality]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Citie	citie	FW	Z99	0	NULL	03.02.07.01.04.02 [City]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+those	those	DD2	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+which	which	DDQ	Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+know	know	VV0	X2.2+ S3.2/B1%	0	02.01.12 [0.92857143] [Know  be aware of]; 02.01.12.02.03 [0.94117647] [Have mastery of]; 02.01.08 [1.00000000] [Understand];	02.01.12 [Know  be aware of]	AR.36 [Knowledge]; AR.36.b [Scholarly knowledge	 erudition]; AR.16 [Understanding]; 				
+nothing	nothing	PN1	Z6/Z8	0	04.04 [];	04.04 []	ZD [Negative];					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+vnfortunate	vnfortunate	JJ	Z99	0	NULL	01.15.18.01 [Marked/attended by misfortune]; 01.15.18	04.10 [] 					
+mischance	mischance	NN1	Z99	0	01.03.01.08-18 [1.00000000] [other injuries]; 01.15.18.01-02 [1.00000000] [misfortune/ill-luck]; 01.15.18.01-02.05 [1.00000000] [an evil fate];	01.15.18.01-02 [misfortune/ill-luck]; 01.15.18.01-02.05 [an evil fate]; 01.15.18.01-02	AC.01.e [Injury]; AO.19.a [Calamity/misfortune]; 					
+awaked	awake	VVD	B1 X2.5+	0	01.09.02.02-04 [0.95652174] [become awake]; 01.09.02.02 [1.00000000] [Wake/rouse]; 01.15.03.02-02 [1.00000000] [bestir];	01.09.02.02-04 [become awake]; 01.09.02.02 [Wake/rouse]; 01.15.03.02-02 [bestir]	AI.08.b [State of being awake/wakefulness]; AO.04 [Beginning action/activity]; 					
+Newes	newes	NP1	Z99	0	NULL	03.09.05.09 [News/tidings]; 03.09.05.09-01 [piece of]	04.10 [] 					
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+France	france	NP1	Z2	0	04.01.02 [Geographical Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+by	by	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+popular	popular	JJ	E2+ S5+	0	02.02.09.04.01.01-03 [0.91304348] [of art and culture appealing to popular taste]; 02.01.10.01.01-02 [0.92857143] [generally intelligible]; 02.02.09.04.01.01 [0.93333333] [Popular];	 02.01.10.01.01-02 [generally intelligible]; 02.02.09.04.01.01 [Popular]; 03.01.06.02; 01.16.02.01-05	AS.12.d.01 [Popularity]; AR.28 [Intelligibility]; 					
+rumour	rumour	NN1	Q2.2	0	03.09.05.10 [0.85714286] [Rumour]; 02.07.03.07-08.01.02 [0.91666667] [rumour]; 02.07.03.07-08.01.02.01 [0.92307692] [personified];	03.09.05.10 [Rumour]; 02.07.03.07-08.01.02 [rumour]; 01.16.03.02.01.03 [Order, Common/disturbance/disorder]; 01.09.09.02.04.04-11; 01.09.09.02.03.01.03-01	BG.05.j [Rumour]; AX.07 [Conversation]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+were	be	VBDR	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+maze	maze	NN1	M7 A12-	0	02.01.07.05.02.01 [0.94117647] [Deceptive fancy/illusion]; 02.01.12.08.07-09 [0.94117647] [a trick  deception]; 02.01.05.08.02.04-09 [0.95454545] [maze as test];	02.01.07.05.02.01 [Deceptive fancy/illusion]; 02.01.14.08 [Expectation, Feeling of wonder, astonishment, state of wonder]; 02.01.14.08-04	AR.12.d [Deceptive fancy	 illusion]; AR.42 [Deceit	 deception	 trickery]; AR.06.c [Developmental psychology]; 		
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+imagine	imagine	VVI	X2.1 A5.2-	0	02.01.07.05 [0.92857143] [Imagine/visualize]; 02.01.13.04 [0.94736842] [Suppose  surmise]; 02.01.06.03 [1.00000000] [Meditate upon];	02.01.07.05 [Imagine/visualize]; 02.01.13.04 [Suppose  surmise]; 02.01.06.03 [Meditate upon]; 02.01.07.05 [Perceive, Imagine/visualize, imagine]	AR.12 [Imagination]; AR.46 [Supposition	 surmise	 presumption]; AR.08.a [Contemplation	 reflection	 consideration]; 	
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+whence	whence	RRQ	M6	0	01.11.03.02-05 [1.00000000] [from what source/origin]; 01.12.06-03.05 [1.00000000] [from which place]; 01.12.06-03.06 [1.00000000] [from what place];	01.11.03.02-05 [from what source/origin]; 01.12.06-03.06 [from what place]	AK.03.b [Source/origin]; AL.06 [Direction]; 					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+light	light	NN1	W2 O3/W2 M3	0	01.10.08 [0.90000000] [Light]; 01.10.08.07.01 [0.92857143] [An artificial light];	01.10.08 [Light]	AJ.08 [Light]; AJ.08.g [Artificial light]; 					
+should	shall	VM	S6+ A7+	0	04.03 [Grammatical]; 03.06.01 [Have/had duty/obligation]; 01.13.08.05-03.01 [..expressing intention/volition]	04.03 [Grammatical]	ZC [Grammatical Item]; BD.01 [Duty/obligation]; AM.08.d [The future/time to come];					
+come	come	VVI	M1 N3.1 A2.2	0	02.01.12.08.07.07.01-07 [0.95652174] [assume character]; 01.11.04-03 [1.00000000] [happen to]; 01.14.05.12 [1.00000000] [Move towards];	02.01.12.08.07.07.01-07 [assume character]; 01.11.04-03 [happen to]; 01.14.05.12  [Move towards]; 01.12.02; 01.14.05.12	AR.42.h [Dissimulation	 pretence]; AK.04 [Present events]; AN.05.l [Movement towards a thing/person/position]; 				
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+knowing	know	VVG	X2.2+ S3.2/B1%	0	02.01.12 [0.92307692] [Know  be aware of]; 02.01.12.02.03 [0.93750000] [Have mastery of]; 02.01.08 [1.00000000] [Understand];	02.01.12 [Know  be aware of]; 02.01.08 [Understand]	AR.36 [Knowledge]; AR.36.b [Scholarly knowledge	 erudition]; AR.16 [Understanding]; 				
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+cause	cause	NN1	A2.2 X2.1 X4.1	0	01.11.03 [0.90000000] [Causation]; 01.11.03.01 [0.90909091] [Cause/reason]; 01.11.03.01-01 [0.92307692] [reason/ground];	01.11.03 [0.90000000] [Causation]; 01.11.03.01 [0.90909091] [Cause/reason]	AK.03 [Cause]; AK.03.a [Cause/reason]; 					
+;	PUNC	YSCOL	PUNC	0	NULL	NULL						
+but	but	CCB	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	ZC [Grammatical Item]; AP.01.i [Similarity];					
+others	other	NN2	A6.1-/Z8	0	01.16.01.06-09 [0.93750000] [something else/something other]; 02.01.15.05.01-04.08 [0.94117647] [the other/other-self]; 01.16.06.05.01-06.01 [0.95238095] [other persons/things in addition];	01.16.06.05.01-06.01 [other persons/things in addition]	AP.01.f [Difference]; AR.53.c [Metaphysics]; AP.06.c.01 [Addition/supplementation]; 					
+did	do	VDD	A1.1.1 G2.2- X9.2+	0	01.15.02 [0.91666667] [Act/do]; 01.11.01.07-05 [1.00000000] [fare/get on]; 01.15.06 [1.00000000] [Carry out];	04.03 [Grammatical]	AO.02 [Doing]; AK.01.g [State/condition]; AO.07 [Carrying out]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.94444444] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01 [Large]; 01.16.06.03	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+feare	feare	NN1	Z99	0	NULL	02.04.21.10.05 [Causing apprehension/alarm]; 02.04.21 [Fear]	04.10 [] 					
+ranne	ranne	NN1	Z99	0	NULL	01.14.04.01.01-01 [0.94736842] [run]; 01.01.05.09 [1.00000000] [Flow]; 01.14.04.01.01-01 [1.00000000] [affect by running]; 01.14.04.01	04.10 [] 					
+vnto	vnto	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+place	place	NN1	M7 H1 A1.2	0	01.12.04 [0.85714286] [Place]; 01.12.04.01-07 [0.93333333] [proper];	01.12.04 [Place]	AL.04 [Place]; AL.04.a [Position/situation]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+The	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Bels	bels	NP2	Z99	0	NULL	03.08.05.07.02 [church-bell]; 03.13.03.02.08.04.02	04.10 [] 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+diuers	diuer	NN2	Z99	0	NULL	01.16.04.02 [More than one, plural]; 01.16.01.08-01 [Various/varied, various/sundry/several]; 01.16.01.08	04.10 [] 					
+Churches	church	NN2	S9/H1c S9c	0	03.08.01.05.01 [0.91666667] [A religion/church]; 03.08.03.05-02 [0.91666667] [collective]; 03.08.05.03.03 [0.92857143] [Church/place of worship];	03.08.05.03.03 [Church/place of worship]	BF.03.a [A religion/church]; BF.23.d [Clergyman]; BF.25.b.02 [Church/place of worship]; 					
+began	begin	VVD	T2+	0	02.07.03-18 [0.92857143] [begin to speak]; 01.15.03.02 [0.93333333] [Begin action/activity]; 01.16.03.03.02 [0.93750000] [Begin];	01.15.03.02 [Begin action/activity]	AX.03 [Speech]; AO.04 [Beginning action/activity]; AP.03.c.02 [Beginning]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+ring	ring	VVI	Q1.3 X3.2 A8	0	01.07.03.08.10-01 [0.93333333] [ring]; 01.07.03.07-07 [0.93750000] [remove ring of bark]; 01.12.03.06.03-02 [0.93750000] [form a ring];	01.09.09.02.03.03.02 [Hear, Ring]; 03.09.04.05.02.01-01 [Indicate, Ring (a bell) as signal, announce/proclaim]; 03.13.03.02.01.01-10	AG.02.g.08 [Keeping birds]; AG.02.f [Forestry/arboriculture]; AL.03.f.02 [Roundness]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+noyse	noyse	NN1	Z99	0	NULL	01.09.09.02.03.01.03 [Confused sound]; 01.09.09.02.03.01-02 [loud sound/noise]; 01.09.09.02-01 [sound]	04.10 [] 					
+whereof	whereof	RRQ	Z5	0	04.03 [Grammatical];	04.03 [Grammatical]	ZC [Grammatical Item];					
+astonishing	astonishing	JJ	X2.6- A6.2-	0	02.01.14.08.01 [0.94444444] [Causing wonder astonishing]; 01.09.01.03-04 [1.00000000] [rendering physically insensible]; 02.02.02.02-02 [1.00000000] [causing confusion];	02.01.14.08.01 [Causing wonder astonishing]	AR.51 [Feeling of wonder	 astonishment	 awe]; AI.04 [Physical insensibility]; AS.03 [Distraction	 confusion	 bewilderment]; 	
+diuers	diuer	NN2	Z99	0	NULL	01.16.04.02 [More than one, plural]; 01.16.01.08-01 [Various/varied, various/sundry/several]	04.10 [] 					
+Citizens	citizen	NN2	G1.1/S2mf S5+/S2mf	0	03.02.06 [1.00000000] [Inhabitant]; 03.02.06-03 [1.00000000] [opposed to foreigner/visitor]; 03.02.06.04.02-02 [1.00000000] [especially as having civic rights];	03.02.06 [1.00000000] [Inhabitant]; 03.02.06.04.02-02 [especially as having civic rights]	AZ.05 [Inhabitant]; AZ.05.d [Town-/city-dweller]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+sayd	sayd	NN1	Z99	0	NULL	02.07.03-04.02 [aforementioned]	04.10 [] 					
+Towne	towne	NP1	Z99	0	NULL	03.02.07.01.04.03 [Town]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+caused	cause	VVD	A2.2	0	01.11.03 [0.92857143] [Cause/bring about]; 01.11.03-10 [0.93333333] [cause to be/become]; 02.05.06-03.07 [1.00000000] [impel/prompt];	01.11.03 [Cause/bring about]; 02.05.06-03.07 [impel/prompt]	AK.03 [Cause]; AV.05 [Motivation]; 					
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	04.06 [Pronoun]	ZF [Pronoun];					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+arme	arme	NN1	Z99	0	NULL	03.03.16.03 [Arm/equip]	04.10 [] 					
+themselues	themselue	VVZ	Z99	0	NULL	04.06 []	04.10 [] 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+at	at	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+which	which	DDQ	Z5 Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+time	time	NNT1	T1 T1.2 T1.3	0	01.13 [0.88888889] [Time]; 01.13.03 [0.90000000] [Particular time]; 01.13-03 [0.93333333] [stretch/period/portion of time];	01.13 [Time]; 01.13.03[Particular time]; 01.13-03 [stretch/period/portion of time]	AM [Time]; AM.03 [Particular time]; 	is related to transformation				
+Paris	paris	NP1	Z2 Z1f	0	04.01.02 [Geographical Name]; 04.01.01 [Personal Name];	04.01.02 [Geographical Name]; 04.01.01 [Personal Name]	ZA02 [Geographical Name]; ZA01 [Personal Name];					
+began	begin	VVD	T2+	0	01.15.03.02 [0.89473684] [Begin/enter upon (an action)]; 02.07.03-18 [0.93750000] [begin to speak]; 01.15.03.02 [0.94117647] [Begin action/activity];	01.15.03.02 [Begin action/activity]	AO.04 [Beginning action/activity]; AX.03 [Speech]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+enter	enter	VVI	M1 S5+ Q1.2	0	01.13.04-01 [0.85714286] [begin]; 01.15.03.02 [0.89473684] [Begin/enter upon (an action)]; 01.13.11-04 [0.93750000] [pass into state  become];	01.13.04-01 [begin]; 01.15.03.02 [Begin/enter upon (an action)]; 01.13.11-04 [pass into state  become]	AM.04 [Period]; AO.04 [Beginning action/activity]; AM.11 [Change]; 					
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.93750000] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.16.06.03 [Great in quantity/amount/degree]; 01.12.02.04.01 [Large]	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+tumult	tumult	NN1	E3- X2.5- X5.2+	0	01.09.09.02.03.01.03-01 [0.95454545] [uproar/tumult]; 01.14.02.03 [1.00000000] [Irregular movement/agitation]; 01.15.20.03-09 [1.00000000] [violent/tumultuous action/outbreak];	01.09.09.02.03.01.03-01 [uproar/tumult];  01.15.20.03-09 [violent/tumultuous action/outbreak]; 03.04.10.01.01	AI.15.c.01 [Loudness]; AN.02.c [Irregular movement/agitation]; AO.21.c [Violent action/operation]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+When	when	CS	Z5	0	01.13.03-04 [when/at the time that]; 04.03 [];	01.13.03-04 [when/at the time that]; 04.03 []	AM.03 [Particular time]; ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Duke	duke	NN1	S7.1+/S2.2m	0	03.01.06.01.02.02-01 [0.93750000] [duke]; 01.05.18.22-08.03 [1.00000000] [bubo bubo]; 01.06.13.09.02.01-05.05.02 [1.00000000] [types of cherry];	03.01.06.01.02.02-01 [duke]	AY.06.a.02.b [Duke/duchess]; AE.13.m [Order Strigiformes (owls)]; AF.20 [Particular food plant/product]; 					
+de	de	NP1	Z5	0	04.03 [Grammatical];	04.03 [Grammatical]	ZC [Grammatical Item];					
+Monbason	monbason	NP1	Z99	0	NULL	04.01.03 [Other Proper Name]; 04.01.02	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+Gouernour	gouernour	NN1	Z99	0	NULL	03.04.06.13 [Ruler/governor]; 03.04.03.01-09	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+City	city	NN1	M7c M7/I2.1c	0	03.04.06.16-13 [0.93750000] [city state]; 03.02.07.01.04.02 [0.95833333] [City]; 03.02.07.01.04.02-02 [0.96551724] [sovereign/independent];	03.02.07.01.04.02 [City];	BB.06.j [A/the state]; AZ.06.d.01.b [City]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+hauing	haue	VVG	Z99	0	NULL	02.01 [Have in the mind]; 02.06 [Have/possess]; 02.01.08 [Understand]	04.10 [] 					
+intelligence	intelligence	NN1	X9.1+ X2.2+ S1.2.6+	0	02.01.08.01 [0.94117647] [Intelligence  cleverness]; 02.01.08.01-03 [0.94736842] [intelligent person]; 01.16.01-04 [1.00000000] [between persons/communities	02.01.08-01.02 [Understanding, comprehension, of something]; 01.16.01-04 [between persons/communities]; 03.09.05	 etc];	AR.17 [Intelligence	 cleverness]; AP.01 [Relation/relationship]; 			
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.03 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+came	come	VVD	M1 N3.1 A2.2	0	01.14.05.12 [1.00000000] [Move towards]; 02.01.12.08.07.07.01-07 [1.00000000] [assume character]; 03.09.03.02 [1.00000000] [Play the part of];	01.14.05.12 [Move towards]	AN.05.l [Movement towards a thing/person/position]; AR.42.h [Dissimulation	 pretence]; BG.03.b [Role-playing]; 				
+vnto	vnto	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+place	place	NN1	M7 H1 A1.2	0	01.12.04.01-07 [0.87500000] [proper]; 01.12.04 [0.88888889] [Place];	01.12.04 [Place]	AL.04.a [Position/situation]; AL.04 [Place]; 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+his	his	APPGE	Z8m	0	02.06.01-03.03.01 [his/her]; 04.06 [];	02.06.01-03.03.01 [his/her]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+Company	company	NN1	I2.1/S5+c S5+c G3/S5+c	0	01.12.05.25.04.01 [0.90476190] [An assemblage/collection]; 01.12.05.25.04.01-15.05 [0.92592593] [regarded as a whole/a body of people gathered]; 03.11.05.02 [0.93333333] [A business/company];	03.03.12.01.02-05.02.01 [Armed forces, Unit of army]; 03.03.12.01.02; 01.12.05.25.04.01-15.05	AL.05.v [Arrangement/fact of being arranged]; BI.05.b [A business/company]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+soldiers	soldier	NN2	G3/S2mf	0	03.13.01.06.01.01-03 [0.93750000] [toy soldier]; 03.03.15.11 [0.94736842] [Soldier]; 03.03.15.11.11 [0.95000000] [Common soldier];	03.03.15.11 [Soldier]	BK.01.e [Toy/plaything]; BA.14.k [Soldier]; BA.14.k.07 [Common soldier]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Watch	watch	NN1	T1/O2 M4	0	01.13.05.02-09 [0.89473684] [watch/period into which night was divided]; 01.13.06.02 [0.91666667] [Watch]; 01.15.15.01.03.01 [0.94736842] [Keeping watch];	01.15.15.01.04-08.01 [Safety, Watching/keepng guard, one who watches/keeps guard, body of watch]; 01.15.15.01.04-08.06.01; 03.03.12.01.01-16	AM.05.b [Night]; AM.06.b [Watch]; AO.16.a.03 [Vigilance]; 					
+'	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+diuers	diuer	VVZ	Z99	0	NULL	01.16.04.02 [More than one, plural]; 01.16.01.08-01 [Various/varied, various/sundry/several]; 01.16.01.08	04.10 [] 					
+others	other	NN2	A6.1-/Z8	0	01.16.01.06-09 [0.93750000] [something else/something other]; 02.01.15.05.01-04.08 [0.94117647] [the other/other-self]; 01.16.06.05.01-06.01 [0.95238095] [other persons/things in addition];	01.16.06.05.01-06.01 [other persons/things in addition]	AP.01.f [Difference]; AR.53.c [Metaphysics]; AP.06.c.01 [Addition/supplementation]; 					
+;	PUNC	YSCOL	PUNC	0	NULL	NULL						
+all	all	DB	N5.1+	0	01.16.07.02 [0.93750000] [All/the whole amount of]; 01.16.02.01-04 [0.95833333] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Armes	armes	NP1	Z99	0	NULL	03.03.16 [Military equipment, arms]; 03.03.16.02	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+placing	place	VVG	M2 X2.2+ I3.1	0	01.12.04-04 [0.92307692] [assign/attribute to particular place]; 01.12.04.05 [0.92307692] [Place/put in a position]; 03.13.04.13.06.03-10 [0.95454545] [state place];	01.12.04-04 [assign/attribute to particular place]; 01.12.04.05 [Place/put in a position]	AL.04 [Place]; AL.04.e [Placing/fact of being placed in (a) position]; BK.08.q.03 [Horse-racing]; 					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Court	court	NN1	G2.1 H3 M7/K5.2	0	03.13.04.13.16.10-03 [0.95454545] [court]; 03.05.12.01 [0.95652174] [Judicial body/assembly/court]; 03.04.06.13.09.01-14 [1.00000000] [assembly held by sovereign];	01.15.15.01.04-08.03 [post/place of (guard, Safety)]; 03.04.09.05.01.01-06 [guard of place of confinement]; 03.04.09.02.01.03-15.01	BK.08.v.08 [Racket games]; BC.09.a [Judicial body/assembly/court]; BB.06.h.09 [Deliberative/legislative/administrative assembly]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+guard	guard	NN1	A15+/I3.2/S2mf O2/A15+	0	01.15.15.01.04-08.03 [0.91666667] [post/place of]; 03.04.09.05.01.01-06 [0.92000000] [guard of place of confinement]; 03.13.04.12-01 [0.94736842] [guard/mask];	01.15.15.01.04-08.03 [post/place of (guard, Safety)]; 03.04.09.05.01.01-06 [guard of place of confinement]; 01.15.15.01-09; 03.03.15.11.09-06	AO.16.a.04 [Watching/keeping guard/watchful guard]; BB.09.e.01.a [Confinement]; BK.08 [Sport]; 					
+at	at	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+both	both	DB2	N5	0	01.16.04.01.02-07 [0.93333333] [both];	01.16.04.01.02-07 [both]	AP.04.b [Two]; 					
+ends	end	NN2	T2- O2	0	02.05.04-03.06 [0.93333333] [end/purpose/object]; 01.12.05.13 [0.93750000] [End/extremity]; 01.16.03.03.04 [0.93750000] [End/conclusion];	01.12.05.13 [End/extremity]	AV.03 [Intention]; AL.05.m [End/extremity]; AP.03.c.03 [End/conclusion]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Bridges	bridges	NP1	Z99	0	NULL	03.10.03.01.03-04 [means of travel: bridge]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+other	other	JJ	A6.1-	0	01.16.01.06-08 [0.92307692] [different/other/further]; 01.16.06.05.01-04.03 [0.94117647] [other additional]; 01.16.04.01.02.05 [0.94444444] [Second];	01.16.01.06-08 [different/other/further]; 01.16.06.05.01-04.03 [other additional]	AP.01.f [Difference]; AP.06.c.01 [Addition/supplementation]; AP.04.b [Two]; 					
+places	place	NN2	M7 H1 A1.2	0	01.12.04 [0.85714286] [Place]; 01.12.04.01-07 [0.93333333] [proper];	01.12.04 [Place]	AL.04 [Place]; AL.04.a [Position/situation]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+From	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+thence	thence	RR	M6 T1.2 A2.1	0	01.11.03.02-03 [1.00000000] [from which source/origin]; 01.13.08.05-12 [1.00000000] [thereafter/after that]; 01.12.04.04-01 [1.00000000] [away from some recognized place];	01.11.03.02-03 [from which source/origin]; 01.13.08.05-12 [thereafter/after that]; 01.12.04.04-01 [away from some recognized place]	AK.03.b [Source/origin]; AM.08.d [The future/time to come]; AL.04.d [Absence]; 					
+he	he	PPHS1	Z8m	0	04.06 [];	04.06 []	ZF [Pronoun];					
+went	go	VVD	A2.1+	0	02.07.03 [1.00000000] [Speak/say/utter]; 01.14.03 [1.00000000] [Move along]; 01.11.01.01-01 [1.00000000] [end/cease to exist];	01.14.03[Move along]; 01.15.21-03; 03.10	AX.03 [Speech]; AN.03 [Progressive motion]; AK.01.a [Non-existence]; 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+possesse	possesse	NN1	Z99	0	NULL	02.06.13.01 [Take possession of]; 02.06	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+strongest	strong	JJT	S1.2.5+++ N5+++ A5.1+++	0	01.15.14.02-02 [0.94117647] [greatly];	01.15.14.02-02 [greatly]; 03.03.06.03; 03.03.06-03.02; 01.10.04.05	AO.15.b [Efficacy]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+most	most	RGT	A13.2	0	01.16.06.03.01-09 [0.95000000] [in the greatest degree/most]; 01.16.02.01-01 [0.95652174] [for/in the most part]; 01.16.01.09-10 [1.00000000] [almost/nearly];	01.16.06.03.01-09 [in the greatest degree/most]	AP.06.a.01 [High/intense degree]; AP.02.a [Generality]; AP.01.i [Similarity]; 					
+eminent	eminent	JJ	X9.1+	0	02.02.09.05.03.01 [0.95652174] [Famous/eminent]; 01.12.02.04.06-05 [1.00000000] [surpassing]; 01.12.03.08.01 [1.00000000] [Projecting/prominent];	02.02.09.05.03.01 [Famous/eminent]; 01.12.02.04.06-05 [surpassing]; 01.12.03.08.01 [Projecting/prominent]; 02.02.08-08.04	AS.13.a.01 [Famous/eminent person]; AL.02.d.06 [Vertical extent]; AL.03.h.01 [Projection/prominence	 rough surface]; 				
+places	place	NN2	M7 H1 A1.2	0	01.12.04 [0.87500000] [Place]; 01.12.04.01-07 [0.93750000] [proper];	01.12.04 [Place]	AL.04 [Place]; AL.04.a [Position/situation]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	01.16.03.03.02-03 [For instance]; 04.03 [Grammatical]	ZC [Grammatical Item]; AP.01.i [Similarity];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Bastille	bastille	NP1	Z99	0	03.04.12.05.01-18 [Punish in prisonspecific prisons]	04.01.03 [other proper name]; 03.04.12.05.01-18	BB.12.e.01 [Prison] 					
+'	PUNC	YCOM	PUNC	0	NULL	NULL						
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Kings	kings	NP1	Z3c	0	04.01.03 [Other Name];	 03.01.06.01.02.01-02.02 [Royalty, king] 04.01.03 [Other Name]	ZA03 [Other Proper Name];					
+Court	court	NP1	S3.2 X7+	0	NULL	03.02.07.02.06.03 [Dwelling of king/ruler]; 04.01.03	04.10 [] 					
+called	call	VVD	Q2.2	0	01.09.09.02.04.04-11 [0.94117647] [call]; 03.04.02.01-11 [1.00000000] [summon]; 03.09.14.02.02 [1.00000000] [Communicate by telephone];	02.07.05-05 [Give a name to]	AI.15.d.04 [Loud cry/shout]; BB.02.a [Command/bidding]; BG.14.b.02 [Telephony]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Louure	louure	NN1	Z99	0	NULL	04.01.03 [Other Proper Name]; 04.01.02	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Towne	towne	NP1	Z99	0	NULL	03.02.07.01.04.03 [Town]	04.10 [] 					
+house	house	NN1	H1 P1/S5+c G1.1c	0	03.02.07.02 [1.00000000] [Dwelling-place/abode]; 03.12.10-24 [1.00000000] [trading firm/establishment]; 03.02.07.03 [1.00000000] [A building];	03.02.07.03 [A building]; 04.01.03 [other proper name]	AZ.06.e [Dwelling-place/abode]; BJ.01.h [Trader]; AZ.06.f [A building]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+diuers	diuer	VVZ	Z99	0	NULL	01.16.04.02 [More than one, plural]; 01.16.01.08-01 [Various/varied, various/sundry/several]; 01.16.01.08	04.10 [] 					
+places	place	NN2	M7 H1 A1.2	0	01.12.04 [0.88888889] [Place]; 01.12.04.01-07 [0.94117647] [proper];	01.12.04 [Place]	AL.04 [Place]; AL.04.a [Position/situation]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+note	note	NN1	Q1.2 K2	0	03.09.13.03-09 [0.92307692] [diplomatic letter]; 03.09.13.03-02 [0.93333333] [short letter/note]; 03.09.13.03-30 [0.93333333] [tenor/purport of letter];	02.02.09.05.02 [State of beingnoteworthy/remarkable]; 02.02.09.05.03 [Fame/renown]	BG.13.c [Letter]; 					
+;	PUNC	YSCOL	PUNC	0	NULL	NULL						
+which	which	DDQ	Z8	0	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	01.16.01-16 [.which/what/who]; 04.06 [Pronoun]; 04.03 [Grammatical]	AP.01 [Relation/relationship]; ZF [Pronoun]; ZC [Grammatical Item];					
+done	do	VDN	A1.1.1 G2.2- X9.2+	0	01.15.02 [0.92307692] [Act/do]; 01.11.01.07-05 [1.00000000] [fare/get on]; 01.15.06 [1.00000000] [Carry out];	01.15.02 [Act/do]; 01.15.06 [Carry out]	AO.02 [Doing]; AK.01.g [State/condition]; AO.07 [Carrying out]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+he	he	PPHS1	Z8m	0	04.06 [];	04.06 []	ZF [Pronoun];					
+caused	cause	VVD	A2.2	0	01.11.03 [0.92307692] [Cause/bring about]; 01.11.03-10 [0.92857143] [cause to be/become]; 03.06.01.02.01.01 [0.95833333] [Make excuses];	01.11.03 [Cause/bring about]	AK.03 [Cause]; BD.01.b.01.a [Excuse]; 					
+fires	fire	NN2	O4.6+	0	01.17.04.07-07 [0.85714286] [fire of]; 01.10.01.01-03 [0.93333333] [fire]; 01.10.08-10.01 [0.93333333] [resembling fire/flame];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AQ.04.g [Hell]; AJ.01 [Alchemy]; AJ.08 [Light]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+be	be	VBI	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+made	make	VVN	A1.1.1 A9+ A2.2	0	01.15.10-02 [0.95000000] [to do something]; 03.04.09.04.03-05 [0.95000000] [to do something]; 01.01.05.09.02.01-02 [1.00000000] [ebb/flow];	01.11.03 [Cause/bring about]	AO.11 [Endeavour]; BB.09.d.03 [Compulsion]; AA.04.g [Flowing water]; 					
+thorowout	thorowout	VVI	Z99	0	NULL	01.16.07.01.02 [So as to affect the whole of]; 4.03	04.10 [] 					
+all	all	DB	N5.1+	0	01.16.07.02 [0.93333333] [All/the whole amount of]; 01.16.02.01-04 [0.95652174] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Citie	citie	FW	Z99	0	NULL	03.02.07.01.04.02 [City]	04.10 [] 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+Lanternes	lanternes	NP2	Z99	0	NULL	01.10.08.07.01-07.19 [An artificial light, lamp]	04.10 [] 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+bee	bee	NN1	L2mfn K1/S1.1.3+	0	01.05.12.11.08.14-05.03.01.01 [0.93333333] [member of/bee]; 03.09.07.04.02-05 [0.94117647] [others]; 02.02.18.01.01.01 [0.95652174] [Jewellery of specific shape/form];	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AE.08.i [Class Insecta (insects)]; BG.07.d [Written character]; AS.21.a [Ornamentation	 jewellery]; 				
+hung	hang	VVN	M2 M1 M8	0	01.08.01.14.02-01 [0.90476190] [hang/adorn with tapestry]; 03.13.04.13.16-04 [0.91666667] [motion of ball]; 01.12.05.09.01-02 [0.92000000] [of gates/doors: be suspended at the side];	01.12.05.09.01-06 [Cause to have specific position/arrangement, Hang/suspend, hang allowing movement about attachment point]; 01.12.05.09.01	AH.01.h.04 [Ornamental textiles]; BK.08.v [Ball game]; AL.05.i.01 [Hanging/suspension]; 					
+out	out	II21	Z5 A9-	14:02:01	[MWE] 01.14.05.11 [0.86666667] [Out of Go/come out of]; 01.12.06.01-06.01 [0.95454545] [Specific directions so as to point/extend from]; 01.12.06.01-06 [1.00000000] [Specific directions in outward direction from];	[MWE] 01.14.05.11 [Out of Go/come out of]; 01.12.06.01-06.01	AN.05.k [Going/coming out]; AL.06.a [Specific directions]; 					
+of	of	II22	Z5 A9-	14:02:02	[MWE] 01.14.05.11 [0.86666667] [Out of Go/come out of]; 01.12.06.01-06.01 [0.95454545] [Specific directions so as to point/extend from]; 01.12.06.01-06 [1.00000000] [Specific directions in outward direction from];	[MWE] 01.14.05.11 [Out of Go/come out of]; 01.12.06.01-06.01	AN.05.k [Going/coming out]; AL.06.a [Specific directions]; 					
+euery	euery	NN1	Z99	0	NULL	01.16.02.01-10.05.01 [each/every]	04.10 [] 					
+window	window	NN1	H2 T1.3	0	01.13.09-04 [0.88235294] [portion of suitable time/window]; 03.02.07.03.06.05-06 [0.90000000] [window]; 03.02.07.03.06.05-06.04 [0.90909091] [aperture for];	03.02.07.03.06.05-06 [window]; 03.02.07.03.06.05-06.04 [aperture for]	AM.09 [Suitable time/opportunity]; AZ.06.f.02.e [Window/door]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+so	so	RG	A13.3	0	01.15.20-08 [0.85714286] [in that way]; 01.16.01.09-02 [0.88235294] [such that]; 02.02.09.04 [0.88235294] [Approvingly];	01.16.06.01-01 [in respect of quantity: to this/that extent]	AO.21 [Manner of action]; AP.01.i [Similarity]; AS.12.d [Approval/sanction]; 					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.88235294] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01[Large]; 01.16.06.03	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+quantity	quantity	NN1	N5	0	01.16.06 [Quantity]; 01.16.06-07 [a quantity/amount]	01.16.06-07 [a quantity/amount]; 01.16.06; 01.16.04	AP.06 [Quantity]; 					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+was	be	VBDZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+as	as	RG	A13	0	01.16.01.09-03 [0.94117647] [as if/as though]; 01.16.01.09-01 [0.95000000] [so/in such a manner]; 01.11.03.01-01 [1.00000000] [because];	01.16.06.01-04 [In respect of quantity/degree To such an extent] 01.16.01.09-01 [so/in such a manner]; 4.03	AP.01.i [Similarity]; AK.03.a [Cause/reason]; 					
+light	light	JJ	W2 O4.3 N3.5-	0	01.10.03.02 [0.83333333] [Light];	01.10.03.02 [Light]	AJ.03.b [Lightness]; 					
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	04.03 [Grammatical]; 02.02.04.04 [Linking comparatives]; 	ZC [Grammatical Item]; AP.01.i [Similarity];					
+at	at	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+no	no	AT	Z6	0	04.04 [];	04.04 []; 4.1	ZD [Negative];					
+one-day	one-day	JJ	T1.3	0	NULL	01.13.03-04.01 [Particular time, time of occurrence, day/night time of occurrence; 4.1	04.10 [] 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+caused	cause	VVD	A2.2	0	01.11.03 [0.92307692] [Cause/bring about]; 01.11.03-10 [0.92857143] [cause to be/become]; 03.06.01.02.01.01 [0.95833333] [Make excuses];	01.11.03 [Cause/bring about]; 01.11.03-10	AK.03 [Cause]; BD.01.b.01.a [Excuse]; 					
+foure	foure	NN1	Z99	0	NULL	01.16.04 [Number]; 01.16.04.01.04	04.10 [] 					
+Culverins	culverin	NN2	Z99	0	03.03.16.01.05.03.02-03 [0.96666667] [hand culverin]; 03.03.16.01.05.03.01-05 [1.00000000] [large/long pieces];	03.03.16.01.05.03.02-03 [hand culverin]; 03.03.16.01.05.03.01-05 [large/long pieces]	BA.15.a.04.d [Small-arm]; BA.15.a.04.c [Piece of artillery]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+be	be	VBI	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+brought	bring	VVN	M2 A2.2	0	01.11.03 [0.83333333] [Cause/bring about]; 01.14.06.01 [0.90909091] [Bring]; 03.09.05.04-07 [0.92307692] [bring word];	 01.14.06.01 [Bring] 	AK.03 [Cause]; AN.06 [Transference]; BG.05.d [Reporting]; 					
+to	to	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+both	both	DB2	N5	0	01.16.04.01.02-07 [0.93333333] [both];	01.16.04.01.02-07 [both]	AP.04.b [Two]; 					
+ends	end	NN2	T2- O2	0	02.05.04-03.06 [0.93750000] [end/purpose/object]; 01.12.05.13 [0.94117647] [End/extremity]; 01.16.03.03.04 [0.94117647] [End/conclusion];	01.12.05.13 [End/extremity]	AV.03 [Intention]; AL.05.m [End/extremity]; AP.03.c.03 [End/conclusion]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+said	said	JJ	Z99	0	02.07.03-04.02 [1.00000000] [aforementioned]; 02.07.03-04.02 [1.00000000] [aforementioned];	02.07.03-04.02 [aforementioned]	AX.03 [Speech]; 					
+Bridges	bridges	NP1	Z99	0	NULL	03.10.03.01.03-04 [means of travel: bridge]	04.10 [] 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+conclude	conclude	VVI	X6+ T2-	0	01.16.03.03.04 [0.90000000] [Bring to an end/conclude]; 01.16.03.03.04-04 [0.90909091] [make an end/finish up/conclude]; 02.02.07-04 [0.93750000] [conclude];	01.16.03.03.04 [Bring to an end/conclude]; 01.16.03.03.04-04 [make an end/finish up/conclude]; 02.02.07-04 [conclude]	AP.03.c.03 [End/conclusion]; AS.06.b [Judgement	 decision]; 				
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+vsed	vse	VVD	Z99	0	NULL	01.15.02.02 [Practise, carry on]; 01.15.14.01.01; 01.15.14.01.01.02	04.10 [] 					
+such	such	DA	Z5 Z8	0	01.16.02-02 [of a certain kind]; 04.03 [];	01.16.02-02 [of a certain kind]; 01.16.06.01-01 [quantity/degree]; 04.03 []	AP.02 [Kind/sort]; ZC [Grammatical Item];					
+diligence	diligence	NN1	X5.2+	0	01.15.20.07-04 [0.95238095] [studious care/diligence]; 01.15.20.07-04.03 [0.95454545] [diligence in service]; 01.15.20.02-03.01 [1.00000000] [an effort];	01.15.20.07-04 [studious care/diligence]; 01.15.20.07-04.03 [diligence in service]; 01.15.20.02-03.01 [an effort]	AO.21.g [Care/carefulness/attention]; AO.21.b [Effort/exertion]; 					
+in	in	II	Z5	15:02:01	 [MWE] 01.11.03.01-06 [Cause/reason for that reason/because of that/inasmuch as]	01.12.04 [Belonging to/localized in a place]	AK.03.a [Cause/reason]					
+that	that	DD1	Z5	15:02:02	 [MWE] 01.11.03.01-06 [Cause/reason for that reason/because of that/inasmuch as]	04.03 [Grammatical]	AK.03.a [Cause/reason]					
+imminent	imminent	JJ	T1.1.3	0	01.13.08.05-03 [0.93750000] [imminent/near/at hand]; 01.11.01.05 [1.00000000] [Intrinsic/inherent]; 01.12.05.07.02 [1.00000000] [Overhanging];	01.13.08.05-03 [imminent/near/at hand]; 01.11.01.05 [Intrinsic/inherent]	AM.08.d [The future/time to come]; AK.01.e [Intrinsicality/inherence]; AL.05.g [High position]; 					
+danger	danger	NN1	A15- A7+	0	01.15.17.04 [0.95238095] [Danger]; 01.15.17.04-03 [0.96000000] [instance/cause of]; 01.15.17.04-06 [0.96296296] [liability to harm/loss etc.];	01.15.17.04 [Danger]; 01.15.17.04-03 [instance/cause of]; 01.15.17.04-06 [liability to harm/loss etc.];	AO.18.c [Danger]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+still	still	RR	T2++ Z4 E3+	0	01.13.08.03-06 [0.94117647] [as formerly/still/to this day]; 01.14.09-01 [1.00000000] [without moving];	01.13.08.03-06 [as formerly/still/to this day]	AM.08.b [The present (time)]; AN.09 [Absence of movement]; 					
+keeping	keep	VVG	A9+ N6+ T2++	0	01.15.15.01.01-02 [0.96296296] [remain in good condition]; 01.13.11.05.02 [1.00000000] [Maintain oneself]; 01.15.06.01 [1.00000000] [Observe/carry out a promise/law etc.]	01.13.11.05.02 [Maintain oneself]; 01.15.06.01 [Observe/carry out a promise/law etc.]; 01.15.05	AO.16.a.01 [Preservation from injury/destruction]; AM.11.e [Absence of change	 changelessness]; AO.07 [Carrying out]; 				
+good	good	JJ	A5.1+ G2.2+ O4.2+	0	02.03.01 [0.92307692] [Good]; 03.06.04 [0.94117647] [Virtuous/morally good];	02.03.01 [Good]; 01.15.22-11 [Able, competent]	AT.01 [Goodness	 acceptability]; BD.04 [Virtue]; 				
+watch	watch	NN1	T1/O2 M4	0	01.15.15.01.04-02.01 [0.88888889] [by a picked body of the community]; 01.15.15.01.04-08.01 [0.91666667] [body of]; 01.15.15.01.03.01-04 [0.92000000] [surveillance];	01.15.15.01.04-02.01 [by a picked body of the community]; 01.15.15.01.04-08.01  [body of]; 01.15.15.01.03.01-04 [surveillance]; 01.15.15.01.03	AO.16.a.04 [Watching/keeping guard/watchful guard]; AO.16.a.03 [Vigilance]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+doubting	doubt	VVG	A7-	0	02.01.13.08 [0.94444444] [Doubt]; 02.01.13.08 [0.95000000] [Doubt  be uncertain]; 02.01.13.08.02 [0.95238095] [Mistrust	02.01.13.08 [Doubt]; 02.01.13.08 [Doubt  be uncertain]; 02.01.13.08.02 [Mistrust]	 suspect];	AR.47.a [Uncertainty	 doubt	 hesitation]; AR.47.b [Lack of confidence	 distrust	 suspicion]; 
+some	some	DD	N5 Z5	0	01.16.06-03 [0.94444444] [some/any]; 01.16.06-03.01 [0.94736842] [some at least]; 01.16.02.01-10.07 [0.95652174] [some kind of/some];	01.16.06-03 [some/any]; 01.16.06-03.01 [some at least]; 01.16.02.01-10.07 [some kind of/some]	AP.06 [Quantity]; AP.02.a [Generality]; 					
+Newes	newe	NN2	Z99	0	NULL	03.09.05.09 [News/tidings]; 03.09.05.09-01 [piece of]	04.10 [] 					
+from	from	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+France	france	NP1	Z2	0	04.01.02 [Geographical Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+treason	treason	NN1	G2.1-	0	02.03.05.15.01-03 [0.91666667] [instance]; 02.03.05.15.01 [0.92307692] [Treacherous action]; 03.06.01.03.02.03-08 [0.93333333] [treason];	02.03.05.15.01-03 [instance]; 02.03.05.15.01 [Treacherous action]; 03.06.01.03.02.03-08 [treason]; 03.05.09.02.01-41	AT.16 [Treachery	 treason]; BD.01.c.02.c [Treachery]; 				
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+he	he	PPHS1	Z8m	0	04.06 [];	04.06 []	ZF [Pronoun];					
+is	be	VBZ	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+perpetually	perpetually	RR	T2+++	0	01.15.05-01 [1.00000000] [in a continuous manner/without stopping]; 01.13.02.01 [1.00000000] [Eternally/endlessly]; 01.13.11.05.03-03 [1.00000000] [without cessation];	01.15.05-01 [in a continuous manner/without stopping]; 01.13.02.01 [Eternally/endlessly]; 01.13.11.05.03-03 [without cessation]	AO.06 [Continuing]; AM.02.a [Eternity/infinite duration]; AM.11.e.01 [Lasting quality	 permanence]; 				
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+be	be	VBI	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+commended	commend	VVN	Q2.2	0	02.02.09.04.02 [0.94736842] [Commend/praise]; 01.15.15.01-10.01 [1.00000000] [a feudal lord]; 01.15.15.01.05-12.03 [1.00000000] [a person];	02.02.09.04.02 [Commend/praise]	AS.12.e [Commendation/praise]; AO.16.a [Protection/defence]; AO.16.a.05 [Care/protection/charge]; 					
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+same	same	DA	A6.1+++	0	01.16.01.04-02.02 [0.83333333] [same that]; 01.16.01.04 [0.90000000] [Same]; 01.16.01.04-02.01 [0.92307692] [same as];	01.16.01.04-02.02 [same that]; 01.16.01.04 [Same]; 01.16.01.04-02	AP.01.d [Identity]; 					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+In	in	II	altogether B5-	16:02:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	altogether B5-	16:02:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+meanetime	meanetime	NNT1	Z99	0	NULL	01.13-02 [As regards time, meanwhile]	04.10 [] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+while	while	CS	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+he	he	PPHS1	Z8m	0	04.06 [];	04.06 []	ZF [Pronoun];					
+was	be	VBDZ	Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+thus	thus	RR	Z5/A2.2	0	01.11.03.06 [Effect/result]; 04.03 [];	01.11.03.06 [Effect/result]; 04.03 []	AK.03.f [Effect/result/consequence]; ZC [Grammatical Item];					
+prouidently	prouidently	RR	Z99	0	NULL	02.01.14.09.01 [Providently, prudently]; 01.15.16-03 [fortunately/luckily]; 01.17.04.01.03-01	04.10 [] 					
+busied	busy	VVN	A1.1.1 X5.1+	0	01.15.02.03 [0.93750000] [Occupy/busy oneself]; 01.15.02.03 [0.94444444] [Be occupied/busy (in/at something)]; 01.15.02.03 [0.94444444] [Occupy/engage (a person)];	01.15.02.03 [Occupy/busy oneself]; 01.15.02.03 [Be occupied/busy (in/at something)]; 01.15.02.03 [Occupy/engage (a person)]	AO.02.b [Activity/occupation]; 					
+about	about	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+publike	publike	JJ	Z99	0	NULL	03.04.07-01 [public]; 3.01	04.10 [] 					
+care	care	NN1	S8+ G1.1/S8+ B3	0	01.15.20.07 [0.92857143] [Care/carefulness/attention]; 01.15.15.01.05 [0.95000000] [Care/protection/charge]; 01.15.15.01.05-04 [0.95454545] [care/kindly interest];	01.15.20.07 [Care/carefulness/attention]; 01.15.15.01.05 [Care/protection/charge]	AO.21.g [Care/carefulness/attention]; AO.16.a.05 [Care/protection/charge]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+so	so	RG	A13.3	0	01.16.01.09-02 [0.87500000] [such that]; 01.16.01.09-01 [0.89473684] [so/in such a manner]; 01.15.20-08 [0.92857143] [in that way];	01.16.06.01-01 [in respect of quantity: to this/that extent]	AP.01.i [Similarity]; AO.21 [Manner of action]; 					
+nedessary	nedessary	JJ	Z99	0	NULL	02.05.02-05 [Necessitated by circumstance]	04.10 [] 					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+such	such	DA	Z5 Z8	0	01.16.02-02 [of a certain kind]; 04.03 [];	01.16.02-02 [of a certain kind]; 04.03 []	AP.02 [Kind/sort]; ZC [Grammatical Item];					
+an	an	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+extremitie	extremitie	NN1	Z99	0	NULL	01.15.18-02 [Adversity, most extreme]; 01.12.05.13	04.10 [] 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+The	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.10.01.01-03 [0.92857143] [fire]; 01.10.08-10.01 [0.92857143] [resembling fire/flame]; 01.17.04.07-07 [0.92857143] [fire of];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AJ.01 [Alchemy]; AJ.08 [Light]; AQ.04.g [Hell]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+like	like	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+tempest	tempest	NN1	W4	0	01.01.11.02.02-04.05 [1.00000000] [a storm]; 01.01.11.02.02.01-02.03 [1.00000000] [thunderstorm];	01.01.11.02.02-04.05 [a storm]; 01.01.11.02.02.01-02.03 [thunderstorm]	AA.11.b [Bad weather]; AA.11.b.01 [Thunder and lightning]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+deuoured	deuour	VVD	Z99	0	NULL	01.11.02.02-08 [devour/engulf/consume (of fire/water, etc )]	04.10 [] 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+spoyled	spoyl	VVD	Z99	0	01.12.05.05.01-06.05 [Having a closurespigot]	01.11.02.02-02 [Destroy, bring to ruin/put an end to]	AL.05.e [Closed/shut condition] 					
+all	all	DB	N5.1+	0	01.16.07.02 [0.94117647] [All/the whole amount of]; 01.16.02.01-04 [0.96000000] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+tooke	tooke	VV0	Z99	0	NULL	[MWE] 01.10.03.03.02.03-10 [Burn/consume by fire, of fire: seize on, take hold of]; 02.06.08-12	04.10 [] 					
+hold	hold	VV0	Z4 T2- A9+	17:02:01	[MWE] 01.07.04.09-01 [1.00000000] [Shooting manner/type of]; 01.15.05 [1.00000000] [Continually Continue]; 01.15.05 [1.00000000] [Continually Continue doing/keep going in a course of action];	[MWE] 01.10.03.03.02.03-10 [Burn/consume by fire, of fire: seize on, take hold of]; 03.04.03-02.01	AG.03.f [Shooting]; AO.06 [Continuing]; 					
+on	on	RP	Z4 T2- A9+	17:02:02	[MWE] 01.07.04.09-01 [1.00000000] [Shooting manner/type of]; 01.15.05 [1.00000000] [Continually Continue]; 01.15.05 [1.00000000] [Continually Continue doing/keep going in a course of action];	[MWE]; 04.03 [Grammatical]; 01.12.01.02-17.01	AG.03.f [Shooting]; AO.06 [Continuing]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+was	be	VBDZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+content	content	JJ	E4.2+	0	02.05.03.01 [0.93333333] [Willing]; 02.04.10.04 [0.93750000] [Contented/satisfied]; 02.05.03.01-01 [0.94736842] [to do something];	02.04.10.04 [Contented/satisfied]	AV.02.a [Willingness]; AU.10 [Contentment/satisfaction]; 					
+with	with	IW	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+that	that	DD1	Z8	0	04.06 [Pronoun]; 04.03 [Grammatical]	04.06 [Pronoun]; 04.03 [Grammatical]	ZF [Pronoun]; ZC [Grammatical Item];					
+whereon	whereon	RRQ	Z99	0	01.12.06-02.02.01 [0.95238095] [onto that/which]; 01.11.03.01-04 [0.95833333] [on account of which/wherefore]; 01.12.04.05-01.01 [1.00000000] [on what];	01.12.06-02.02.01 [onto that/which]; 01.12.04.05-01.01 [on what]	AL.06 [Direction]; AK.03.a [Cause/reason]; AL.04.e [Placing/fact of being placed in (a) position]; 					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+had	have	VHD	A9+ Z5 A2.2	0	02.01 [0.90000000] [Have in the mind]; 02.06 [0.90000000] [Have/possess]; 02.01.08 [0.90909091] [Understand];	04.03 [Grammatical]	AR.01 [Mental capacity]; AW [Possession/ownership]; AR.16 [Understanding]; 					
+first	first	MD	N4	0	01.16.04 [Number]	01.16.04 [Number]	AP.04 [Number];					
+seized	seize	VVN	A9+ X9.2+/G3 S7.1+	0	02.06.13.02 [0.81818182] [Seize]; 02.06.13.02.01 [0.84615385] [Catch/capture]; 02.06.13.02-07 [0.85714286] [with violence/forcibly];	02.06.13.02 [Seize]; 02.06.13.02.01 [Catch/capture]; 02.06.13.02-07 [with violence/forcibly]; 01.15.17.02-18	AW.15.a [Seizing	 capture]; 				
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+but	but	CCB	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+hauing	haue	VVG	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+satisfied	satisfied	JJ	E4.2+ A1.2+	0	02.04.10.04 [0.93750000] [Contented/satisfied]; 03.12.18.03-01 [1.00000000] [paid];	02.05.03.03-08[satisfy (needs/desires)]; 02.04.10.04-01 [content/satisfy]; 02.04.10.04	AU.10 [Contentment/satisfaction]; BJ.01.p.03 [Payment of debt]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+greedie	greedie	NN1	Z99	0	NULL	01.07.01.27.02-01.05 [greedy/voracious]; 02.05.03.03.03 [Strongly/eagerly desiring]	04.10 [] 					
+desire	desire	NN1	X7+ S3.2	0	01.09.03.01 [0.91666667] [Sexual desire]; 02.05.03.03 [0.92307692] [Desire]; 02.07.03.12-09 [0.92857143] [desire/wish];	 02.05.03.03 [Desire]	AI.09.a [Sexual desire]; AV.02.b [Desire]; AX.12 [Requesting]; 					
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.06 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+brought	bring	VVD	M2 A2.2	0	01.14.06.01 [0.90909091] [Bring]; 01.11.03 [0.92307692] [Cause/bring about]; 03.09.05.04-07 [0.92307692] [bring word];	01.11.03 [Cause/bring about]; 01.11.03-01.01; 01.14.06.01	AN.06 [Transference]; AK.03 [Cause]; BG.05.d [Reporting]; 					
+all	all	DB	N5.1+	0	01.16.07.02 [0.93750000] [All/the whole amount of]; 01.16.02.01-04 [0.95833333] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+houses	house	NN2	H1 P1/S5+c G1.1c	0	03.02.07.02 [0.93750000] [Dwelling-place/abode]; 03.02.07.03 [0.93750000] [A building]; 03.01.01.02.04 [1.00000000] [Stock/race/family];	03.02.07.02 [Dwelling-place/abode]; 03.02.07.03 [A building]; 03.02.07.02.06.01	AZ.06.e [Dwelling-place/abode]; AZ.06.f [A building]; AY.01 [Kinship/relationship]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+dwelling	dwelling	NN1	H4 T1.3+	0	03.02 [0.91666667] [Inhabiting and dwelling]; 03.02.07.02.06 [0.94736842] [A dwelling]; 01.13.09.02.01 [1.00000000] [Delay/postponement];	03.02.07.02 [Dwelling-place, abode]; 03.02.07.02.06 [A dwelling]	AZ [Inhabiting and dwelling]; AZ.06.e.05 [A dwelling]; AM.09.a.01 [Delay/postponement]; 					
+places	place	NN2	M7 H1 A1.2	0	01.12.04 [0.90000000] [Place]; 01.12.04.01-07 [0.94444444] [proper];	03.02.07.02 [Dwelling-place, abode]	AL.04 [Place]; AL.04.a [Position/situation]; 					
+vpon	vpon	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+sayd	sayd	NN1	Z99	0	NULL	02.07.03-04.02 [1.00000000] [aforementioned]	04.10 [] 					
+two	two	MC	N1 T1.2 T3	0	01.16.04 [Number]	01.16.04 [Number]	AP.04 [Number];					
+Bridges	bridges	NP1	Z99	0	NULL	03.10.03.01.03-04 [means of travel: bridge]	04.10 [] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+vtter	vtter	NN1	Z99	0	NULL	01.16.06.03.01-09 [utter/absolute];	04.10 [] 					
+ruine	ruine	NN1	Z99	0	NULL	01.10.10.02-05 [dilapidated/ruinous condition]; 01.11.02.02 [Destruction]; 01.15.18-16.07	04.10 [] 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+desolation	desolation	NN1	E4.1-	0	01.11.02.02-08 [0.95238095] [devastation/desolation]; 01.11.02.02-08.05 [1.00000000] [one who/that which]; 01.12.04.04.01-03 [1.00000000] [deserted condition];	01.11.02.02-08 [devastation/desolation]; 01.11.02.02-08.05 [one who/that which]; 01.12.04.04.01-03 [deserted condition]	AK.02.b [Destruction]; AL.04.d.01 [Fact of being unoccupied]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+layd	layd	VV0	Z99	0	NULL	01.11.03-02 [Cause/bring about, bring (a person/thing) into a state/condition ]; 01.12.04.05	04.10 [] 					
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	04.06 [Pronoun]	ZF [Pronoun];					
+in	in	II	altogether B5-	18:02:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	altogether B5-	18:02:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+valley	valley	NN1	W3	0	01.01.04.04.02.03 [0.85714286] [Valley]; 03.04.06.17.08-08 [0.88888889] [centre party]; 02.04.11.05 [0.92307692] [Misery];	01.01.04.04.02.03 [Valley]; 02.04.11.05 [0.92307692] [Misery]	AA.03.f.02 [Valley]; BB.06.k.08 [French politics]; AU.17 [Misery]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+miserie	miserie	NN1	Z99	0	NULL	02.04.11.05 [Misery]; 02.04.11.05-09 [cause/source of misery]; 01.15.18-12.02 [state of misery]	04.10 [] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+increased	increase	VVD	N5+/A2.1	0	01.16.06.05 [0.84615385] [Increase in quantity/amount/degree];	01.16.06.05 [Increase in quantity/amount/degree]	AP.06.c [Increase in quantity/amount/degree]; 					
+more	more	RRR	N5++	0	01.16.06.05.01-02.03 [0.95000000] [more/further]; 01.16.06.03-02 [1.00000000] [in/to a greater quantity/amount/degree];	01.16.06.05.01-02.03 [more/further]; 01.16.06.03-02 [in/to a greater quantity/amount/degree]	AP.06.c.01 [Addition/supplementation]; AP.06.a [Greatness of quantity/amount/degree]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+more	more	RRR	N5++	0	01.16.06.05.01-02.03 [0.95238095] [more/further]; 01.16.06.03-02 [1.00000000] [in/to a greater quantity/amount/degree];	01.16.06.05.01-02.03 [more/further]; 01.16.06.03-02 [in/to a greater quantity/amount/degree]	AP.06.c.01 [Addition/supplementation]; AP.06.a [Greatness of quantity/amount/degree]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+carried	carry	VVD	M2 A9+ Q4	0	01.09.09.02.01-02 [0.94117647] [carry]; 01.12.05.01.01 [1.00000000] [Contain/have within]; 01.12.05.09-04 [1.00000000] [while moving];	01.12.05.09-04 [while moving]; 01.14.06-07.11	AI.15.a [Audibility]; AL.05.a [Condition of being internal]; AL.05.i [Support]; 					
+her	her	APPGE	Z8f	0	02.06.01-03.03.01 [his/her]; 04.06 [];	02.06.01-03.03.01 [his/her]; 04.06 []	AW.01 [Owning]; ZF [Pronoun];					
+flames	flame	NN2	O4.6+ Q2.2	0	02.01.08.01.01 [0.94117647] [High intelligence  genius]; 02.04.13.10-20.01 [0.94117647] [(of love) a flame/burning passion]; 01.10.03.03.02.03.02-09.14 [0.94444444] [a flame];	01.10.03.03.02.03.02-09.14 [a flame]; 01.10.03.03.02.03.02-09	AR.17.a [High intelligence	 genius]; AU.29 [Amorous love]; AJ.03.c.02.c [Burning	 fire	 flame	 ash]; 	
+into	into	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Calve	calve	NN1	B1/L2 A1.1.2	0	4.1	04.01.03 [other proper name]; 04.01.02	ZZ [Unrecognised] 					
+place	place	NN1	M7 H1 A1.2	0	01.12.04 [0.88888889] [Place]; 01.12.04.01-07 [0.94117647] [proper];	01.12.04 [Place]; 04.01.02	AL.04 [Place]; AL.04.a [Position/situation]; 					
+;	PUNC	YSCOL	PUNC	0	NULL	NULL						
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+if	if	CS	Z7	0	04.05 [];	04.05 []	ZE [Conditional];					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+had	have	VHD	A9+ Z5 A2.2	0	02.01 [0.90909091] [Have in the mind]; 02.06 [0.90909091] [Have/possess]; 02.01.08 [0.91666667] [Understand];	04.03 [Grammatical]	AR.01 [Mental capacity]; AW [Possession/ownership]; AR.16 [Understanding]; 					
+not	not	XX	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+beene	beene	NN1	Z99	0	NULL	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	04.10 [] 					
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+some	some	DD	N5 Z5	0	01.16.06-03 [0.94444444] [some/any]; 01.16.06-03.01 [0.94736842] [some at least]; 03.01.07.06-02 [0.95000000] [not at variance];	01.16.06-03 [some/any]	AP.06 [Quantity]; AY.07.f [Absence of dissension/peace]; 	hi				
+artificiall	artificiall	NN1	Z99	0	NULL	01.11.02-02.07 [contrived/artificial/put together]; 01.15.22.01-12.06	04.10 [] 					
+trenches	trench	NN2	O2 M7/G3	0	01.01.05.06.01-26.02 [0.94444444] [trench/cavity in]; 03.03.06.03.08-12 [0.94736842] [trench]; 01.02.02.05.05-02 [1.00000000] [depression/cavity];	03.03.06.03.08-12 [trench]	AA.04.c [Sea/ocean]; BA.06.c.07 [Earthwork/rampart]; AB.10 [Physical Aspects of Organisms]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+mens	men	VVZ	S2.2m	0	NULL	01.04.04.01 [Man]; 01.04.04.01-05 [men collectively]; 01.04.04	04.10 [] 					
+[NULL]	's	GE	Z5	0	04.03 [];	ZC [Grammatical Item];						
+helpe	helpe	NN1	Z99	0	NULL	01.15.12.01-05 [that which/one who helps/means of help]; 01.15.12.01 [Aid/help/assistance]	04.10 [] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+who	who	PNQS	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.94444444] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.16.06.03 [Great in quantity/amount/degree]; 01.12.02.04.01 [Large]	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+numbers	number	NN2	N5 N1 Q1.3	0	01.16.04 [0.90909091] [Number]; 01.12.05.25.04.01 [1.00000000] [An assemblage/collection]; 01.16.04.05-02 [1.00000000] [figure];	01.16.04 [Number]; 01.12.05.25.04.01 [An assemblage/collection]	AP.04 [Number]; AL.05.v [Arrangement/fact of being arranged]; AP.04.l [Mathematical notation/symbol]; 					
+ranne	ranne	NN1	Z99	0	NULL	01.14.04.01.01-01 [run]; 01.14.04.01	04.10 [] 					
+thither	thither	RL	Z99	0	01.13.08.04.03-09 [1.00000000] [until then]; 01.12.06-02.02 [1.00000000] [to/towards that place/direction]; 01.12.06-02.04 [1.00000000] [to/towards which place/direction];	01.12.06-02.02 [to/towards that place/direction]; 01.12.06-02.04 [to/towards which place/direction]	AM.08.c.02 [Antecedence/being earlier]; AL.06 [Direction]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.93333333] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	02.02.08-06 [of high/great importance]; 01.12.02.04.01 [Large]	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+Castle	castle	NN1	H1	0	03.03.06.03.02 [0.95238095] [Castle/fortified building]; 03.02.07.02.06.03-03 [0.95454545] [castle used as residence]; 03.03.06.03.02-07 [0.95454545] [temporary wooden tower];	03.03.06.03.02 [0.95238095] [Castle/fortified building]; 03.02.07.02.06.03-03 [0.95454545] [castle used as residence]	BA.06.c.02 [Castle/fortified building]; AZ.06.e.05.c [Dwelling of king/ruler]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+gate	gate	NN1	H2	0	01.12.05.04.01-23.05 [0.89473684] [gate/gateway]; 01.12.05.05.01.01-18 [0.94444444] [gate]; 01.07.04.04-07 [0.94736842] [track];	01.12.05.04.01-23.05 [gate/gateway]; 01.12.05.05.01.01-18 [gate]	AL.05.d.01 [An opening/aperture]; AL.05.e.01 [A barrier]; AG.03.d [Thing hunted/game]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Paris	paris	NP1	Z2 Z1f	0	04.01.02 [Geographical Name]; 04.01.01 [Personal Name];	04.01.02 [Geographical Name]	ZA02 [Geographical Name]; ZA01 [Personal Name];					
+,	PUNC	YCOM	PUNC	0	NULL	NULL						
+was	be	VBDZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+in	in	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+danger	danger	NN1	A15- A7+	0	02.05.03.02 [0.92307692] [Unwillingness]; 02.05.03.02-01 [0.93333333] [instance of]; 01.15.01-07 [0.94736842] [ability/liability to be affected];	01.15.17.04-06 [liability to harm/loss etc.]; 01.15.17.04	AV.02.a.01 [Unwillingness]; AO.01 [Operation upon something]; 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+haue	haue	VHI	Z5	0	04.03 [Grammatical];	04.03 [Grammatical]	ZC [Grammatical Item];					
+felt	feel	VVN	X2.1 E1 X3	0	02.04-02 [0.92857143] [feel an emotion]; 02.01.04.01 [0.95238095] [Be/become in a specific mood]; 01.09.05.02.01-01 [1.00000000] [grope about];	01.15.01-15 [Have effect on, be subject to action/influence]; 02.01.12.01.01; 01.15.01-17	AU.01 [Emotions	 mood]; AR.05 [Character	 disposition	 mood]; AI.11.b.01 [Touching with the hand]; 		
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+furie	furie	NN1	Z99	0	NULL	02.04.07 [Violent emotion]; 01.15.20.03 [0.92307692] [Violent action/operation]	04.10 [] 					
+thereof	thereof	RR	Z8	0	01.11.03.02-03 [from/out of]; 04.06 [];	01.11.03.02-03 [from/out of]; 04.06 []	AK.03.b [Source/origin]; ZF [Pronoun];					
+0	PUNC	YSTP	PUNC	0	NULL	NULL						
+S_END	NULL	NULL	Z99	0	NULL	NULL						
+S_BEGIN	NULL	NULL	Z99	0	NULL	NULL						
+On	on	II	Df	19:04:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Df	19:04:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+other	other	JJ	Df	19:04:03	01.16.06.05.01-04.03 [0.86666667] [other additional]; 01.16.01.06-08 [0.91666667] [different/other/further]; 01.16.07.04.01.01-07 [0.93750000] [the rest];	01.16.06.05.01-04.03 [other additional]; 01.16.01.06-08 [different/other/further]	AP.06.c.01 [Addition/supplementation]; AP.01.f [Difference]; AP.07.d.01.a [That which is left/remainder]; 					
+side	side	NN1	Df	19:04:04	01.12.05.12-02 [0.85714286] [the side of anything]; 01.12.06-07 [0.94117647] [direction to either side of something]; 03.01.04.05 [0.95000000] [Party/faction];	01.12.05.12-02 [the side of anything]; 01.12.06-07 [direction to either side of something]; 01.16.01-15	AL.05.l [Quality of having sides/being a side]; AL.06 [Direction]; AY.04.e [Party/faction]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+in	in	II	altogether B5-	20:02:01	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	altogether B5-	20:02:02	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+extremitie	extremitie	NN1	Z99	0	NULL	01.15.18-02 [Adversity, most extreme]; 02.04.07	04.10 [] 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+raging	raging	JJ	N5+	0	01.01.11.02.02-07.05 [0.88235294] [violent/raging]; 02.04.12.02-02 [0.88888889] [furiously angry]; 02.04.06-02 [0.93333333] [intensified];	02.04.06-02 [intensified]; 01.15.20.03-16	AA.11.b [Bad weather]; AU.25.a [Furious anger	 rage]; AU.04 [Intense emotion]; 				
+flames	flame	NN2	O4.6+ Q2.2	0	02.04.13.10-20.01 [0.80000000] [(of love) a flame/burning passion]; 02.01.08.01.01 [0.87500000] [High intelligence  genius]; 01.10.09.07.03-02.05 [0.93333333] [orange-red];	01.10.03.03.02.03.02-09.14 [a flame]; 01.10.03.03.02.03.02-09 [flame/blaze]	AU.29 [Amorous love]; AR.17.a [High intelligence	 genius]; AJ.09.e.03 [Red/redness]; 				
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+at	at	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+other	other	JJ	A6.1-	0	01.16.01.06-08 [0.92857143] [different/other/further]; 01.16.06.05.01-04.03 [0.94444444] [other additional]; 01.16.07.04.01.01-07 [0.94444444] [the rest];	01.16.01.06-08 [different/other/further]; 01.16.06.05.01-04.03 [other additional]	AP.01.f [Difference]; AP.06.c.01 [Addition/supplementation]; AP.07.d.01.a [That which is left/remainder]; 					
+end	end	NN1	M6 T2- O2	0	01.12.05.13 [0.87500000] [End/extremity]; 02.05.04-03.06 [0.93750000] [end/purpose/object]; 01.16.03.03.04 [0.94117647] [End/conclusion];	01.12.05.13 [End/extremity]	AL.05.m [End/extremity]; AV.03 [Intention]; AP.03.c.03 [End/conclusion]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Bridges	bridges	NP1	Z99	0	NULL	03.10.03.01.03-04 [means of travel: bridge]	04.10 [] 					
+aforesaid	aforesay	VVD	Q2.1/N4	0	4.1	02.07.03-04.02 [Of/pertaining to speech, aforementioned]; 01.13.08.04.03-14 [Antecedent, aforesaid]	ZZ [Unrecognised] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+fire	fire	NN1	O4.6+	0	01.17.04.07-07 [0.87500000] [fire of]; 01.10.01.01-03 [0.94117647] [fire]; 01.10.08-10.01 [0.94117647] [resembling fire/flame];	01.10.01.01-03 [fire]; 01.10.03.03.02.03.01; 01.10.03.03.02.03.02	AQ.04.g [Hell]; AJ.01 [Alchemy]; AJ.08 [Light]; 					
+was	be	VBDZ	A3+ Z5	0	01.11.01.07 [Be/remain in specific state/condition]; 01.16.01.04 [Be the same as]; 04.03 [Grammatical]	01.11.01.07 [Be/remain in specific state/condition]; 04.03 [Grammatical]	AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];					
+no	no	AT	Z6	0	04.04 [];	04.04 []	ZD [Negative];					
+lesse	lesse	NN1	Z99	0	NULL	01.16.06.07-12 [to a lesser extent]	04.10 [] 					
+furious	furious	JJ	E3-	0	02.04.07-01 [0.94117647] [affected by violent emotion]; 01.03.02.01-04.01 [0.95238095] [affected with]; 02.01.12.08.05-03 [0.95454545] [extravagant  excessive];	01.15.20.03 [Manner of action, Violent]; 02.04.07-01	AU.04 [Intense emotion]; AC.01.g.01 [Mental illness]; AR.40 [Exaggeration]; 					
+:	PUNC	YCOL	PUNC	0	NULL	NULL						
+for	for	IF	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+hauing	haue	VVG	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+seized	seized	JJ	A9+ X9.2+/G3 S7.1+	0	02.06.13.02-02 [0.93750000] [seized]; 01.14.09-01 [1.00000000] [rendered immobile/held fast]; 02.06.13.02.01-01 [1.00000000] [caught/captured];	02.06.13.02-02 [seized]; 01.14.09-01 [rendered immobile/held fast]; 02.06.13.02.01-01 [caught/captured]; 02.06.13.02; 01.14.09.01-09	AW.15.a [Seizing	 capture]; AN.09 [Absence of movement]; 				
+vpon	vpon	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+all	all	DB	N5.1+	0	01.16.07.02 [0.93750000] [All/the whole amount of]; 01.16.02.01-04 [0.95833333] [affecting all indiscriminately]; 01.13.02-05 [1.00000000] [while something lasts/during];	01.16.07.02 [All/the whole amount of]; 01.16.02.01-04 [affecting all indiscriminately]	AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+houses	house	NN2	H1 P1/S5+c G1.1c	0	03.02.07.02 [1.00000000] [Dwelling-place/abode]; 03.12.10-24 [1.00000000] [trading firm/establishment]; 03.02.07.03 [1.00000000] [A building];	03.02.07.02 [Dwelling-place/abode]; 03.02.07.03 [A building]; 03.02.07.02.06.01; 03.02.07.02	AZ.06.e [Dwelling-place/abode]; BJ.01.h [Trader]; AZ.06.f [A building]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+shops	shop	NN2	I2.2/H1 I4/H1 I2.2	0	03.12.13.04-01 [0.95000000] [shop]; 03.12.14.02-10.03 [0.95238095] [contents of shop]; 03.12.13.04-01.04 [0.96153846] [shop where goods are made and sold];	03.12.13.04-01 [shop]; 03.12.13.04-01.04 [shop where goods are made and sold]; 03.11.10.05	BJ.01.k.04 [Place where retail transactions made]; BJ.01.l.01 [Article(s) to be sold]; 					
+neere	neere	JJ	Z99	0	NULL	01.12.01.02 [0.90000000] [Near]; 01.12.01.02-11 [0.90909091] [nearer]; 01.12.01.02-14 [0.91666667] [nearly/closely];	04.10 [] 					
+vnto	vnto	NN1	Z99	0	NULL	04.03 [Grammatical]	04.10 [] 					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	01.16.06.01-04 [In respect of quantity/degree/extent]; 04.03 [Grammatical];  [MWE] 01.16.06.01-05 [Degree/relative amount to a certain extent]	ZC [Grammatical Item]; AP.01.i [Similarity];					
+farre	farre	NN1	Z99	0	NULL	 [MWE] 01.16.06.01-05 [Degree/relative amount to a certain extent]; 01.12.01.01	04.10 [] 					
+as	as	CSA	Z5	0	04.03 [Grammatical]; 01.16.01.09-01 [.so/in such a manner]	04.03 [Grammatical];  [MWE] 01.16.06.01-05 [Degree/relative amount to a certain extent]	ZC [Grammatical Item]; AP.01.i [Similarity];					
+before	before	II	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]; 01.12.05.10 [Relative position, In front of]	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Pallace	pallace	NP1	Z99	0	NULL	03.02.07.02.06.01.01-01 [Inhabited place, Types of house, large/palatial], 03.02.07.02.06.03 [Inhabited house, dwelling of ruler]; 03.02.07.02.06.01.01-13	04.10 [] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+tooke	tooke	VV0	Z99	0	NULL	[MWE] 01.10.03.03.02.03-10 [Burn/consume by fire, of fire: seize on, take hold of]; 02.06.08-12	04.10 [] 					
+holde	holde	NN1	Z99	0	01.09.08.03-06 [See/looklook at/behold]	[MWE] 01.10.03.03.02.03-10 [Burn/consume by fire, of fire: seize on, take hold of]; 03.04.03-02.01	AI.14.b [Seeing/looking] 					
+on	on	II	Z5	0	04.03 [Grammatical]	[MWE]; 04.03 [Grammatical]; 01.12.01.02-17.01	ZC [Grammatical Item];					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Dyall	dyall	NP1	Z99	0	NULL	01.13.06.01-06.02 [dial/markings on dial]; 04.01.02	04.10 [] 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+beganne	beganne	NN1	Z99	0	NULL	01.15.03.02 [Begin action/activity]	04.10 [] 					
+to	to	TO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+melt	melt	VVI	A2.1+ O4.6+	0	01.10.05.01.01 [0.92307692] [Melt]; 01.02.03.20.02 [0.93750000] [Sweat]; 01.10.10.02-08 [0.94444444] [decompose/crumble/melt away];	01.10.05.01.01 [Melt]	AJ.05.a [Making liquid/melting]; AB.17.o [Organs of excretion]; AJ.10.b [Bad condition of matter]; 					
+the	the	AT	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+Lead	lead	NN1	S7.1+ O2/L2 O3	0	01.10.03.01-06.03.01 [0.90909091] [lead as type of]; 01.10.02.17.04.01.58 [0.93750000] [Lead]; 03.13.03.02.08-09 [0.94117647] [lead instrument];	01.10.02.17.04.01.58  [Lead]; 03.11.12.03.12.05-04 [Materials, Base metal, lead]	AJ.03.a [Weight/relative heaviness]; AJ.02.l [Elements and compounds]; BK.04.h [Musical instrument]; 					
+that	that	CST	Z8	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+couered	couer	VVD	Z99	0	NULL	01.12.05.03.05 [Cover]; 01.12.05.03.05-03 [form/act as covering for]	04.10 [] 					
+it	it	PPH1	Z8	0	04.06 [];	04.06 []	ZF [Pronoun];					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+vntill	vntill	VV0	Z99	0	NULL	04.03 []	04.10 [] 					
+a	a	AT1	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+great	great	JJ	A5.1+ A11.1+ N3.2+	0	02.02.08-06 [0.94117647] [of high/great importance]; 01.12.02.04.01 [1.00000000] [Large]; 02.03.01.06 [1.00000000] [Excellent];	01.12.02.04.01 [Large]	AS.10 [Importance	 influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority	 excellence	 perfection]; 		
+number	number	NN1	N5 N1 Q1.3	0	01.16.04 [0.90909091] [Number]; 01.12.05.25.04.01 [1.00000000] [An assemblage/collection]; 01.16.04.05-02 [1.00000000] [figure];	01.16.04 [Number]; 01.12.05.25.04.01 [An assemblage/collection]	AP.04 [Number]; AL.05.v [Arrangement/fact of being arranged]; AP.04.l [Mathematical notation/symbol]; 					
+of	of	IO	Z5	0	04.03 [Grammatical]	04.03 [Grammatical]	ZC [Grammatical Item];					
+nimble	nimble	JJ	B1 N3.8+	0	01.14.01-06.02 [0.93333333] [agile/nimble]; 01.10.02.15-28 [1.00000000] [of/pertaining to miscellaneous other properties]; 01.14.04.01.02-06 [1.00000000] [moving swiftly and briskly];	01.14.01-06.02 [agile/nimble]; 01.14.04.01.02-06 [moving swiftly and briskly]; 01.15.20.05-12	AN.01 [Bodily movement]; AJ.02.j [Chemical properties]; AN.04.a.02 [Swift movement in specific manner]; 					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+courageous	courageous	JJ	E5+/S1.2	0	02.04.22 [0.92857143] [Courageous]; 01.15.20.01 [1.00000000] [Vigorous/energetic]; 02.05.03.03.03 [1.00000000] [Strongly/eagerly desiring];	02.04.22 [Courageous]; 01.15.20.01 [Vigorous/energetic]	AU.47 [Courage	 spirit	 daring]; AO.21.a [Vigour/energy]; AV.02.b [Desire]; 			
+men	man	NN2	S2.2m	0	01.04.04.01 [0.90909091] [Man]; 01.04.04.01-05 [0.92857143] [men collectively];	01.04.04.01 [Man]; 01.04.04.01-05 [men collectively]	AD.03.a [Man]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+ran	run	VVD	M1/N3.8+ G1.2 G2.1-	0	01.14.04.01.01-01 [0.94736842] [run]; 01.01.05.09 [1.00000000] [Flow]; 01.14.04.01.01-01 [1.00000000] [affect by running];	01.14.04.01.01-01 [run]; 01.14.04.01	AN.04.a.01 [Going swiftly on foot]; AA.04.g [Flowing water]; 					
+thither	thither	RL	Z99	0	01.13.08.04.03-09 [1.00000000] [until then]; 01.12.06-02.02 [1.00000000] [to/towards that place/direction]; 01.12.06-02.04 [1.00000000] [to/towards which place/direction];	01.12.06-02.02 [to/towards that place/direction]; 01.12.06-02.04 [to/towards which place/direction]	AM.08.c.02 [Antecedence/being earlier]; AL.06 [Direction]; 					
+,	,	PUNC	YCOM	PUNC	0	NULL	NULL					
+and	and	CC	Z5	0	04.03 [];	04.03 []	ZC [Grammatical Item];					
+S_END	NULL	NULL	Z99	0	NULL	NULL						

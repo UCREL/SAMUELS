@@ -1,0 +1,1167 @@
+#TOTEN	LEMMA	POS	SEMTAGS	MWE	SEMTAGS2	CORRECT?	CORRECT HT CATEGORY	PoS	HT Category Name	Primary Key	NOTES			
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+Sir	sir	NNB	Z1m	01:03:01	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+William	william	NP1	Z1m	01:03:02	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+Scott	scott	NP1	Z1m	01:03:03	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+rose	rise	VVD	M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1	0	01.05.03-04 [0.90909091] [.give rise to]; 01.04.05-02.01 [0.91666667] [..rise/fall]; 01.04.03.03.02.03.03-02.03 [0.94736842] [..of smoke: rise];	N	01.12.05.14-01; 01.14.05.07 [Rise/go up]	vi	[.be/become upright]	96937				
+for	for	IF	Z5	0	 [MWE] 01.06.02.02.01-02 [In the particular case .for instance/example]	N	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	 [MWE] 01.06.02.02.01-02 [In the particular case .for instance/example]	N	04.03		[Grammatical]	Nill				
+purpose	purpose	NN1	X7+ A2.2 A1.5.1	0	 [MWE] 01.06.02.02.01-02 [In the particular case .for instance/example]	N	02.05.04-03	n	[.intention/purpose]	136856				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	N	04.03		[Grammatical]	Nill				
+submitting	submit	VVG	A9- Q2.2 S7.1-	0	01.05.05.11.04.01-02 [0.95000000] [.submit to action]; 01.05.05.11.04.01-02 [0.95000000] [.submit to action/treatment]; 01.05.08.05.08.02-05 [0.95238095] [.lay/put down];	N	02.02.06.02.01	vi	[Put forward for discussion]	123362				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+motion	motion	NN1	M1 Q1.1	0	01.05.08 [0.88888889] [Movement]; 01.05.08.01 [0.91666667] [Bodily movement]; 01.05.08.02.03 [0.91666667] [Irregular movement/agitation];	N	03.04.06.13.09.04.03-07	n	[.proposal to be debated/voted on]	160082				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+supply	supply	VVI	A9-	0	02.07.14 [0.92857143] [Provide/supply (something)]; 02.07.14-12 [0.94736842] [.provide/supply (a person/thing) with anything]; 02.07.14-12.07 [0.95652174] [..with what is necessary/deficient];	N	01.16.01.11-10	vt	[.compensate/make up for]	105255				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+vacancy	vacancy	NN1	I3.1 H4	0	03.04.07-15 [0.86666667] [.vacancy of an office]; 03.04.07-15.01 [0.88235294] [..a vacant office]; 01.04.02.20.01.08-02.01 [0.93750000] [..vacancy];	Y	03.04.07-15	n	[.vacancy of an office]	161793				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+honourable	honourable	JJ	G2.2+	0	01.06.06.04 [1.00000000] [Sufficient]; 02.01.17.02-05 [1.00000000] [.worthy of/commanding respect]; 02.01.17.02 [1.00000000] [Respectful];	Y	02.02.09.02-05	aj	[.worthy of/commanding respect]	125928				
+office	office	NN1	I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+	0	03.10.10.02 [0.90000000] [Office]; 03.10.02 [0.91666667] [A position/situation/office]; 03.04.07 [0.92307692] [Office];	Y	03.11.02	n	[A position/situation/office]	197974				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.96551724] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.96551724] [..speaker of Lords]; 01.03.08.02.02.01-04 [1.00000000] [.loud-speaker];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+He	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+never	never	RR	T1/Z6	0	01.05.06.10.01-03 [1.00000000] [.never]; 01.06.06.07-16 [1.00000000] [.not at all];	Y	01.13.10.01-03	av	[.never]	89999				
+claimed	claim	VVN	Q2.2 A9+	0	03.05.02-07 [0.92307692] [.claim]; 03.05.02-07 [0.92307692] [.put forward a claim]; 03.05.02-07.02 [0.92857143] [..claim to have];	N	03.06.02-06	vt	[.demand/call out for (some action)]	170608				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+attention	attention	NN1	X5.1+ S8+	0	02.01.15.01 [0.91666667] [Attention, heed]; 01.05.05.20.07-04.03 [0.95454545] [..diligence in service]; 01.05.05.20.07 [1.00000000] [Care/carefulness/attention];	Y	02.02.01	n	[Attention, heed]	122237				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.92307692] [.animal house]; 03.02.07.02.06.01 [0.94444444] [A house]; 01.01.10.02.02-02.05 [0.94736842] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+more	more	RGR	N5++	0	01.06.06.03-02 [1.00000000] [.in/to a greater quantity/amount/degree]; 01.06.06.03.01-08.01 [1.00000000] [..of an attribute]; 01.06.06.03.01-08 [1.00000000] [.in/to a greater degree/extent];	Y	01.16.06.03-08.01	aj	[..a greater quantity/amount/degree of]	110936				
+unmixed	unmixed	JJ	Z99	0	04.10 [Unrecognised];	N	01.16.07.03-02	aj	[.not mixed with/modified by]	111858				
+satisfaction	satisfaction	NN1	E4.2+	0	02.05.03.03-15 [0.92307692] [.satisfaction]; 02.02.19.04 [0.93333333] [Contentment/satisfaction]; 02.02.19.04-03 [0.94444444] [.instance of satisfaction];	Y	02.04.10.04	n	[Contentment/satisfaction]	128539				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+from	from	II	Z5	0	01.05.07.04.06 [Denoting removal/displacement]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+conviction	conviction	NN1	X2.1 X4.1 G2.1	0	03.07.00.24.08-02.02. [0.94444444] [...condition]; 02.01.13.02.02-03 [1.00000000] [.state of being convinced]; 02.01.13.02.02-04 [1.00000000] [.firm opinion, conviction];	Y	02.01.13.02.02-04	n	[.firm opinion, conviction]	120503				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+opinion	opinion	NN1	X2.1 X2.1/A5 X6+	0	02.01.13.03 [0.94444444] [Expressed belief, opinion]; 02.01.13.03-02 [0.94736842] [.a view, notion, opinion]; 02.01.13.03-02.01 [0.95238095] [..on a particular point];	Y	02.01.13.03-02	n	[.a view, notion, opinion]	120545				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+entertained	entertain	VVD	K1 S1.1.1 S7.4+	0	01.05.06.11.05.02 [0.94444444] [Maintain]; 01.05.04-01 [1.00000000] [.encounter/experience]; 01.05.05.03 [1.00000000] [Undertake];	N	02.01.06	vt	[Think/have in mind]	116502				
+upon	upon	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+this	this	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+subject	subject	NN1	X4.1 C1/S2mf Q3 P1 S7.1-/S2mf	0	01.02.07.04-06 [0.90909091] [.as having character/qualities]; 01.07.01-03.03 [0.92307692] [..subject of]; 03.06.03.01.01 [0.92857143] [Subject/object of study];	N	02.01.07.04.03.01; 02.01.07.04.03 [Topic, subject-matter]	n	[Affair, business, concern]	116840				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+universal	universal	JJ	W3 M7 A1.8+ N5.1+ X2.2 A5.2+	0	02.01.12.02.04 [0.88888889] [Embracing all/much knowledge]; 02.01.12.02.04-01 [0.89473684] [.of persons]; 02.03.27.01-04 [0.94117647] [.extending/universal];	N	01.16.02.01-06	aj	[.universal]	105483				
+among	among	II	Z5	0	01.05.07.05.06.01 [Among]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+honourable	honourable	JJ	G2.2+	0	03.01.06.01.02-01 [0.95238095] [.holding place/rank]; 02.01.17.05.05-01 [0.95652174] [.consistent with reputation]; 02.01.17.05.03.01 [0.95833333] [Famous/eminent];	Y	02.02.09.02-05	aj	[.worthy of/commanding respect]	125928				
+gentlemen	gentleman	NN2	S2.2m	0	03.01.06.01.03.01-08 [0.90476190] [.for gentleman]; 01.02.07.04.01 [0.91666667] [Man]; 03.01.06.01.01.01-02 [0.95833333] [.gentleman];	Y	01.04.04.01	n	[Man]	39769				
+whom	whom	PNQO	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+addressing	address	VVG	Q1.2 Q2.2 A1.1.1	0	02.08.03.07.01 [0.90909091] [Address]; 03.08.13.02-13 [0.91666667] [.address letter]; 02.08.03.06-01 [0.92307692] [.address with a speech];	Y	02.07.03.07.01	vt	[Speak to/address]	142597				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+Although	although	CS	Z5	0	02.01.15.06.01.03-02 [.with reservation of]; 04.03 [null];	Y	02.02.06.01.03-02	cj	[.although]	123272				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+distinguished	distinguished	JJ	S7.1+	0	01.03.00.01-01.01 [1.00000000] [..intensely/clearly]; 01.06.01.06-15 [1.00000000] [.distinct]; 01.06.01.06 [1.00000000] [Different];	N	02.02.09.05.03.01	aj	[Famous/eminent]	126456				
+individual	individual	NN1	S2mf	0	01.06.02.02-03 [0.92307692] [.an individual thing/person]; 01.06.02.02-06.01 [0.92307692] [..self]; 01.02.03.06.01-10.05 [0.92857143] [..individual member of];	N	01.04.04-03	n	[.individual person]	39725				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+presided	preside	VVN	S7.1+	0	03.04.03-08 [0.91666667] [.preside over]; 01.02.08.01.26-01 [1.00000000] [.sit at head of table]; 01.02.08.01.27.01.03-01 [1.00000000] [.preside at feast];	N	03.04.03-04	vi	[.preside]	158431				
+over	over	II	Z5	0	01.05.07.05.03.05 [Covering/so as to cover]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+deliberations	deliberation	NN2	X2.1/A1.3+ X2.4 X7+	0	01.05.05.20.07.01-04.04 [0.95652174] [..due deliberation in action]; 01.05.05.20.06-04 [1.00000000] [.absence of haste]; 01.05.08.04.02-10 [1.00000000] [.unhurried quality];	N	02.07.03.07-09; 02.01.06.03.01 [Thinking about, consideration, deliberation]	n	[.conferring/consulting]	142493				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.91666667] [.animal house]; 03.02.07.02.06.01 [0.94117647] [A house]; 01.01.10.02.02-02.05 [0.94444444] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+during	during	II	Z5	0	01.05.06-01 [.during]; 04.03 [null];	Y	01.13-01	p	[.during]	87890				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+two	two	MC	N1	02:02:01	01.06.04.00.02-01 [0.93333333] [.the figure denoting]; 01.06.04.00.02-01.01 [0.94736842] [..person/thing denoted by]; 01.06.04.00.02-02 [1.00000000] [.two things/persons];	N	01.16.04	aj	[Two]	107225				
+last	last	MD	N1	02:02:02	02.01.15.06.05-07 [0.95000000] [.ground of complaint]; 01.05.06.04.02-08 [0.95238095] [.specific day of a month]; 02.01.15.07.09.39.01 [0.95238095] [Instance of corruption];	N	01.16.04	aj	[.most recent]	89741				
+parliaments	parliament	NN2	G1.1	0	03.04.06.13.09.04.01 [0.96428571] [English/British parliament]; 03.04.06.13.09.04.01-06 [0.96666667] [.place of]; 03.04.06.13.09.04.01-09 [0.96666667] [.a particular English/British parliament];	Y	03.04.06.13.09.04.01-09	n	[.a particular English/British parliament]	159966				
+had	have	VHD	A9+ Z5 A2.2 S4	0	02.01 [0.90909091] [Have in the mind]; 02.01.08 [0.91666667] [Understand]; 02.01.12.01 [0.93333333] [Have knowledge, know];	N	02.06	vt	[Have/possess]	137926				
+perhaps	perhaps	RR	A7	0	02.01.13.08.09-01 [0.95238095] [.perhaps]; 02.01.13.08.09-02 [0.95238095] [.by any chance];	Y	02.01.13.08.09-01	av	[.perhaps]	121107				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+most	most	RGT	A13.2	0	01.06.02.01-01 [0.95454545] [.for/in the most part]; 01.06.01.09-10 [1.00000000] [.almost/nearly]; 01.06.06.02-01 [1.00000000] [.nearly (of amount)];	N	01.16.06.03-09; 01.16.06.03.01-09 [in the greatest degree/most]	aj	[.greatest in quantity/amount/degree]	110941				
+indisputable	indisputable	JJ	A5.2+ A7+	0	02.01.13.08.11.01.03 [0.95833333] [Undoubted, indisputable]; 02.08.06.11-05 [1.00000000] [.not opposing/disputing/protesting];	Y	02.01.13.08.11.01.03	aj	[Undoubted, indisputable]	121243				
+title	title	NN1	Q4 S7.1+ A9+ Q2.2	0	03.01.06.01.03 [0.93333333] [Title]; 02.01.07.04.03 [0.94117647] [Topic, subject-matter]; 02.08.05.01 [1.00000000] [Name/appellation];	N	03.06.02-03; 03.01.06.01.03 [Title]	n	[.right/moral entitlement]	170512				
+again	again	RT	N6+ Z4	0	01.05.06.10-05 [0.93333333] [.anew/again]; 01.06.04.00.02.05-02 [0.94444444] [.for a second time, again]; 01.05.05.13.01-04 [1.00000000] [.of restoral/renewal];	Y	01.13.10-05	av	[.anew/again]	89962				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+fill	fill	VVI	N5.1+ I3.1 Q1.2@	0	03.10.02 [0.92307692] [Hold (position/office)]; 01.02.01.03.17-05 [0.93750000] [.fill]; 03.04.07-02 [0.93750000] [.hold an office];	Y	03.04.07-02	vt	[.hold an office]	161837				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+same	same	DA	A6.1+++	0	01.06.01.04 [0.92307692] [Same]; 01.06.01.04-02 [0.93333333] [.with what is indicated in the following context]; 01.06.01.04-02.01 [0.93750000] [..same as];	N	01.16.01.04-03	aj	[.the same as already mentioned]	104599				
+office	office	NN1	I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+	0	03.10.10.02 [0.91666667] [Office]; 03.10.02 [0.92857143] [A position/situation/office]; 03.04.07 [0.93333333] [Office];	Y	03.11.02	n	[A position/situation/office]	197974				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+could	can	VM	A7+	0	02.01.12.01 [0.92857143] [Have knowledge of]; 02.01.12.01 [0.92857143] [Have knowledge, know]; 02.01.12.01.02 [0.94117647] [Know, be conversant with];	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+not	not	XX	Z6	0	 [MWE] 01.06.07.03-02 [Simple/unmixed .simply/merely/nothing but]	N	04.04		[Negative]	Nill				
+but	but	CCB	Z5	0	 [MWE] 01.06.07.03-02 [Simple/unmixed .simply/merely/nothing but]	N	01.16.02.02.05-01	cj	[.except]	106075				
+be	be	VBI	Z5	0	04.03 [Grammatical];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+aware	aware	JJ	X2.2+	0	02.01.12-01 [0.93333333] [.knowing, aware]; 01.05.05.15.01.03-05 [0.95652174] [.on one's guard]; 01.05.05.20.07.01 [1.00000000] [Cautious];	Y	02.01.12-01	aj	[.knowing, aware]	118530				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+speaking	speak	VVG	Q2.1	0	02.08.03-03 [0.85714286] [.the truth, etc.]; 02.08.03 [0.88888889] [Speak]; 02.08.03 [0.88888889] [Speak/say/utter];	N	02.07.03.07; 02.07.03 [Speak]	vi	[Converse]	142551				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+presence	presence	NN1	M6 A3+ S1.1.3+ S1.2 S9	0	01.05.07.04.03-01.04 [0.91666667] [..a person who is corporeally present]; 03.07.03.08.04.05.01 [0.94117647] [Presence of Christ in Communion]; 01.05.07.04.03 [0.94444444] [Presence];	N	01.12.04.03-10; 01.12.04.03 [Presence]	n	[.a person's presence/immediate surroundings]	93626				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+many	many	DA2	N5+	0	01.06.04.01.02 [1.00000000] [Many];	Y	01.16.04.02.02	aj	[Many]	107799				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+on	on	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+any	any	DD	N5.1+	0	01.06.04.00.01-10 [0.92307692] [.any one]; 01.06.02.01-10.06. [0.95454545] [...any]; 01.06.02.01-10.06 [0.95454545] [..of any kind];	Y	01.16.04.01-10	aj	[.any one]	107136				
+other	other	JJ	A6.1-	0	01.06.01.06-08 [0.92857143] [.different/other/further]; 01.06.06.05.01-04.03 [0.94117647] [..other additional]; 01.06.01.06-09 [1.00000000] [.also different];	N	01.16.01.06	aj	[Different]	104717				
+occasion	occasion	NN1	T1.2 S1.1.1	0	01.05.06.03 [0.92857143] [A time/particular time/occasion]; 01.01.10.07.03-04 [1.00000000] [.setting]; 01.05.03-04.01 [1.00000000] [..one who occasions/contributes to a result];	Y	01.13.03	n	[A time/particular time/occasion]	88129				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+both	both	RR	Z5	0	01.06.04.00.02-03 [.both]; 04.03 [null];	N	01.16.04.01.02	cj	[Both]	107238				
+from	from	II	Z5	0	01.05.07.04.06 [Denoting removal/displacement]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+public	public	NN1	A10+	0	01.05.05.14-02.02 [0.94117647] [..general/public]; 01.02.07.07-06 [1.00000000] [.particular section/group of community/mankind]; 01.02.07 [1.00000000] [People];	N	03.09.02.01.01; 03.01-07.06 [regarded as having something in common]	aj	[Open/unconcealed]	181550				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+private	private	JJ	A10- S5- G1.1-	0	02.01.12.10.04 [0.88888889] [Private, secluded]; 02.01.12.10.04-01.01 [0.90909091] [..of conversation, etc.]; 03.01.06.02.01-01 [0.91666667] [.having no office];	N	01.16.02.02.02-03.01; 02.01.12.10.04-01.01 [of conversation, etc]	aj	[..not public]	105837				
+considerations	consideration	NN2	X4.1	0	02.05.06-02 [0.92857143] [.motive]; 02.05.06-03 [0.92857143] [.regarding/taking into account as motive]; 02.01.12.04-03 [0.94736842] [.observation];	N	02.01.06.03	n	[Continued thinking, reflection, contemplation]	116556				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+would	will	VM	A7+	0	02.05.03 [0.83333333] [Be disposed/inclined to]; 02.05.03 [0.83333333] [Be inclined]; 02.05.03 [0.83333333] [Wish/be disposed/inclined];	Y	04.03		[Grammatical]	Nill				
+be	be	VBI	A3+ Z5	0	02.05.02-04.02 [0.84615385] [..will be absolutely compelled/obliged]; 01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects];	N	01.11.01.05-06	vi	[.be/have particular quality]	76241				
+equally	equally	RR	A6.1+	0	01.05.07.05.15-02 [1.00000000] [.in the same horizontal plane]; 01.06.01.07 [1.00000000] [Uniformly]; 01.06.01.11 [1.00000000] [Equally];	Y	01.16.01.11	av	[Equally]	105215				
+deserving	deserving	JJ	Z99	0	04.10 [Unrecognised];	N	03.06.02-03.03	aj	[..deserving by merit]	170556				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+utmost	utmost	JJ	N5.1+++	0	01.02.10.02.02 [1.00000000] [Outerwear]; 01.05.06.08.05-05.04 [1.00000000] [..last/latest/most advanced]; 01.05.07.02.04.03-06.01. [1.00000000] [...furthest];	N	01.16.06.03-09	aj	[.greatest in quantity/amount/degree]	110941				
+confidence	confidence	NN1	E6+ A10-	0	02.02.28.05 [0.94117647] [Excessive self-confidence]; 02.01.12.10.04-02 [0.94444444] [.private matter/business]; 02.01.13.08.11 [0.94444444] [Absence of doubt, confidence];	N	02.01.13.02	n	[Belief, trust, confidence]	120469				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.90000000] [.animal house]; 03.02.07.02.06.01 [0.93333333] [A house]; 01.01.10.02.02-02.05 [0.93750000] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+It	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+could	can	VM	A7+	0	01.05.05.03.02 [0.93750000] [Begin action/activity]; 01.02.08.01.22.07-11 [1.00000000] [.preserve by canning]; 01.04.07.06.04.02-05.01 [1.00000000] [..with jacket];	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+denied	deny	VVN	Q2.2/Z6 S7.4-	0	02.01.13.07-02 [0.94444444] [.deny existence of]; 03.05.04.01.01-01 [0.96000000] [.deny oneself]; 02.01.13.07 [1.00000000] [Disbelieve];	N	02.07.06.18	vt	[Deny/contradict]	145974				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+composed	compose	VVN	N5.1+ K2 Q3 A1.1.1/O4.2+ E3+	0	03.11.03.01.04 [0.90000000] [Compose]; 03.08.08.05.01 [0.90909091] [Compose]; 03.11.03.01.04-04 [0.91666667] [.set to music];	N	01.16.07.04.01-01	vt	[.be the/a component(s) of]	112069				
+as	as	CSA	Z5	0	01.06.01.09-01 [.like/nearly/as if]; 04.03 [null];	N	01.16.01.09-01	av	[.so/in such a manner]	104924				
+that	that	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.91666667] [.animal house]; 03.02.07.02.06.01 [0.94117647] [A house]; 01.01.10.02.02-02.05 [0.94444444] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90000000] [Be/exist]; 01.05.01-01 [0.90909091] [.of inanimate objects]; 02.01.10.02 [0.91666667] [Mean];	N	04.03		[Grammatical]	Nill				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+gentlemen	gentleman	NN2	S2.2m	0	01.02.07.04.01 [0.90909091] [Man]; 03.01.06.01.03.01-08 [0.95238095] [.for gentleman]; 03.01.06.01.01.01-02 [0.95652174] [.gentleman];	Y	01.04.04.01	n	[Man]	39769				
+selected	select	VVN	X7+	0	02.05.01.01.01-01.01 [1.00000000] [..specifically of impersonal agencies]; 02.05.01.01.01-01 [1.00000000] [.make a selection]; 02.05.01.01.01-01 [1.00000000] [.select from a number/for a purpose];	Y	02.05.01.01.01-01	vt	[.select from a number/for a purpose]	136208				
+from	from	II	Z5	0	01.05.07.04.06 [Denoting removal/displacement]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+various	various	JJ	A6.3+	0	01.04.09.08 [1.00000000] [Variegated]; 01.05.05.22-12 [1.00000000] [.having all-round ability]; 01.05.06.11.01-01.01 [1.00000000] [..in appearance];	N	01.16.01.08	aj	[Various/varied]	104827				
+component	component	NN1	O2 N5.1-	0	01.06.07.04.01-16 [0.87500000] [.constituent part/component]; 01.04.02.21-03.01 [0.90000000] [..component]; 01.06.04.03.02-02.02 [1.00000000] [..component];	N	01.16.07.04.01-07.01	aj	[..forming (a) component part(s)]	112038				
+parts	part	NN2	N5.1- O2 M7 I3.1 S1.1.3+ K4	0	01.06.07.04.01-16 [0.86666667] [.constituent part/component]; 01.06.07.04.01-16.12 [0.89473684] [..one of a number of equal parts]; 03.11.03.04.03.04 [0.90909091] [Part/character];	Y	01.16.07.04.01-16	n	[.constituent part/component]	111940				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+society	society	NN1	S5+c	0	03.01-06 [0.93750000] [.a community]; 03.01.04.04 [0.94736842] [An association/society/organization]; 03.01.04.04.01-07 [0.95454545] [.club];	N	03.01	n	[Society/the community]	146244				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+United	united	NP1	Z1mf Z3c	03:02:01	04.01.01 [Personal Name]; 04.01.03 [Other Name];	N	01.01.06.01.01-02; 04.01.02 [Geographical Name]	n	[.United Kingdom]	2244	MWE			
+Kingdom	kingdom	NP1	Z1mf Z3c	03:02:02	04.01.01 [Personal Name]; 04.01.03 [Other Name];	N	01.01.06.01.01-02; 04.01.02 [Geographical Name]	n	[.United Kingdom]	2244	MWE			
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+many	many	DA2	N5+	0	01.06.04.01.02 [1.00000000] [Many];	Y	01.16.04.02.02	aj	[Many]	107799				
+were	be	VBDR	Z5	0	04.03 [Grammatical];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+found	find	VVN	A10+ X2.1 X6+.1	0	 [MWE] 02.07.14-12 [Provide/supply (something) .provide/supply (a person/thing) with anything]	N	01.14.05.12.01; 01.15.10.02.01 [Find/discover]	vt	[Meet/encounter]	102752				
+in	in	II	Z5	0	 [MWE] 02.07.14-12 [Provide/supply (something) .provide/supply (a person/thing) with anything]	N	04.03		[Grammatical]	Nill				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+whose	whose	DDQGE	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+talents	talent	NN2	X9.1+	0	01.05.05.22-17 [0.92307692] [.ability/talent]; 01.05.05.22-17.03. [0.93333333] [...divinely entrusted]; 01.05.05.22-17.03 [0.93333333] [..a talent/special ability];	Y	01.15.22-17	n	[.ability/talent]	87175				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+acquirements	acquirement	NN2	Z99	0	04.10 [Unrecognised];	N	01.15.22.01-11	n	[.acquired skill]	87308				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+general	general	JJ	N5+ A4.2-	0	01.06.02.01-02 [0.95454545] [.generally applicable]; 01.06.02.01-10.02 [0.95652174] [..indefinite]; 01.06.02.01-10.04 [0.95652174] [..general/miscellaneous];	Y	01.16.02.01-10.04	aj	[..general/miscellaneous]	105509				
+merits	merit	NN2	A5.1+	0	03.07.00.24.07.02 [0.93333333] [Merit]; 02.01.15.07.08.12 [0.94736842] [Merit]; 02.01.15.07.08.06-11 [1.00000000] [.an excellence];	N	02.03.01.12-03	n	[.thing]	124391				
+would	will	VM	A7+	0	02.05 [0.90000000] [Will]; 02.05.04 [0.90909091] [Intend]; 02.05.02-02 [0.92307692] [.must inevitably];	N	04.03	vi	[Grammatical]	Nill				
+afford	afford	VVI	I1.1 A9+	0	02.07.14-08 [0.94117647] [.provide/afford/yield]; 02.07.14-08.01 [0.95238095] [..be capable of yielding]; 01.05.05.06 [1.00000000] [Execute/perform/carry out];	Y	02.06.14-08	vt	[.provide/afford/yield]	140584				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+fair	fair	JJ	G2.2+ A5.1+ O4.2+ O4.3 W4 N5	0	02.05.03.03-04 [0.93750000] [.desirable]; 03.05.03-05 [0.93750000] [.fair/equitable]; 03.05.03-05.02 [0.94736842] [..of conditions/situations];	N	02.03.01.01	aj	[Acceptable]	124090				
+prospect	prospect	NN1	A7+ X2.6+ X3.4	0	03.10.10.10.02-13 [0.96000000] [.area giving prospect of mineral deposit]; 01.01.08.01-18 [1.00000000] [.indicators of presence]; 01.03.07.03-14 [1.00000000] [.looking out];	N	02.01.14-05	n	[.object of]	121276				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+successful	successful	JJ	X9.2+	0	01.05.05.16.02-11 [0.95000000] [.bringing success]; 01.05.05.16.02-12 [0.95000000] [.conducive/necessary to success]; 01.05.05.16.02-01 [1.00000000] [.specifically of persons];	N	01.15.16.02	aj	[Successful]	83050				
+discharge	discharge	NN1	A1.7-/M1 B1 O1.2	0	 [MWE] 03.10.08-01 [Not working/unemployed .resign]	N	01.15.06-02; 03.06.01.03-02 [performance of duty]	n	[.of a command/duty/plan]	78950				
+of	of	IO	Z5	0	 [MWE] 03.10.08-01 [Not working/unemployed .resign]	N	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+arduous	arduous	JJ	A12-	0	01.01.04.04.01.07-04 [1.00000000] [.steep]; 01.05.05.11-06 [1.00000000] [.difficult to do/accomplish]; 01.05.05.20.02 [1.00000000] [Involving effort/exertion];	Y	01.15.20.02	aj	[Involving effort/exertion]	84690				
+duties	duty	NN2	S6+ G1.1/I1.3 T1.3/I3.1	0	03.07.03.21-09 [0.90000000] [.ecclesiastical duty]; 03.10.03 [0.92857143] [Function/duty]; 03.05.01 [0.93750000] [Duty/obligation];	Y	03.06.01	n	[Duty/obligation]	170005				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.96551724] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.96551724] [..speaker of Lords]; 01.03.08.02.02.01-04 [1.00000000] [.loud-speaker];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+Here	here	RL	M6 T1.1.2 T1.2	0	01.05.01.07.01-11 [0.94736842] [.here/at this point/juncture]; 01-01 [1.00000000] [.situation]; 01.03.08.02.05.04-02 [1.00000000] [.to attract attention];	N	01.13.08.03-04; 01.11.01.07.01-11 [here/at this point/juncture]	av	[.on the present occasion]	89114				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+however	however	RR	Z4	0	01.05.05.20-06 [.in whatever way]; 04.02 [null];	N	02.02.06.01.03-08	av	[.however, nevertheless, notwithstanding]	123250				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+fortunately	fortunately	RR	A1.4+ A5.1+ E4.1+	0	01.05.05.16-03 [In prosperous condition.fortunately/luckily]	Y	01.15.16-03	av	[.fortunately/luckily]	82776				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+necessary	necessary	JJ	S6+ A11.1+	0	02.05.02.02-06 [0.87500000] [.necessary to be done]; 01.05.05.14.03 [0.94444444] [Convenient]; 01.05.03.06-05.01 [1.00000000] [..of mental concepts/processes];	N	02.05.02; 02.05.02.02 [Necessary]	aj	[Determined by necessity]	136342				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+hazard	hazard	VVI	A15- A1.4 X2.1/A7-	0	01.05.05.17.04-02.01 [0.96666667] [..run/take risks]; 01.05.03.07 [1.00000000] [Chance]; 01.05.03.07 [1.00000000] [Chance/risk];	N	02.01.13.05-04; 01.11.03.07 [Chance/risk]	vt	[.venture]	120751				
+any	any	DD	N5.1+	0	01.06.04.00.01-10 [0.92857143] [.any one]; 01.06.02.01-10.06. [0.95652174] [...any]; 01.06.02.01-10.06 [0.95652174] [..of any kind];	Y	01.16.02.01-10.06	aj	[..of any kind]	105512				
+speculation	speculation	NN1	X2.6+ I2.1	0	03.10.13-19 [0.92857143] [.trading venture/speculation]; 03.11.01.05.02.07.12-21 [0.95000000] [.speculation]; 01.01.10.12.02-01 [1.00000000] [.practice];	N	02.01.13.05.01	n	[Speculation]	120752				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+however	however	RGQV	A13.1	0	01.06.06.01-02 [0.94444444] [.to whatever extent]; 02.01.15.06.01.03-08 [0.96000000] [.however, nevertheless, notwithstanding]; 02.01.15.06.01.03-11 [0.96296296] [.at all events, at any rate];	Y	01.16.06.01-02	av	[.to whatever extent]	110870				
+promising	promising	JJ	A5.1+/A8	0	01.05.05.16.02-03 [1.00000000] [.likely to be successful]; 02.01.14.05.04 [1.00000000] [Promising];	Y	02.01.14.05.04	aj	[Promising]	121517				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+past	past	JJ	T1.1.1	0	01.05.06.08.04 [0.92307692] [Of/pertaining to the past/passed away/gone]; 01.05.06.08.04-02 [0.94117647] [.just passed]; 01.05.06.08.04-02.01 [0.95000000] [..of time/order];	Y	01.13.08.04	aj	[Of/pertaining to the past/passed away/gone]	89161				
+services	service	NN2	S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@	0	03.08.12.01 [0.90909091] [Broadcasting service]; 03.10-02.14 [0.90909091] [..public service]; 03.07.04.16.01-06.01 [0.93333333] [..Anglican];	N	01.15.14-07.01	n	[..beneficial action]	81245				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+tried	try	VVD	X8+ X2.4 Q2.2 G2.1 A12-	0	01.02.06.20.06.02.02-01.01 [0.96428571] [..try/travel to]; 01.05.05.01-16.03 [1.00000000] [..undergo/experience]; 01.05.05.10.01-03 [1.00000000] [.upon a person with (something)];	Y	01.15.10.01.01-03	aj	[.tried/tested]	79791				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+demonstrable	demonstrable	JJ	A10+	0	02.01.13.08.11.01.02 [1.00000000] [Clear, evident, certain]; 02.01.15.06.03-07 [1.00000000] [.capable of being proved];	Y	02.02.06.03-07	aj	[.capable of being proved]	123464				
+abilitiesabilities	abilitiesability	NN2	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Punctuation problem - missing space? - two instances of 01.05.05.22|02 joined together			
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+confined	confine	VVN	A1.7+	0	 [MWE] 01.06.02.02.02.01 [Within the limits of Restrict/limit to something]	Y	01.16.02.02.02.01	vr	[Restrict/limit to something]	105901				
+to	to	II	Z5	0	 [MWE] 01.06.02.02.02.01 [Within the limits of Restrict/limit to something]	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+mere	mere	JJ	A11.1-	0	01.06.07.03-07.01 [0.94444444] [..bare/mere]; 01.02.07.07.02.17 [1.00000000] [Unmixed race]; 01.02.08.02.02.02.01-12 [1.00000000] [.undiluted];	N	02.02.08.01-09; 01.16.06.07-11 [bare/mere]	aj	[.unnoted/ordinary]	125781				
+discharge	discharge	NN1	A1.7-/M1 B1 O1.2	0	 [MWE] 03.10.08-01 [Not working/unemployed .resign]	N	01.15.06-02	n	[.of a command/duty/plan]	78950				
+of	of	IO	Z5	0	 [MWE] 03.10.08-01 [Not working/unemployed .resign]	N	04.03		[Grammatical]	Nill				
+what	what	DDQ	Z8 Z5	0	02.01.15.03-05 [.of someone]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+might	might	VM	A7+	0	NULL	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+termed	term	VVN	Q2.2	0	01.06.03.03.04 [1.00000000] [Bring to an end/conclude]; 02.08.05-05 [1.00000000] [.call/give as name to]; 02.08.06 [1.00000000] [State/declare/set forth];	Y	02.07.05-05	vt	[.call/give as name to]	145242				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+dry	dry	JJ	O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5-	0	01.04.05.11 [0.88888889] [Dry]; 01.04.05.11-16 [0.92857143] [.dried (up)]; 01.04.05.11-16.02. [0.93750000] [...by evaporation];	N	02.04.11.11-07.11	aj	[..bland/insipid]	129980				
+duties	duty	NN2	S6+ G1.1/I1.3 T1.3/I3.1	0	03.07.03.21-09 [0.90909091] [.ecclesiastical duty]; 03.10.03 [0.93333333] [Function/duty]; 03.05.01 [0.94117647] [Duty/obligation];	Y	03.06.01	n	[Duty/obligation]	170005				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+officehad	officehad	NN1	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Punctuation problem - missing space? - 03.04.07 n and 04.03			
+commanded	command	VVD	S7.1+	0	03.04.02.01 [0.92857143] [Command]; 03.04.02.01 [0.92857143] [Command/give orders]; 03.04.02 [0.92857143] [Have command];	N	03.06.02-06.01; 03.04.02 [Have command]	vt	[..secure by just claim]	170609				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+merely	merely	RR	A13.6 A14	0	01.06.07.03-03 [0.92857143] [.simply/only/merely]; 01.06.07.03-02 [0.93333333] [.without addition or qualification]; 01.06.06.07-07.01 [0.94444444] [..merely/and nothing more];	Y	01.16.06.07-07.01	av	[..merely/and nothing more]	111523				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+approbation	approbation	NN1	S7.4+ E2+	0	01.05.05.10.01.01 [1.00000000] [Trial/test/testing]; 02.01.15.06.03 [1.00000000] [Proof, demonstration]; 02.01.17.04-01 [1.00000000] [.formal];	Y	02.02.09.04-01	n	[.formal]	126052				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+admiration	admiration	NN1	S7.2+ E2+	0	02.01.14.02-02 [1.00000000] [.state of being surprised]; 02.01.14.08-03 [1.00000000] [.act of wondering]; 02.01.14.08.01-05 [1.00000000] [.a marvel, object of wonder];	N	02.02.09.03	n	[Admiration]	126035				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+every	every	AT1	N5.1+	0	01.06.02.01-10.05. [0.95652174] [...each/every];	Y	01.16.02.01-10.05.01	aj	[â€¦each/every]	105511				
+member	member	NN1	S5+/S2mf B1	0	01.06.03.03-10.07 [0.94117647] [..member/item in a series]; 01.06.07.04.01-16 [0.94444444] [.constituent part/component]; 01.06.07.04.01-09 [0.94736842] [.outlying part];	N	03.04.06.13.09.04.01-05; 03.01.04.04-02 [member]	n	[.Member of Parliament]	159936				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+witnessed	witness	VVN	X3.4 G2.1 A10+@ S9	0	01.03.07.03-09 [0.92307692] [.witness]; 01.05.07.04-01 [1.00000000] [.be the scene of]; 01.05.07.04.03-02 [1.00000000] [.be present as witness at];	Y	01.09.08.03-09	vt	[.witness]	59055				
+their	their	APPGE	Z8	0	02.07.01-03.03.03 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+employment	employment	NN1	I3.1	0	01.05.05.14.01.01-02 [1.00000000] [.the use to which a thing is put]; 01.05.05.14.01.01 [1.00000000] [Use (made of things)]; 03.10-02 [1.00000000] [.regular occupation/trade/profession];	Y	01.15.14.01.01	n	[Use (made of things)]	81399				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+Thus	thus	RR	Z5/A2.2	0	01.05.07.06.01-09 [.through]; 04.03 [null];	N	01.11.03.06	av	[Consequently]	77608				
+all	all	DB	N5.1+	0	01.06.07.02 [0.91666667] [All/the whole amount of]; 03.11.04.04-04 [0.91666667] [.draw]; 01.05.06.02-05 [1.00000000] [.while something lasts/during];	Y	01.16.07.02	aj	[All/the whole amount of]	111826				
+experiment	experiment	NN1	Y1 X2.4	0	01.05.05.10.01 [0.91666667] [Trial/experiment]; 01.05.05.10.01-04 [0.92307692] [.an experiment]; 01.05.05.10.01.01 [0.92857143] [Trial/test/testing];	Y	01.15.10.01	n	[Trial/experiment]	79667				
+was	be	VBDZ	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+rendered	render	VVN	A2.2 A9-	0	03.08.03 [0.88888889] [Represent]; 03.11.03.01.06 [0.88888889] [Perform (music)]; 03.06.03.01-09 [0.91666667] [.recite lesson];	N	01.11.03-10	vt	[.cause to be/become]	77308				
+needless	needless	JJ	S6-	0	01.05.05.17.03.01-04 [0.94117647] [.useless/needless]; 02.05.01-03 [1.00000000] [.proceeding from free will]; 02.05.02.02-08 [1.00000000] [.unnecessary];	Y	02.05.02.02-08	aj	[.unnecessary]	136467				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+perhaps	perhaps	RR	A7	0	02.01.13.08.09-01 [1.00000000] [.perhaps]; 02.01.13.08.09-02 [1.00000000] [.by any chance];	Y	02.01.13.08.09-01	av	[.perhaps]	121107				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+should	shall	VM	S6+ A7+	0	03.09.00-01 [0.92857143] [.shall/should]; 03.05.02 [0.94117647] [Be due/morally fitting/proper]; 03.05.01 [0.94736842] [Have/had duty/obligation];	Y	03.06.01	vi	[Have/had duty/obligation]	170037				
+justly	justly	RR	G2.2+	0	03.05.03 [0.93333333] [Rightly/justly]; 01.06.03.01.01-05 [1.00000000] [.fittingly/properly]; 02.01.08.03 [1.00000000] [In accordance with reason];	Y	03.06.03	av	[Rightly/justly]	170764				
+merit	merit	VVI	S1.1.4+	0	03.07.00.24.07.02 [0.93333333] [Merit]; 02.01.15.07.08.12 [0.94736842] [Merit (something)]; 01.05.05.21.09.01 [1.00000000] [Reward/recompense];	N	03.06.02-05	vt	[.deserve (well or ill)]	170600				
+censure	censure	NN1	Q1.2/E2- Q2.1/E2-	0	02.01.18.06.02-02 [0.95000000] [.censure/condemnation]; 02.01.15.07.05.01-02 [1.00000000] [.instance of]; 02.01.15.07.05.01-05 [1.00000000] [.often unfavourable];	Y	02.02.10.06.02-02	n	[.censure/condemnation]	127032				
+if	if	CS	Z7	0	01.05.01.07.01 [If/in case/lest]; 04.05 [null];	Y	04.05		[Conditional]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+were	be	VBDR	A3+ Z5	0	01.05.01 [0.91666667] [Be/exist]; 01.05.01-01 [0.92307692] [.of inanimate objects]; 02.01.10.02 [0.92857143] [Mean];	Y	04.03		[Grammatical]	Nill				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+attempt	attempt	VVI	X8+	0	03.05.05.07.02.02-01.01 [0.91304348] [..attempt to]; 01.05.05.10-05 [0.92857143] [.attempt to obtain/attain]; 01.05.05.10-02 [0.93750000] [.to do something];	N	01.15.10	vt	[Attempt]	79651				
+any	any	DD	N5.1+	0	01.06.04.00.01-10 [0.92307692] [.any one]; 01.06.02.01-10.06. [0.95454545] [...any]; 01.06.02.01-10.06 [0.95454545] [..of any kind];	Y	01.16.02.01-10.06.01	aj	[â€¦any]	105513				
+description	description	NN1	Q2.2 A4.1	0	01.05.08.05-02 [1.00000000] [.passing over a certain course/distance]; 01.06.02-04 [1.00000000] [.a kind/sort/class]; 02.08.03.03.01-03 [1.00000000] [.a description];	N	02.07.03.03.01	n	[Description/act of describing]	142265				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+duties	duty	NN2	S6+ G1.1/I1.3 T1.3/I3.1	0	03.05.01 [0.87500000] [Duty/obligation]; 03.07.03.21-09 [0.90909091] [.ecclesiastical duty]; 03.05.01-05.01 [0.91666667] [..of one's office/position];	N	03.11.03; 03.06.01 [Duty/obligation]	n	[Function/duty]	198000				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+individual	individual	NN1	S2mf	0	01.06.02.02-03 [0.93750000] [.an individual thing/person]; 01.06.02.02-06.01 [0.93750000] [..self]; 01.02.03.06.01-10.05 [0.94117647] [..individual member of];	N	01.04.04-03	n	[.individual person]	39725				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+appointed	appoint	VVN	S7.1+	0	03.04.02.01-07 [0.93333333] [.ordain/prescribe/appoint]; 03.04.02.01-07.07 [0.94117647] [..a time]; 03.04.02.01-07.08 [0.94117647] [..a place];	Y	03.04.02.01-07	vt	[.ordain/prescribe/appoint]	158284				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+preside	preside	VVI	S7.1+	0	03.04.03-08 [0.92307692] [.preside over]; 01.02.08.01.26-01 [1.00000000] [.sit at head of table]; 01.02.08.01.27.01.03-01 [1.00000000] [.preside at feast];	Y	03.04.03-08	vt	[.preside over]	158453				
+over	over	II	Z5	0	01.05.07.05.03.05 [Covering/so as to cover]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+discussions	discussion	NN2	Q2.2	0	02.08.03.07-11.01 [0.94117647] [..discussion]; 02.01.15.03.02.04 [0.94444444] [Examination by discussion]; 01.02.01.03.04.04-02 [1.00000000] [.dispersing, etc. of humours/morbid matter];	N	02.02.06.02	n	[Debate, disputation, argument]	123280				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.92307692] [.animal house]; 03.02.07.02.06.01 [0.94444444] [A house]; 01.01.10.02.02-02.05 [0.94736842] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+:	PUNC	YCOL	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+should	shall	VM	S6+ A7+	0	01.05.06.08.05-03.01 [1.00000000] [..expressing intention/volition]; 01.05.06.08.05-03.02 [1.00000000] [..am now going to]; 01.05.06.08.05-03.03 [1.00000000] [..expressing a contingent event];	N	03.06.01	vi	[Have/had duty/obligation]	170037				
+better	better	RRR	A5.1++ G2.2++ O4.2++	0	02.01.15.07.08.04 [0.95454545] [Better/in superior degree]; 01.06.06.05.01-02.02 [1.00000000] [..in addition/more]; 01.06.06.06 [1.00000000] [To a moderate extent/degree];	Y	02.03.01.04	av	[Better/in superior degree]	124185				
+discharge	discharge	VVI	A1.7-/M1 I3.1 I1.2 O1.2 G3	0	03.10.08-05 [0.92857143] [.dismiss/discharge]; 01.04.07.03.06.07 [0.93750000] [Discharge]; 03.09.04.01-16 [0.94736842] [.put off/discharge (from) a ship];	N	01.15.06-05; 03.06.01.03 [Discharge (an obligation)]	vt	[.an office/function]	78995				
+this	this	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+part	part	NN1	N5.1- O2 M7 I3.1 S1.1.3+ K4	0	03.11.03.04.03.04 [0.91666667] [Part/character]; 01.02.05.07 [0.92307692] [Part of body]; 03.11.03.04.03.03-03.01 [0.92307692] [..part of];	N	01.16.07.04.01	n	[Part of whole]	111914				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+task	task	NN1	A1.1.1	0	01.05.05.11.01-02.01 [0.94444444] [..a difficult/laborious task]; 02.01.05.08.02.04-06 [0.95652174] [.task in test]; 01.05.05.03-03.07. [1.00000000] [...a (difficult) task];	N	03.11.03-06	n	[.piece of work/task]	198010				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+undertaken	undertake	VVN	A1.1.1 Q2.2	0	02.08.03.13.02-05 [0.95000000] [.pledge/undertake to give/do]; 01.02.02.06-06 [1.00000000] [.conduct funeral of]; 01.05.05.03-01.01 [1.00000000] [..specifically a person];	N	01.15.03	vt	[Undertake]	78450				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+by	by	II	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+referring	refer	VVG	Q2.2 Q1.2	0	02.08.04.02.04 [0.91666667] [Refer]; 03.11.03.03.03-12 [0.95238095] [.refer reader to authority]; 02.01.15.07.04-04.02 [0.95454545] [..refer to a document, etc.];	Y	01.16.01-01	vi	[.refer/relate]	104447				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+mode	mode	NN1	X4.2 O4.2+	0	03.11.03.01.01.03.03-08 [0.94444444] [.mediaeval mode]; 01.05.01.06-03 [0.94736842] [.mode/form of existence]; 02.03.27.05-11 [0.94736842] [.mood/mode];	N	01.15.20	n	[Manner of action/operation]	84418				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	01.16.01-16	n	[.which/what/who]	104398				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+right	right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	0	03.04.13.15 [0.94117647] [Rightful/legally entitled/recognized]; 01.05.07.05.12-05.05 [0.94736842] [..right]; 02.01.12.08.02.01 [0.95238095] [Precise, accurate, exact];	N	02.01.12.08	av	[In accordance with truth, truly]	119041				
+hon.	hon.	JJ	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Contraction of 02.01.17.02|05 aj			
+friend	friend	NN1	S3.1/S2mf	0	01.05.05.12.01-05 [1.00000000] [.that which/one who helps/means of help]; 01.05.05.12.01.03.01-02 [1.00000000] [.supporter/encourager]; 01.07.04.01-07 [1.00000000] [.as protector];	N	03.01.04.01.02	n	[A companion/associate]	148191				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+fulfilled	fulfil	VVN	E4.2+	0	01.05.05.06-01 [1.00000000] [.carry into effect (a command/promise/plan, etc.)]; 01.05.05.06-02 [1.00000000] [.a command/law]; 01.05.05.06-09.02 [1.00000000] [..a wish/prophecy, etc.];	Y	01.15.06-01	vt	[.carry into effect (a command/promise/plan, etc.)]	78989				
+those	those	DD2	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+duties	duty	NN2	S6+ G1.1/I1.3 T1.3/I3.1	0	03.07.03.21-09 [0.90909091] [.ecclesiastical duty]; 03.10.03 [0.93333333] [Function/duty]; 03.05.01 [0.94117647] [Duty/obligation];	Y	03.11.03	n	[Function/duty]	198000				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+&lsqb;	&lsqb;	YBL	PUNC	0	NULL				#N/A	#N/A				
+Hear	hear	UH	X3.2 X2.3+ G2.1@	0	NULL	N	02.02.09.04.02	in	[Expressions of commendation]	126203	MWE			
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+hear	hear	UH	X3.2 X2.3+ G2.1@	0	NULL	N	02.02.09.04.02	in	[Expressions of commendation]	126203	MWE			
+!	PUNC	YEX	PUNC	0	NULL				#N/A	#N/A				
+&rsqb;	&rsqb;	YBR	PUNC	0	NULL				#N/A	#N/A				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+With	with	II31	A2.2	04:03:01	 [MWE] 01.06.01-04 [In relation to .in respect of/with regard to]	Y	01.16.01-04	ph	[.in respect of/with regard to]	104467	MWE			
+regard	regard	II32	A2.2	04:03:02	 [MWE] 01.06.01-04 [In relation to .in respect of/with regard to]	Y	01.16.01-04	ph	[.in respect of/with regard to]	104467	MWE			
+to	to	II33	A2.2	04:03:03	 [MWE] 01.06.01-04 [In relation to .in respect of/with regard to]	Y	01.16.01-04	ph	[.in respect of/with regard to]	104467	MWE			
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+qualifications	qualification	NN2	P1 X9.1 S6+ A1.7+	0	03.04.13.13 [0.88235294] [Legal capacity]; 01.06.06.09-10 [0.94117647] [.toning down]; 01.05.01.05-04 [0.95000000] [.a property/quality/attribute];	N	01.15.22-18.02	n	[..that which qualifies one for a function]	87195				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.93548387] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.93548387] [..speaker of Lords]; 02.08.01.03-06 [0.94444444] [.one who speaks a particular language];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+also	also	RR	N5++	0	01.06.06.05.01-02 [0.87500000] [.in addition/also/besides]; 01.06.01.04 [0.91666667] [In the same way/form]; 01.06.01.09 [0.92307692] [Similarly];	Y	01.16.06.05.01-02	av	[.in addition/also/besides]	111394				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+might	might	VM	A7+	0	NULL	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+said	say	VVN	Q2.1	0	01.05.05.03 [0.92857143] [Undertake/set oneself to do]; 01.02.10.04-02.05 [1.00000000] [..try on]; 01.03.05-09 [1.00000000] [.test by tasting];	N	02.07.03-10	vt	[.declare that something is the case]	142025				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+in	in	II	Z5	0	 [MWE] 03.11.03.03.05.03-07 [Be brief .in short]	Y	03.13.03.04.05.03-07	av	[.in short]	218655	MWE			
+a	a	AT1	Z5	0	 [MWE] 03.11.03.03.05.03-07 [Be brief .in short]	Y	03.13.03.04.05.03-07	av	[.in short]	218655	MWE			
+word	word	NN1	Q3 Q2.1 S9@	0	 [MWE] 03.11.03.03.05.03-07 [Be brief .in short]	Y	03.13.03.04.05.03-07	av	[.in short]	218655	MWE			
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+all	all	DB	N5.1+	0	01.06.07.02 [0.83333333] [All/the whole amount of]; 01.05.06.02-05 [1.00000000] [.while something lasts/during]; 01.06.02.01-04 [1.00000000] [.affecting all indiscriminately];	N	01.16.02.01-06.03	n	[..everything]	105418				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+more	more	RRR	N5++	0	01.06.06.03.01-08.01 [0.94444444] [..of an attribute]; 01.06.06.03-02 [1.00000000] [.in/to a greater quantity/amount/degree]; 01.06.06.03.01-08 [1.00000000] [.in/to a greater degree/extent];	N	01.16.06.03-04.01	n	[..(a) greater amount]	110909				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+been	be	VBN	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+displayed	display	VVN	A10+	0	01.02.01.03.04.04-01 [1.00000000] [.disperse, etc. humours/morbid matter]; 01.02.06.19.03-11 [1.00000000] [.engage in sexual display]; 01.02.08.01.22.06.03-06.06 [1.00000000] [..crane];	N	03.09.02	vt	[Manifest]	181528				
+by	by	II	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+individual	individual	NN1	S2mf	0	01.06.02.02-03 [0.93750000] [.an individual thing/person]; 01.06.02.02-06.01 [0.93750000] [..self]; 01.02.03.06.01-10.05 [0.94117647] [..individual member of];	N	01.04.04-03	n	[.individual person]	39725				
+about	about	RPK	Z5 M6	0	 [MWE] 01.05.01.07.02-02 [Tend/incline .going to]	N	04.03		[Grammatical]	Nill				
+to	to	TO	Z5	0	 [MWE] 01.05.01.07.02-02 [Tend/incline .going to]	N	04.03		[Grammatical]	Nill				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+offered	offer	VVN	A9- Q2.2	0	02.07.12.06 [0.92307692] [Offer]; 03.08.02.03 [0.92307692] [Offer for inspection/consideration]; 01.05.05.10-02 [0.93333333] [.to do something];	N	02.01.13.06-02; 03.09.02.03 [Offer for inspection/consideration]	vt	[.for consideration]	120838				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+choice	choice	NN1	X7+ A6.3+	0	02.01.15.07.08.06-20 [0.94444444] [.the choice/pick]; 02.01.15.07.08.06-20.01 [0.94736842] [..people]; 02.05.01.01-04 [0.95000000] [.scope for choice];	N	02.05.01.01-03	n	[.power/right of choosing]	136085				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.90000000] [.animal house]; 03.02.07.02.06.01 [0.93333333] [A house]; 01.01.10.02.02-02.05 [0.93750000] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+as	as	CSA	Z5	0	 [MWE] 01.06.04.01.02-04 [Impossible to number .as many]	N	04.03		[Grammatical]	Nill				
+many	many	DA2	N5+	0	 [MWE] 01.06.04.01.02-04 [Impossible to number .as many]	N	01.16.04.02.02	aj	[Many]	107799				
+gentlemen	gentleman	NN2	S2.2m	0	01.02.07.04.01 [0.92307692] [Man]; 03.01.06.01.03.01-08 [0.95652174] [.for gentleman]; 03.01.06.01.01.01-02 [0.96000000] [.gentleman];	Y	01.04.04.01	n	[Man]	39769				
+might	might	VM	A7+	0	NULL	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+be	be	VBI	A3+ Z5	0	01.05.01 [0.91666667] [Be/exist]; 01.05.01-01 [0.92307692] [.of inanimate objects]; 02.01.10.02 [0.92857143] [Mean];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+now	now	RT	Z4	0	04.02 [Discourse];	N	01.13.08.03	av	[At the present time]	89108				
+present	present	VV0	A9- A2.2 Q2.2 S1.1.3+ Q4.3 O4.1 K4	0	01.02.00.05.01-02.05 [0.86666667] [..present]; 01.03.07.11-05 [0.86666667] [.present/exhibit]; 03.08.12-04 [0.92307692] [.present programme];	N	01.12.04.03	aj	[Present]	93627				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	N	04.04		[Negative]	Nill				
+had	have	VHN	A9+ Z5 A2.2 S4	0	02.01 [0.90000000] [Have in the mind]; 02.01.08 [0.90909091] [Understand]; 02.01.12.01 [0.92857143] [Have knowledge, know];	N	02.06	vt	[Have/possess]	137926				
+an	an	AT1	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+opportunity	opportunity	NN1	A1.4	0	01.05.05.14.05 [0.94444444] [An opportunity]; 01.05.05.14.05-03 [0.95238095] [.opportunity]; 01.05.06.09-05 [0.95238095] [.opportuneness/timeliness];	Y	01.15.14.05	n	[An opportunity]	81809				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+personally	personally	RR	S5-	0	01.02.07.04 [1.00000000] [Person]; 01.05.07.04.03-03 [1.00000000] [.in person]; 01.06.02.02-02 [1.00000000] [.in an individual capacity];	N	01.16.02.02-08	av	[.for/as oneself]	105705				
+observing	observe	VVG	X3.4 Q2.1 S7.1-@	0	02.01.14.01-06 [0.87500000] [.an event/opportunity]; 02.01.14.09.05.05-01 [0.90476190] [.observe omens]; 02.01.12.03.02-01 [0.90909091] [.observe];	N	01.09.08.03-07	vt	[.watch/observe]	59047				
+their	their	APPGE	Z8	0	02.07.01-03.03.03 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+exercise	exercise	NN1	K5.1 P1 A1.1.1 G3@	0	03.11.04.13.02.01 [0.94444444] [Exercise]; 01.05.05.02.02-04 [0.94736842] [.exercising/exerting (a faculty/power)]; 03.11.04.13.02.01-01 [0.95000000] [.for health];	N	01.15.02.02	n	[Practice/exercise]	78211				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+would	will	VM	A7+	0	02.05-01 [0.84615385] [.control by exercise of will]; 02.05-02 [0.87500000] [.bring/get into/out of by exercise of]; 03.04.01.01-07 [0.88888889] [.influence by mere exercise of will];	N	04.03		[Grammatical]	Nill				
+make	make	VVI	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	0	01.05.02-05 [0.92307692] [.construct]; 01.05.02-01 [0.92857143] [.of God]; 01.05.02-03 [0.92857143] [.produce/bring forth];	Y	01.11.02-03	vt	[.produce/bring forth]	76730				
+a	a	AT1	Z5	0	 [MWE] 01.06.06.03.01-05.01 [Greatly/very much ..entitled to designation in high degree]	N	04.03		[Grammatical]	Nill				
+very	very	RG	A13.3	0	 [MWE] 01.06.06.03.01-05.01 [Greatly/very much ..entitled to designation in high degree]	N	01.16.06.03.01-06	av	[.very]	111021				
+few	few	DA2	N5-	0	01.06.04.01.01 [0.77777778] [Few]; 01.06.04.01.01-02 [0.83333333] [.containing few members];	Y	01.16.04.02.01	aj	[Few]	107777				
+remarks	remark	NN2	Q2.2	0	01.02.05.08.01.04.03 [1.00000000] [Feature]; 01.03.07.10.03-04 [1.00000000] [.distinctive feature of]; 01.03.07.10.03 [1.00000000] [Appearance/aspect];	N	02.02.01.01-03	n	[.instance of]	122266				
+upon	upon	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	N	04.03		[Grammatical]	Nill				
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+The	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+first	first	MD	N4	0	03.08.08.23.01-02.01 [0.94117647] [..first]; 01.06.04.00.01.01.03-02 [0.94736842] [.first instance]; 01.06.04.00.01.01.03-01.01 [0.95000000] [..of its kind];	N	01.16.04	aj	[.first/prior to all others]	89281				
+qualification	qualification	NN1	P1 X9.1 S6+ A1.7+	0	01.05.01.05-04 [0.95238095] [.a property/quality/attribute]; 01.05.01.05.02 [0.95238095] [Character/nature]; 01.05.05.22-18.02 [1.00000000] [..that which qualifies one for a function];	Y	01.15.22-18.02	n	[..that which qualifies one for a function]	87195				
+undoubtedly	undoubtedly	RR	A7+	0	02.01.13.08.11.01-01 [0.95454545] [.conclusively, decisively]; 02.01.13.08.11.01.03 [1.00000000] [Indisputably];	Y	02.01.13.08.11.01.03	av	[Indisputably]	121245				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.16.01.04	vi	[Be the same as]	104615				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+warm	warm	JJ	O4.6+ O4.2+ S1.2.1+	0	01.04.03.03.02-12.09. [0.88888889] [...of persons/exertion]; 01.04.03.03.02-12.09. [0.88888889] [...of tears]; 01.04.03.03.02-12.09 [0.88888889] [..warm];	N	02.04.13-01; 02.04.13.05 [Affectionate]	aj	[.abounding in love]	130392				
+affection	affection	NN1	E2+	0	02.05.03 [0.91666667] [Will/wish/inclination]; 02.05.03.03 [0.92307692] [Desire]; 01.05.01.07 [0.93333333] [State/condition];	N	02.04.13.05	n	[Affection]	130573				
+for	for	IF	Z5	0	01.05.05.14 [For the benefit/advantage of]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+happy	happy	JJ	E4.1+ E4.2+	0	01.02.08.02.22.01-04.02 [0.92307692] [..partially drunk]; 01.05.05.16-09 [0.93333333] [.favoured/attended by good fortune]; 01.05.05.16-09.01 [0.94117647] [..specifically of a person];	Y	01.15.16-09	aj	[.favoured/attended by good fortune]	82768				
+constitution	constitution	NN1	G1.1 B2 O1/A1.8+	0	01.04.04 [0.90000000] [Constitution of matter]; 01.02.05.05 [0.90909091] [Bodily constitution]; 01.04.04-02 [0.92307692] [.consistency];	N	01.16.07.05-03; 01.16.07.05 [Mutual relation of parts to whole]	n	[.composition in reference to elements]	112144				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+this	this	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+country	country	NN1	G1.1c W3 F4/M7 K2	0	03.11.03.01.03.01-01 [0.93750000] [.country and western]; 03.02.07.01.02 [0.95000000] [Country as opposed to town]; 03.02.07.01.01 [0.95238095] [A land/country];	Y	03.02.07.01.01	n	[A land/country]	151380				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+including	including	II	A1.8+	0	NULL	N	01.16.07.05.02	aj	[Incorporating/including]	112195				
+an	an	AT1	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+inflexible	inflexible	JJ	A2.1-	0	01.04.04.07.01-02 [0.92857143] [.stiff/rigid]; 01.04.07.03.04.03-02 [1.00000000] [.capable of deflection]; 01.05.06.11.05.01-01 [1.00000000] [.like hard substance];	N	02.05.05.04-03	aj	[.inflexible]	137283				
+regard	regard	NN1	S7.2+ X2.1	0	01.06.01-15 [0.90909091] [.regard/side]; 02.01.17 [0.92307692] [Esteem/regard]; 02.01.17.05 [0.94117647] [Reputation];	N	02.02.01; 02.02.09 [Esteem]	n	[Attention, heed]	122237				
+for	for	IF	Z5	0	01.05.05.14 [For the benefit/advantage of]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+rights	right	NN2	S7.4+ G2.2+ M6 G1.2	0	03.04.13.15 [0.93333333] [Legal right]; 02.01.12.08.02 [0.93750000] [Freedom from error, correctness]; 01.05.07.05.12-04.01. [0.95000000] [...the right];	Y	03.05.15	n	[Legal right]	168501				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+privileges	privilege	NN2	G2.1 A5.1+	0	03.04.13.15-19 [0.88235294] [.document conferring right/privilege]; 03.04.13.15.01-08 [0.90000000] [.privilege/exceptional right]; 03.04.13.15.01-08.03 [0.91304348] [..franchise/privilege of individual/corporation];	N	03.05.15.01	n	[Right of specific class/person/place]	168652				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.90000000] [.animal house]; 03.02.07.02.06.01 [0.93333333] [A house]; 01.01.10.02.02-02.05 [0.93750000] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+for	for	IF	Z5	0	01.05.05.14 [For the benefit/advantage of]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+just	just	JJ	S1.2 G2.2+	0	03.04.13.15 [0.93333333] [Rightful/legally entitled/recognized]; 02.01.12.08.02.01 [0.94736842] [Precise, accurate, exact]; 03.05.03-01 [0.94736842] [.specifically of persons];	Y	03.05.15	aj	[Rightful/legally entitled/recognized]	168626				
+liberties	liberty	NN2	A1.7-	0	03.04.13.15.01-08 [0.89473684] [.privilege/exceptional right]; 03.04.10.03 [0.92857143] [Freedom/liberty]; 03.04.10.03-03 [0.93333333] [.civil liberty];	Y	03.05.15.01-08	n	[.privilege/exceptional right]	168672				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+people	people	NN	S2mfc	0	01.02.07.07 [0.83333333] [People]; 01.02.07.03 [0.87500000] [People collectively/indefinitely]; 01.05.07.05.25.04.01-15.05 [0.96153846] [..regarded as a whole/a body of people gathered];	N	03.04.07.04.01.01.02-06.08;  03.01.06.02 [The common people]	n	[..whole body of electors]	162665				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z5 Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	04.06		[Pronoun]	Nill				
+liberties	liberty	NN2	A1.7-	0	03.04.13.15.01-08 [0.90000000] [.privilege/exceptional right]; 03.04.10.03 [0.93333333] [Freedom/liberty]; 03.04.10.03-03 [0.93750000] [.civil liberty];	Y	03.05.15.01-08	n	[.privilege/exceptional right]	168672				
+those	those	DD2	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+rights	right	NN2	S7.4+ G2.2+ M6 G1.2	0	03.04.13.15 [0.93333333] [Legal right]; 02.01.12.08.02 [0.93750000] [Freedom from error, correctness]; 01.05.07.05.12-04.01. [0.95000000] [...the right];	Y	03.05.15	n	[Legal right]	168501				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+privileges	privilege	NN2	G2.1 A5.1+	0	03.04.13.15-19 [0.88235294] [.document conferring right/privilege]; 03.04.13.15.01-08 [0.90000000] [.privilege/exceptional right]; 03.04.13.15.01-08.03 [0.91304348] [..franchise/privilege of individual/corporation];	N	03.05.15.01	n	[Right of specific class/person/place]	168652				
+were	be	VBDR	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+numbered	number	VVN	N1 N5	0	01.06.04.05 [0.90000000] [Number/calculate/reckon]; 01.06.04.05-03 [0.91666667] [.amount/be equal to]; 01.06.04.05-01 [0.92307692] [.as a series];	N	01.16.02.01.01-08; 01.16.04.06 [Number/calculate/reckon]	vt	[.count in/include among]	105614				
+among	among	II	Z5	0	01.05.07.05.06.01 [Among]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+principal	principal	JJ	A11.1+++	0	03.02.07.03.06.01-01 [0.95000000] [.principal member]; 01.01.07.02.01-01 [1.00000000] [.earthquake]; 01.01.09.01.02.02-03 [1.00000000] [.specific orders of triangulation];	N	02.02.08-08.02	aj	[..of things]	125571				
+securities	security	NN2	G2.1 A15+ E6+ I1.1	0	01.05.05.15-02 [0.90909091] [.safety/security]; 01.05.05.15-02.03. [0.91666667] [...guarantee of safety]; 01.05.05.15-02.01 [0.92307692] [..a means/source of];	N	03.05.16.01.01-04; 01.15.15-02 [safety/security]	n	[.legal security]	169328				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+A	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+great	great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	0	01.06.06.03 [0.88888889] [Great in quantity/amount/degree]; 01.06.06.03-01 [0.90909091] [.great (of quantity/amount)]; 01.06.06.03-02 [0.91666667] [.much/a great amount/quantity of];	Y	01.16.06.03	aj	[Great in quantity/amount/degree]	110919				
+portion	portion	NN1	N5	0	01.02.08.01.18-04 [0.87500000] [.portion of food]; 01.06.07.04.01-02 [0.91666667] [.a/some part of something]; 02.07.12.03.01 [0.94117647] [An allotted share/portion/part];	Y	02.06.12.03.01	n	[An allotted share/portion/part]	139603				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+?	PUNC	YQUE	PUNC	0	03.08.07.04.01 [Specific written characters]				#N/A	#N/A				
+health	health	NN1	B2 X9.2	0	01.02.01.02 [0.80000000] [Mental health/sanity]; 01.02.01 [0.88888889] [Health and disease]; 01.02.01.03 [0.90909091] [Healing/cure];	N	01.03-04	n	[.good health]	8649				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+strength	strength	NN1	S1.2.5+ O4.1 S7.1+ X9.1+ N5	0	01.02.01-04 [0.92307692] [.good health]; 01.02.05.05.01 [0.93750000] [Bodily strength]; 01.06.06.03.01 [0.93750000] [High/intense degree];	Y	01.02.03.05.01	n	[Bodily strength]	23574				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.16.01.04	vi	[Be the same as]	104615				
+necessary	necessary	JJ	S6+ A11.1+	0	02.05.02.02-06 [0.86666667] [.necessary to be done]; 01.05.05.14.03 [0.94117647] [Convenient]; 01.05.03.06-05.01 [1.00000000] [..of mental concepts/processes];	N	02.05.02.02	aj	[Necessary]	136459				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+undergo	undergo	VVI	A1.1.1	0	01.05.05.01-16.03 [0.88888889] [..undergo/experience]; 01.05.05.01-16.02 [0.90000000] [..specifically change/alteration]; 01.05.05.01-16.01 [0.90476190] [..specifically of a person];	N	01.15.18; 01.15.01-16.03 [undergo/experience]	vt	[Suffer (adversity/affliction)]	84176				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+severe	severe	JJ	A5.1- S1.2.5+ S1.2.1- O4.2-	0	01.05.05.21.05.03 [0.88235294] [Harsh/severe]; 01.05.05.21.05.03-02 [0.88888889] [.specifically of actions/utterances]; 01.05.05.21.05.03-01 [0.89473684] [.specifically of looks/demeanour];	N	01.15.20.03.01	aj	[Severe]	84864				
+labour	labour	NN1	A1.1.1 A12- I3.1/S5+ B1	0	01.02.00.05.01-01 [0.84615385] [.labour/pains]; 03.10.04.02-05 [0.94117647] [.employment exchange]; 01.01.10.05.03.05.01-02 [1.00000000] [.eclipse];	N	01.15.20.02-10	n	[.labour/toil]	84664				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+almost	almost	RR	A13.4	0	01.06.01.09-10 [0.93750000] [.almost/nearly]; 01.06.02.01-01 [1.00000000] [.for/in the most part]; 01.06.06.02-01 [1.00000000] [.nearly (of amount)];	Y	01.16.01.09-10	av	[.almost/nearly]	104935				
+said	say	VVN	Q2.1	0	01.02.10.04-02.05 [1.00000000] [..try on]; 01.03.05-09 [1.00000000] [.test by tasting]; 01.05.05.03 [1.00000000] [Undertake/set oneself to do];	N	02.07.06	vt	[State/declare/set forth]	145465				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+oppressive	oppressive	JJ	A1.7+ W4	0	02.02.20.07.01-02 [0.94736842] [.oppressive]; 01.01.11.02.02-10 [1.00000000] [.oppressively still/close]; 01.05.05.18-07.01 [1.00000000] [..oppressive];	Y	02.04.11.07.01-02	aj	[.oppressive]	129643				
+fatigue	fatigue	NN1	B2- O4.1	0	01.05.05.11.01-01 [0.93333333] [.difficulty/trouble/bother]; 03.10.12.03.12.01-03.09 [0.95238095] [..fatigue/weakness]; 01.02.01.01.04.18-15 [1.00000000] [.other disorders];	N	01.09.02.03	n	[Weariness/exhaustion]	57421				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+such	such	DA	A13.3	05:02:01	01.06.06-02 [0.91666667] [.so many/much]; 01.06.02-02 [0.92307692] [.of this/that kind]; 01.06.02-02.02 [0.93333333] [..of the kind that];	Y	01.16.02-02	aj	[.of this/that kind]	105379				
+a	a	AT1	A13.3	05:02:02	NULL	N	04.03		[Grammatical]	Nill				
+station	station	NN1	M3/H1c G2.1/H1c Q4.3 M7c S7.1@	0	03.07.03.12-02 [0.90909091] [.a pilgrimage]; 03.01.06 [0.91666667] [Social class/rank]; 03.08.12.01-04 [0.91666667] [.broadcasting station];	N	03.11-02	n	[.regular occupation/trade/profession]	197788				
+:	PUNC	YCOL	PUNC	0	NULL				#N/A	#N/A				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+Journals	journal	NN2	Q4.2 Q1.2	0	03.08.06.01.02-02 [0.89473684] [.of a public body/association]; 03.08.11.08 [0.92307692] [Journal]; 03.08.06.01.02 [0.93333333] [Daily record/journal];	Y	03.09.06.01.02	n	[Daily record/journal]	184041				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	03.02.07.02.06.01 [0.88235294] [A house]; 03.02.07.02.06.01.01-07 [0.88888889] [.flat/apartment]; 01.02.08.03.08.02-02 [0.92307692] [.animal house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+contained	contain	VVD	A1.8+ A1.7+	0	01.06.07.05-01 [0.87500000] [.contain as a constituent part]; 01.06.07.05.02 [0.93333333] [Incorporate/include]; 01.05.07.05.01.01 [0.93750000] [Contain/have within];	Y	01.12.05.01.01	vt	[Contain/have within]	94496				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+voluminous	voluminous	JJ	N3.2+++	0	01.03.08.02.04.01 [1.00000000] [Loud]; 01.05.06.02-01 [1.00000000] [.long-lasting/enduring]; 01.05.06.02 [1.00000000] [Having/pertaining to duration];	N	01.16.06.03-06	aj	[.extensive/on a large scale]	110932				
+body	body	NN1	B1 O2 S5+c O4.1 S2mf	0	01.02.05 [0.90000000] [The body]; 01.02.05.01 [0.90909091] [Dead body]; 01.02.05.08.03 [0.90909091] [Trunk];	N	01.16.07-04.01	n	[..an organized/collective whole]	111698				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+historical	historical	JJ	T1.1.1 T3+	0	02.01.13-05 [0.94117647] [.marked by historical faith]; 01.02.03.03.18 [1.00000000] [Evolution]; 01.05.06.08.04-08 [1.00000000] [.relating to past times];	N	03.09.06.01.04-01; 01.13.08.04-08 [relating to past times]	aj	[.recording/dealing with history]	184066				
+reading	reading	NN1	Q3 Q1.2 X3.2+ X2.5+ A10+ G2.1	0	03.11.03.04.13 [0.88888889] [A reading]; 02.08.03.06.01-04 [0.92857143] [.reading aloud]; 02.08.03.06.01-04.02 [0.94117647] [..as an event];	N	03.09.09-12	n	[.reading matter]	186505				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+familiarity	familiarity	NN1	X2.2+ X2.5+ S1.2.1+	0	01.05.05.21.03-14.03 [0.95000000] [..familiarity with a thing]; 02.02.22.15-18.04 [0.95652174] [..instance of familiar behaviour]; 01.01.10.05.02.01 [1.00000000] [Aspect];	N	02.01.12.01.02	n	[Familiarity]	118596				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+must	must	VM	S6+ A7+	0	01.02.06.20.06.03-01 [1.00000000] [.be in state of must]; 01.02.11.06.05-01 [1.00000000] [.become musty/mouldy]; 01.02.11.06.05-02 [1.00000000] [.make musty/mouldy];	N	02.05.02-04	vi	[.be absolutely compelled/obliged]	136370				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+added	add	VVN	N5+/A2.1 A1.8+	0	01.06.04.08-01 [0.91666667] [.add/sum]; 01.06.06.05.01-02 [1.00000000] [.add]; 02.08.03-37 [1.00000000] [.in addition];	Y	01.16.06.05.01-02	vt	[.add]	111421				
+an	an	AT1	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+official	official	JJ	G1.1 S7.4+	0	03.04.07-10 [0.94736842] [.official/derived from persons in office]; 01.02.01.03.05-08 [1.00000000] [.officinal/pharmacopoeial]; 02.02.28.17.03-02 [1.00000000] [.formal as opposed to personal/private];	Y	03.04.07-10	aj	[.official/derived from persons in office]	161818				
+acquaintance	acquaintance	NN1	S3.1/S2mf X2.2+	0	02.01.12-04 [0.93750000] [.knowledge of, acquaintance]; 02.02.22.15-17.02 [0.95454545] [..acquaintance]; 02.01.12.01.01-01 [1.00000000] [.direct];	Y	02.01.12-04	n	[.knowledge of, acquaintance]	118527				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+merely	merely	RR	A13.6 A14	0	01.06.07.03-03 [0.92857143] [.simply/only/merely]; 01.06.07.03-02 [0.93333333] [.without addition or qualification]; 01.06.06.07-07.01 [0.94444444] [..merely/and nothing more];	Y	01.16.07.03-03	av	[.simply/only/merely]	111875				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+forms	form	NN2	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@	0	03.08.03-07 [0.90909091] [.a representation]; 03.11.03.01.02.02.03 [0.90909091] [Form]; 02.03.03-05 [0.91666667] [.matter/form/essence];	N	01.15.21.01-04.05	n	[..a prescribed course/procedure]	85493	?			
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+principles	principle	NN2	G2.2 X4.1	0	03.05-05 [0.92307692] [.principle(s)]; 01.05.05.21.01-03 [0.93750000] [.moral principle(s)]; 01.05.03.03-01 [0.94117647] [.basis/fundamental principle];	Y	01.11.03.03-01	n	[.basis/fundamental principle]	77456				
+on	on	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z5 Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	N	04.06		[Pronoun]	Nill				
+those	those	DD2	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+forms	form	NN2	A4.1 O4.4 Q1.2 O4.1 P1@ H5@ K5.1@ G2.1-@ B1@	0	03.08.03-07 [0.90909091] [.a representation]; 03.11.03.01.02.02.03 [0.90909091] [Form]; 02.03.03-05 [0.91666667] [.matter/form/essence];	N	01.15.21.01-04.05	n	[..a prescribed course/procedure]	85493				
+originated	originate	VVD	T2+	0	01.02.03.05.06-01 [1.00000000] [.have as origin]; 01.05.03.02-03 [1.00000000] [.derive/come from/originate in]; 01.05.03.02 [1.00000000] [Originate/be a source of];	Y	01.11.03.02	vi	[Originate/derive/arise]	77427				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+upon	upon	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	N	04.06		[Pronoun]	Nill				
+they	they	PPHS2	Z8mfn	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+were	be	VBDR	A3+ Z5	0	01.05.01 [0.91666667] [Be/exist]; 01.05.01-01 [0.92307692] [.of inanimate objects]; 02.01.10.02 [0.92857143] [Mean];	N	04.03		[Grammatical]	Nill				
+most	most	RGT	A13.2	0	01.06.02.01-01 [0.95238095] [.for/in the most part]; 01.06.01.09-10 [1.00000000] [.almost/nearly]; 01.06.06.02-01 [1.00000000] [.nearly (of amount)];	N	01.16.06.03.01-09	av	[.in the greatest degree/most]	111041				
+wisely	wisely	RR	S1.2.6+	0	02.01.12.08-08 [0.93750000] [.assuredly, indeed]; 01.05.05.20.07 [1.00000000] [Carefully]; 01.05.05.22.01-06.02 [1.00000000] [..ingeniously];	N	02.01.08.02	av	[Wisely]	117320				
+established	establish	VVN	T3+	0	01.05.06.11.05.01 [0.86666667] [Make stable, establish]; 01.05.03.04-03 [0.90909091] [.found/establish]; 02.02.18 [0.91666667] [Compose/make calm];	Y	01.11.03.04-03	vt	[.found/establish]	77526				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+A	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+facility	facility	NN1	H1 O2 S8+ X9.1+	0	01.04.04.08.02 [1.00000000] [Pliableness]; 01.05.01.07.02-16 [1.00000000] [.liability]; 01.05.05.09.04.01 [1.00000000] [Sloth/laziness];	N	01.15.12	n	[Easiness]	80556				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+access	access	NN1	M1 A9+ A1.1.1	0	01.06.04.15.05-05.06 [0.90909091] [..accessing files]; 02.02.15-09 [0.92857143] [.sudden outburst/access of passion]; 01.02.01.01.04-05 [1.00000000] [.bout/attack of];	N	01.14.05.10-06	n	[.power/right/opportunity of entrance]	102113				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+frankness	frankness	NN1	Z99	0	04.10 [Unrecognised];	N	02.01.12.08.04-03	n	[.frankness, straightforwardness]	119187				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+communication	communication	NN1	Q2.1 Q1.2 Q1.3 Q4.3	0	01.03.02.04.01 [0.93750000] [Sexual intercourse]; 01.05.08.06-12 [1.00000000] [.transmission/passing on]; 01.06.07.05.06.01-09.03. [1.00000000] [...means of];	N	03.09	n	[Communication]	181435				
+in	in	II	Z5	0	 [MWE] 01.06.07.02-01 [That is all/the whole .in all/altogether]	N	04.03		[Grammatical]	Nill				
+all	all	DB	N5.1+	0	 [MWE] 01.06.07.02-01 [That is all/the whole .in all/altogether]	N	01.16.07.02	aj	[All/the whole amount of]	111826				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+intercourse	intercourse	NN1	S3.2/B1 S1.1.1	0	01.03.02.04.01 [0.94117647] [Sexual intercourse]; 01.05.04-02.08 [1.00000000] [..intervening occurrence]; 01.05.05.02.03.01 [1.00000000] [Acting in another's business/intervention];	N	03.01.04	n	[Social communication/relations]	148054				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+private	private	JJ	A10- S5- G1.1-	0	02.01.12.10.04 [0.88888889] [Private, secluded]; 02.01.12.10.04-01.01 [0.90909091] [..of conversation, etc.]; 03.10.09.04.01.01-03 [0.94444444] [.not holding public office];	N	01.16.02.02.02-03.01; 02.01.12.10.04-01.01 [of conversation, etc]	aj	[..not public]	105837				
+business	business	NN1	I2.1 A1.1.1 A5.1+++	0	03.10.05 [0.91666667] [Business/transactions]; 03.10-02.04 [0.93333333] [..a particular business/profession]; 02.05.05.01 [0.94117647] [Resolution/determination];	N	01.15.02.03-02.02	n	[..an occupation/affair]	78234				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+were	be	VBDR	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.11.01.05-06	vi	[.be/have particular quality]	76241				
+highly	highly	RR	A13.3	0	02.02.28 [0.92857143] [Proudly]; 03.10.13.16.01.03 [0.93333333] [At high price]; 01.03.08.02.05.02-01 [1.00000000] [.with raised voice/loudly];	N	01.16.06.03.01	av	[Greatly/very much]	111012				
+desirable	desirable	JJ	O4.2+ X7+	0	02.05.03.03-04 [0.93333333] [.desirable]; 02.05.03.03-01 [0.93750000] [.desirous]; 02.02.20.04-05 [1.00000000] [.regrettable];	Y	02.05.03.03-04	aj	[.desirable]	136666				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+an	an	AT1	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+attention	attention	NN1	X5.1+ S8+	0	02.01.15.01 [0.92857143] [Attention, heed]; 01.05.05.20.07-04.03 [0.95833333] [..diligence in service]; 01.05.05.20.07 [1.00000000] [Care/carefulness/attention];	Y	02.02.01	n	[Attention, heed]	122237				
+ever	ever	RR	T1.1 N6+++ A13	0	01.05.06.02.01 [0.94444444] [Eternally/endlessly]; 01.05.05.05-01 [1.00000000] [.in a continuous manner/without stopping]; 01.05.06.03-09 [1.00000000] [.at any time/whenever];	Y	01.15.05-01	av	[.in a continuous manner/without stopping]	78815				
+awake	awake	JJ	B1	0	 [MWE] 02.01.15.04-03 [Realization/discovery .become aware of]	N	01.09.02.02	aj	[Awake]	57381				
+to	to	II	Z5	0	 [MWE] 02.01.15.04-03 [Realization/discovery .become aware of]	N	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+exigencies	exigency	NN2	A1.7+	0	01.05.05.11-03.03 [1.00000000] [..sudden/extreme emergency]; 02.05.02.02-01 [1.00000000] [.that which is necessary]; 02.05.02.02.01-04 [1.00000000] [.extreme/urgent need];	Y	01.09.02.02	n	[State of being awake/wakefulness]	57357				
+of	of	IO	Z5	0	 [MWE] 02.01.16-02 [Important .specifically of things]	N	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	 [MWE] 02.01.16-02 [Important .specifically of things]	N	04.03		[Grammatical]	Nill				
+moment	moment	NN1	T1.2 T1.1.2 N3	0	 [MWE] 02.01.16-02 [Important .specifically of things]	N	01.13.02.02-02	n	[.moment/instant]	88071				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+performance	performance	NN1	K4 X9.2 A1.1.1 A12-	0	03.11.03.01.06.05 [0.92307692] [A performance]; 03.11.03.04-03 [0.92307692] [.a performance]; 03.11.03.04-02 [0.92857143] [.performing];	N	01.15.06	n	[Execution/performance/carrying out]	78947				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+more	more	RGR	N5++	0	01.06.06.03-02 [1.00000000] [.in/to a greater quantity/amount/degree]; 01.06.06.03.01-08.01 [1.00000000] [..of an attribute]; 01.06.06.03.01-08 [1.00000000] [.in/to a greater degree/extent];	Y	01.16.06.03-02	av	[.in/to a greater quantity/amount/degree]	110948				
+public	public	JJ	S5+ A10+	0	01.02.07.08-03 [0.93333333] [.done by/for nation]; 01.02.07.08-01 [0.93750000] [.national]; 01.03.07.11-13.05 [0.93750000] [..conspicuous];	N	03.01-03; 03.04.07-01 [public]	aj	[.pertaining to/engaged in affairs of]	146280				
+functions	function	NN2	A1.5.1 A1.1.1 S1.1.3+ A2.2 N2 Y2	0	01.06.04.07-03.13 [0.90909091] [..function]; 02.08.04.01-13 [0.93333333] [.grammatical function]; 03.10.03 [0.93333333] [Function/duty];	N	01.15-04	n	[.proper operation/function]	77889				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90000000] [Be/exist]; 01.05.01-01 [0.90909091] [.of inanimate objects]; 02.01.10.02 [0.91666667] [Mean];	N	01.11.01.05-06	vi	[.be/have particular quality]	76241				
+indispensable	indispensable	JJ	A11.1++	0	03.05.01.02-02 [0.95000000] [.perpetually binding]; 02.05.02.02 [1.00000000] [Necessary]; 03.07.02.02-01.01 [1.00000000] [..not];	Y	02.05.02.02	aj	[Necessary]	136459				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+All	all	DB	N5.1+	0	01.06.07.02 [0.90909091] [All/the whole amount of]; 01.05.06.02-05 [1.00000000] [.while something lasts/during]; 01.06.02.01-04 [1.00000000] [.affecting all indiscriminately];	N	01.16.02.01-06.02	n	[..everyone]	105416				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+were	be	VBDR	A3+ Z5	0	01.05.01 [0.88888889] [Be/exist]; 01.05.01-01 [0.90000000] [.of inanimate objects]; 02.01.10.02 [0.90909091] [Mean];	N	01.16.01.04	vi	[Be the same as]	104615				
+members	member	NN2	S5+/S2mf B1	0	01.02.03.05-01 [0.92307692] [.part with regard to]; 01.06.03.03-10.07 [0.93333333] [..member/item in a series]; 01.06.07.04.01-16 [0.93750000] [.constituent part/component];	N	03.04.06.13.09.04.01-05; 03.01.04.04-02 [member]	n	[.Member of Parliament]	159936				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+last	last	MD	N4	0	01.05.06.11.05.03-05 [0.95238095] [.continuance, duration]; 01.05.06.04.02-08 [0.95454545] [.specific day of a month]; 01.02.01.01.07 [1.00000000] [Blemish];	N	01.16.04	aj	[.most recent]	89741				
+parliament	parliament	NN1	G1.1	0	01.02.08.01.15.23-01.23 [0.94117647] [..gingerbread/-cake]; 03.03.19.01.01-03 [0.96000000] [.peace talks/conference]; 03.04.13.08.01-13.03 [0.96153846] [..consultative assembly of];	N	03.04.06.13.09.04.01	n	[English/British parliament]	159930				
+knew	know	VVD	X2.2+ S3.2/B1%	0	02.01.12.01 [0.86666667] [Have knowledge of]; 02.01.12.01 [0.86666667] [Have knowledge, know]; 02.01.12 [0.86666667] [Know, be aware of];	Y	02.01.12	vt	[Know, be aware of]	118533				
+how	how	RGQ	Z5 A13.3	0	01.05.05.20-05 [.in what way]; 04.03 [null];	N	01.16.06.01-03	av	[.to what extent]	110871				
+eminently	eminently	RR	A13.3	0	01.03.07.11-10.04 [1.00000000] [..conspicuously]; 01.05.06.08.06-05 [1.00000000] [.imminently/in the near future]; 01.05.07.02.04.06-01 [1.00000000] [.to a great/considerable height];	N	01.16.06.03.01-07.04	av	[..remarkably/extraordinarily]	111027				
+these	these	DD2	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+requisites	requisite	NN2	O2/S6+	0	02.05.02.02-01 [1.00000000] [.that which is necessary];	Y	02.05.02.02-01	n	[.that which is necessary]	136443				
+were	be	VBDR	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+united	unite	VVN	S5+ A1.1.1	0	01.06.07.05.05 [0.94117647] [Unite]; 01.06.07.05.05-01 [0.94444444] [.specifically in non-physical connection]; 01.02.06.20.06.02.10-14 [1.00000000] [.move legs in correct order];	N	01.16.07.05.03-02.01; 01.16.07.05.05 [Unite]	vt	[..qualities/features]	112264				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+right	right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	0	03.04.13.15 [0.93750000] [Rightful/legally entitled/recognized]; 01.05.07.05.12-05.05 [0.94444444] [..right]; 02.01.12.08.02.01 [0.95000000] [Precise, accurate, exact];	N	02.01.12.08	av	[In accordance with truth, truly]	119041				
+hon.	hon.	JJ	Z99	0	04.10 [Unrecognised];	Y	04.01		[Proper noun]	Nill				
+friend	friend	NN1	S3.1/S2mf	0	01.05.05.12.01-05 [1.00000000] [.that which/one who helps/means of help]; 01.05.05.12.01.03.01-02 [1.00000000] [.supporter/encourager]; 01.07.04.01-07 [1.00000000] [.as protector];	N	03.01.04.01.02	n	[A companion/associate]	148191				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+might	might	VM	A7+	0	NULL	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+be	be	VBI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+added	add	VVN	N5+/A2.1 A1.8+	0	01.06.04.08-01 [0.92857143] [.add/sum]; 01.06.06.05.01-02 [1.00000000] [.add]; 02.08.03-37 [1.00000000] [.in addition];	Y	01.16.06.05.01-02	vt	[.add]	111421				
+one	one	PN1	Z8	0	04.06 [Pronoun];	N	01.16.04.01	aj	[One]	107123				
+more	more	RGR	N5++	0	01.06.06.05.01-02.03 [0.95454545] [..more/further]; 01.06.06.05.01-02.04 [0.95454545] [..moreover/further]; 01.06.06.03-02 [1.00000000] [.in/to a greater quantity/amount/degree];	Y	01.16.06.05.01-02.03	av	[..more/further]	111397				
+amiable	amiable	JJ	S1.2.1+	0	02.02.19.01 [0.95000000] [Pleasant]; 02.02.22.03 [1.00000000] [Inviting/deserving love]; 02.02.22.15-01 [1.00000000] [.and worthy];	Y	02.04.10.01	aj	[Pleasant]	128461				
+qualification	qualification	NN1	P1 X9.1 S6+ A1.7+	0	01.05.05.22-18.02 [0.95833333] [..that which qualifies one for a function]; 01.05.01.05-04 [1.00000000] [.a property/quality/attribute]; 01.05.01.05.02 [1.00000000] [Character/nature];	Y	01.15.22-18.02	n	[..that which qualifies one for a function]	87195				
+equally	equally	RR	A6.1+	0	02.07.12.03-01 [0.95000000] [.equally]; 01.05.07.05.15-02 [1.00000000] [.in the same horizontal plane]; 01.06.01.07 [1.00000000] [Uniformly];	N	01.16.01.11	av	[Equally]	105215				
+conspicuousan	conspicuousan	JJ	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Punctuation - space missing between 01.03.07.11|13.05 and 04.03			
+unaffected	unaffected	JJ	A2.1-	0	01.02.01-03.05 [1.00000000] [..free from disease]; 01.05.05.01-04.01. [1.00000000] [....by some agent/influence]; 01.05.05.01-04.01. [1.00000000] [...not];	N	01.15.21.07-02	aj	[.not contrived/artificial]	86921				
+suavity	suavity	NN1	Z99	0	04.10 [Unrecognised];	N	01.15.21.04.01-08.02	n	[..blandness/suavity]	85921				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+disposition	disposition	NN1	S1.2 A9-	0	01.01.10.04.03-03 [0.94444444] [.nature of]; 01.01.10.04.03-04.05. [0.95000000] [...situation of]; 01.02.01 [1.00000000] [Health and disease];	N	02.01.04	n	[Disposition/character]	115493				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+manners	manner	NN2	S1.1.1 X4.2	0	01.05.05.20 [0.92857143] [Manner of action/operation]; 03.11.03.03.05 [0.93750000] [Style of language/writing]; 03.11.03.03.05.10-08 [0.94736842] [.affectation];	N	01.15.21-04.01	n	[..estimated as good or bad]	85400				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+suavity	suavity	NN1	Z99	0	04.10 [Unrecognised];	N	01.15.21.04.01-08.02		[blandness/suavity]	85921				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+without	without	IW	Z5	0	01.05.07.04.04 [With absence of (a thing)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+courting	court	VVG	S3.2 X7+	0	01.05.05.20.08.01-02 [0.92307692] [.court (disaster)/tempt (providence, etc.)]; 02.02.22.13 [0.94444444] [Court/woo]; 02.01.17.02-02.02 [0.95238095] [..pay respectful attention to];	N	01.15.10-05; 02.04.13.13 [Court/woo]	vt	[.attempt to obtain/attain]	79656				
+popular	popular	JJ	E2+ S5+	0	02.01.17.04.01.01 [0.88888889] [Popular]; 02.01.17.04.01.01-01 [0.90476190] [.seeking popularity]; 02.01.17.04.01.01-03 [0.90476190] [.of art and culture appealing to popular taste];	N	03.01.06.02; 02.02.09.04.01.01 [Popular]	aj	[Of/belonging to the common people]	149981				
+regard	regard	NN1	S7.2+ X2.1	0	01.06.01-15 [0.92307692] [.regard/side]; 02.01.17 [0.93333333] [Esteem/regard]; 02.01.15.01-02 [0.94736842] [.attention to, consideration];	N	02.04.13.05; 02.02.09 [Esteem]	n	[Affection]	130573				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+universally	universally	RR	W3 M7 A1.8+ N5.1+ X2.2 A5.2+	0	01.06.07.02 [0.92857143] [So as to affect the whole of]; 01.05.07.04.02-09 [1.00000000] [.everywhere]; 01.06.02.01-06.01 [1.00000000] [..with respect to every individual of a class];	N	01.16.02.01-06	av	[.universally/with universal application]	105529				
+attracted	attract	VVD	O4.2+ S3.2 O3	0	02.05.06.02 [0.91666667] [Attract/allure/entice]; 01.04.07.01.01-04 [0.92857143] [.attract]; 01.02.01.03.05.03.03-01 [0.94117647] [.draw/attract];	N	02.02.17	vt	[Attract]	135153				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+A	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+liberal	liberal	JJ	A1.7- G1.2 N5+	0	03.04.06.17.03.02-03.01 [0.93750000] [..liberal]; 01.02.05.02.01 [1.00000000] [Broad]; 01.05.05.21.05.07 [1.00000000] [Immoderate/unrestrained];	N	01.16.06.04.01-06	aj	[.liberal/unstinted in quantity]	111125				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+splendid	splendid	JJ	A5.1++	0	01.02.06.13.11.08-05 [1.00000000] [.having some element of beauty]; 01.02.06.19-04 [1.00000000] [.beautiful/showy]; 01.04.08.01-02 [1.00000000] [.brilliant/resplendent];	N	02.03.01.06	aj	[Excellent]	124224				
+hospitality	hospitality	NN1	S1.2.1+	0	03.11.02.08 [0.87500000] [Hospitality]; 03.11.02.08-02 [0.90000000] [.instance of]; 03.11.02.08-06 [0.90000000] [.quality of];	Y	03.13.02.08	n	[Hospitality]	213058				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+congenial	congenial	JJ	O4.2+ S1.2.1+	0	02.02.22.01-02.01 [0.95652174] [..congenial]; 01.02.00.05 [1.00000000] [Birth]; 01.02.01.01.04.03-08 [1.00000000] [.congenital];	N	01.16.03.01; 02.04.13.01-02.01 [congenial]	aj	[Agreeing/harmonious/congruent]	106230				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+habits	habit	NN2	S1.1.1 A6.2+ B5@	0	01.04.02.20.01.07 [0.90000000] [Crystal habit]; 01.02.03-08 [1.00000000] [.general characteristics of]; 01.02.04.06.03-01 [1.00000000] [.habit];	N	01.15.21.03-06	n	[.a habit/practice]	85609				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+country	country	NN1	G1.1c W3 F4/M7 K2	0	03.11.03.01.03.01-01 [0.93750000] [.country and western]; 03.02.07.01.02 [0.95000000] [Country as opposed to town]; 03.02.07.01.01 [0.95238095] [A land/country];	Y	03.02.07.01.01	n	[A land/country]	151380				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+well	well	RR	A5.1+ A13.3 A7+ B2+ Z4	0	02.04.05.02 [0.95000000] [With pleasing appearance]; 01.02.01.03.01-01 [1.00000000] [.satisfactorily recovering]; 01.05.03.06 [1.00000000] [Consequently];	N	01.16.03.01.01	av	[In a suitable/appropriate manner]	106321				
+becoming	become	VVG	O4.2+	0	01.06.03.01.01-02.01 [0.94444444] [..well]; 01.06.03.01.01-05 [0.94736842] [.be fitting/proper for]; 02.04.05.02 [0.94736842] [Have pleasing appearance];	Y	01.16.03.01.01-05	vt	[.be fitting/proper for]	106347				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+dignity	dignity	NN1	S7.2+	0	03.07.02.04.19.01-02 [0.93750000] [.collective]; 03.05.02-04.03. [0.95454545] [...desert/merit]; 02.02.28.08-01 [0.95833333] [.dignity];	Y	02.04.19.08-01	n	[.dignity]	132206				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+presiding	presiding	JJ	Z99	0	04.10 [Unrecognised];	N	03.04.03-03	aj	[.presiding]	158399				
+member	member	NN1	S5+/S2mf B1	0	01.06.03.03-10.07 [0.93750000] [..member/item in a series]; 01.06.07.04.01-16 [0.94117647] [.constituent part/component]; 01.06.07.04.01-09 [0.94444444] [.outlying part];	N	03.04.06.13.09.04.01-05; 03.01.04.04-02 [member]	n	[.Member of Parliament]	159936				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+great	great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	0	01.07.04 [0.90909091] [Pertaining to a god/divine]; 01.06.06.03 [0.92307692] [Great in quantity/amount/degree]; 01.06.06.03-01 [0.93333333] [.great (of quantity/amount)];	N	02.02.08-06	aj	[.of high/great importance]	125565				
+deliberative	deliberative	JJ	Z99	0	04.10 [Unrecognised];	N	02.02.07.04-06	aj	[.deliberative/consultative]	123811				
+assembly	assembly	NN1	S5+c A9+ A1.1.1	0	03.06.05.01-25 [0.88888889] [.assembly]; 03.11.03.04.17.04-02 [0.91666667] [.montage/assembly]; 03.04.06.13.09 [0.94444444] [Deliberative/legislative/administrative assembly];	Y	03.04.06.13.09	n	[Deliberative/legislative/administrative assembly]	159729				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+ever	ever	RR	T1.1 N6+++ A13	0	01.05.05.05-01 [1.00000000] [.in a continuous manner/without stopping]; 01.05.06.02.01 [1.00000000] [Eternally/endlessly]; 01.05.06.03-09 [1.00000000] [.at any time/whenever];	N	01.13.10-04	av	[.always/in every case]	89961				
+been	be	VBN	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+experienced	experience	VVN	X9.1+ X2.2+ X3 I3.2	0	01.05.05.01-16.03 [0.94736842] [..undergo/experience]; 01.05.05.10.01 [1.00000000] [Make experiment of/with]; 02.01.12.01.01 [1.00000000] [Experience];	Y	02.01.12.01.01	vt	[Experience]	118592				
+at	at	II	Z5	0	01.06.01-06 [.at/in a particular position]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+table	table	NN1	H5 Q1.2 N2	0	01.06.04.12-05 [0.88888889] [.table]; 03.10.11.39-04 [0.91666667] [.metal table]; 01.02.01.03.06.12-14 [0.93333333] [.operating table];	N	03.02.07.03.09.01	n	[Table]	152582				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+If	if	CS	Z7	0	01.05.01.07.01 [If/in case/lest]; 04.05 [null];	Y	04.05		[Conditional]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+present	present	NN1	T1.1.2 A9-	0	02.07.12.01 [0.91666667] [Gift/present]; 01.05.06.08.03-08 [0.93333333] [.present thing/person/occasion]; 01.05.07.04.03-10 [0.94444444] [.a person's presence/immediate surroundings];	N	01.13.08.03	aj	[Present]	89091				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+been	be	VBN	A3+ Z5	0	01.05.01 [0.88888889] [Be/exist]; 01.05.01-01 [0.90000000] [.of inanimate objects]; 02.01.10.02 [0.90909091] [Mean];	N	01.16.01.04	vi	[Be the same as]	104615				
+an	an	AT1	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+occasion	occasion	NN1	T1.2 S1.1.1	0	01.05.06.03 [0.93333333] [A time/particular time/occasion]; 02.01.07.04.03 [0.94117647] [Topic, subject-matter]; 01.01.10.07.03-04 [1.00000000] [.setting];	Y	01.13.03	n	[A time/particular time/occasion]	88129				
+on	on	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+ought	ought	VMK	S6+	0	03.05.01 [0.94444444] [Behove/be the duty of]; 03.05.01 [0.94444444] [Have/had duty/obligation]; 03.05.01-01 [0.95000000] [.behoved];	Y	03.06.01	vi	[Have/had duty/obligation]	170037				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+indulge	indulge	VVI	E2+ S7.4+ A1.1.1 F2	0	03.05.05.02.01.01-02 [0.92000000] [.indulge oneself]; 03.04.05-04 [0.93333333] [.indulge]; 01.05.05.21.05.07-01 [0.94736842] [.indulge];	N	02.04.10.01-03; 01.15.21.05.07-02 [indulge]	vt	[.by indulgence]	128477				
+his	his	APPGE	Z8	06:02:01	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+own	own	DA	Z8	06:02:02	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+feelings	feeling	NN2	X2.1 E1 X3	0	02.02 [0.92307692] [Emotion]; 02.02.02 [0.93333333] [Emotional perception]; 02.02-02 [0.93750000] [.an emotion];	N	02.04-01	n	[.emotions/feelings]	127465				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+could	can	VM	A7+	0	01.02.08.01.22.07-11 [1.00000000] [.preserve by canning]; 01.04.07.06.04.02-05.01 [1.00000000] [..with jacket]; 01.05.05.03.02 [1.00000000] [Begin action/activity];	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+readily	readily	RR	X5.2+ A12+	0	02.05.03.01-05 [0.93333333] [.readily/promptly]; 01.05.05.03.01-02 [1.00000000] [.in a state of readiness]; 01.05.05.12-01 [1.00000000] [.without difficulty/delay];	Y	01.15.12-01	av	[.without difficulty/delay]	80629				
+amplify	amplify	VVI	X3.2 A4.2+/A2.1 N3.2+/A2.1	0	01.03.08.02.02.01-01 [0.92857143] [.amplify]; 01.04.07.03.08.01.02-13 [1.00000000] [.increase signal/current, etc.]; 01.05.07.02.02 [1.00000000] [Expand/enlarge];	N	02.01.12.08.05-01; 01.12.02.02 [Expand/enlarge]	vt	[.in expression]	119227				
+upon	upon	II	Z5	0	01.05.07.05.07.01 [On/upon]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+qualities	quality	NN2	A5.1 A5.1+ O4.1	0	01.06.02-04.04 [0.93333333] [..according to quality]; 01.04.07.03.05-05 [0.93750000] [.quality of sound]; 03.08.11.08.01-08 [0.93750000] [.serious/quality];	N	02.01.04-05	n	[.distinguishing feature]	115502				
+necessary	necessary	JJ	S6+ A11.1+	0	02.05.02.02-06 [0.93333333] [.necessary to be done]; 01.05.03.06-05.01 [1.00000000] [..of mental concepts/processes]; 01.05.03.06-05 [1.00000000] [.determined/necessary];	N	02.05.02.02	aj	[Necessary]	136459				
+for	for	IF	Z5	0	01.05.05.14 [For the benefit/advantage of]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.96875000] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.96875000] [..speaker of Lords]; 01.03.08.02.02.01-04 [1.00000000] [.loud-speaker];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+because	because	CS	Z5/A2.2	0	01.05.03.01-01 [.because]; 04.03 [null];	Y	01.11.03.01-01	cj	[.because]	77365				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	A9+ Z5 A2.2 S4	0	02.01 [0.88888889] [Have in the mind]; 02.01.08 [0.90000000] [Understand]; 02.01.12.01 [0.92307692] [Have knowledge, know];	N	02.06-05	vt	[.possess a condition/position]	137931				
+before	before	II	Z5	0	01.05.07.05.10 [In front of]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+him	he	PPHO1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+perfect	perfect	JJ	A5.1+++ A1.2+++ Q3	0	02.01.15.07.08.10-01 [0.88235294] [.perfect]; 01.06.04.03-09.13 [0.92307692] [..perfect]; 02.01.12.08.03-01 [0.93750000] [.of statement: agreeing with reality];	Y	02.03.01.10-01	aj	[.perfect]	124327				
+example	example	NN1	A4.1	0	01.05.05.21.01-02.04 [0.94444444] [..action/conduct that induces imitation]; 01.06.01.10.03-01.01 [0.94444444] [..action/conduct serving as]; 01.06.02.02.01-05.03. [0.94736842] [....of workmanship];	N	01.16.02.02.01-04	n	[.exemplifying some rule/activity/quality etc.]	105738				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+them	they	PPHO2	Z8mfn	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+behoved	behove	VVD	Z99	0	04.10 [Unrecognised];	N	03.06.01	vt	[Behove/be the duty of]	170039				
+him	he	PPHO1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+forbear	forbear	VVI	Z99	0	04.10 [Unrecognised];	N	01.15.09.02.01	vt	[Abstain/refrain from (action)]	79424	I think the speaker means 'forego'			
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+gratification	gratification	NN1	E4.2+	0	02.02.19 [0.93333333] [Pleasure/enjoyment]; 01.03.00.05 [0.93750000] [Sensuous pleasure]; 01.03.00.05-03 [0.95000000] [.source/instance of sensuous pleasure];	N	02.04.10.01-05	n	[.action/fact of giving pleasure]	128443				
+of	of	IO	A9+	07:03:01	01.06.01-04 [0.92857143] [.of/in respect of]; 01.05.03.01-02 [0.93333333] [.because of]; 01.05.06-01 [0.93333333] [.during];	N	04.03		[Grammatical]	Nill				
+his	his	APPGE	A9+	07:03:02	02.07.01-03.03. [0.95000000] [...his/her]; 02.07.01-03.03. [0.95000000] [...its];	N	04.06		[Pronoun]	Nill				
+own	own	DA	A9+	07:03:03	02.07.01-03 [0.94736842] [.own]; 02.02.22.04 [0.95238095] [Used to a loved one]; 02.07.01-03.04 [0.95652174] [..own private];	N	04.06		[Pronoun]	Nill				
+personal	personal	JJ	S5- S1.2.1+	0	01.06.02.02.02-10.01 [0.86363636] [..personal/private]; 01.06.02.02.02-10 [0.90476190] [.relating to a person in his individual capacity]; 01.06.04.15.01.03-03 [0.92307692] [.personal];	Y	01.16.02.02.02-10	aj	[.relating to a person in his individual capacity]	105845				
+wishes	wish	NN2	X7+	0	02.05.03.03.01-04 [0.88888889] [.object wished for]; 02.05.03.03.01-02 [0.95238095] [.a wish]; 01.05.05.21.04.02-05.02 [0.95833333] [..a good wish];	Y	02.05.03.03.01-02	n	[.a wish]	136707				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+might	might	VM	A7+	0	NULL	N	02.01.13.08.09	v	[Expressing possibility]	121111				
+no	no	RR21	T2-	08:02:01	 [MWE] 01.05.06.10.01-03.01 [Infrequently/it rarely happens ..never again]	Y	01.13.10.01-03.01	av	[..never again]	90000	MWE			
+longer	longer	RR22	T2-	08:02:02	 [MWE] 01.05.06.10.01-03.01 [Infrequently/it rarely happens ..never again]	Y	01.13.10.01-03.01	av	[..never again]	90000	MWE			
+retard	retard	VVI	Z99	0	04.10 [Unrecognised];	N	01.13.09.02.01	vt	[Delay]	89917				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+declaration	declaration	NN1	Q2.2	0	02.02.22.13-01.02 [0.95833333] [..love proposal/declaration]; 03.11.01.05.02.07.02-06.03 [0.96000000] [..contract/declaration]; 02.01.10.02.03 [1.00000000] [Explanation, exposition];	N	03.09.05.06-05	n	[.an announcement/proclamation]	183596				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+that	that	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+united	united	JJ	S5+ A1.1.1	0	01.06.04.00.01.01.02-02 [0.94117647] [.united/made into one]; 01.02.04.10.14.01-02.05. [1.00000000] [...having both stamens and pistils/hermaphrodite]; 01.02.06.20.06.02.10-12 [1.00000000] [.with legs coordinated];	Y	01.16.04.01.01.02-02	aj	[.united/made into one]	107191				
+sentiment	sentiment	NN1	E1 X4.1	0	02.01.12.01.01 [0.93750000] [Experience]; 02.01.10.02.02.03 [0.94117647] [Drift, tenor, purport]; 02.01.12.04 [0.94444444] [Saying, maxim, adage];	N	02.01.13.03	n	[Expressed belief, opinion]	120543				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.92307692] [.animal house]; 03.02.07.02.06.01 [0.94444444] [A house]; 01.01.10.02.02-02.05 [0.94736842] [..house];	Y	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+impatient	impatient	JJ	X5.2+/S1.2 E3-/S1.2	0	 [MWE] 02.02.17.08.03-01 [Exclamation of impatience .impatient of something]	N	02.04.08.08.03	aj	[Impatient]	128263				
+to	to	TO	Z5	0	 [MWE] 02.02.17.08.03-01 [Exclamation of impatience .impatient of something]	N	04.03		[Grammatical]	Nill				
+display	display	VVI	A10+	0	01.02.08.01.22.06.03-06.06 [0.90909091] [..crane]; 02.02.28.17 [0.93750000] [Make ostentatious display of]; 02.02.28.17 [0.93750000] [Make ostentatious display/show off];	N	03.09.02	vt	[Manifest]	181528				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+He	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+therefore	therefore	RR	Z5	0	01.05.03.01 [Cause/reason]; 04.03 [null];	Y	01.11.03.01	av	[For that reason/therefore]	77329				
+would	will	VM	A7+	0	02.05 [0.83333333] [Will]; 02.05.04 [0.85714286] [Intend]; 02.05.02-02 [0.88888889] [.must inevitably];	N	04.03	v	[Grammatical]	Nill				
+move	move	VVI	M2 M1 A2.1+ E1 H4/A2.1	0	02.05.06 [0.87500000] [Motivate]; 01.05.08.01 [0.90000000] [Move (the body/a member)]; 01.05.08.01 [0.90000000] [Move body/members];	N	02.07.03.12-05	vi	[.make/present a petition]	142816				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+without	without	IW	Z5	0	01.05.07.04.04 [With absence of (a thing)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+further	far	JJR	N5++ N3.3++ T2++	0	01.02.00.07.04-01 [1.00000000] [.old (of beings, etc.)]; 01.05.06.02-02 [1.00000000] [.distant/remote]; 01.05.07.01-03.01 [1.00000000] [..extending over a long distance];	N	01.16.06.05.01-04.03	aj	[..other additional]	111375				
+preface	preface	NN1	T2+ T2+/Q2.1	0	03.07.03.03.25 [0.88888889] [Preface]; 01.05.05.03.01-03.01 [1.00000000] [..a preliminary action/step]; 02.08.03.06-08.07 [1.00000000] [..introductory speech/part of speech];	Y	02.07.03.06-08.07	n	[..introductory speech/part of speech]	142369				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+PUNC	YQUO	PUNC	0	NULL									#N/A	#N/A
+That	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+Right	right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	0	01.05.08.05.01 [0.94117647] [Straight (of course/movement)]; 03.04.13.15 [0.94444444] [Rightful/legally entitled/recognized]; 01.05.07.05.12-05.05 [0.95000000] [..right];	N	02.01.12.08	aj	[In conformity with truth, true]	119029				
+Honourable	honourable	JJ	G2.2+	0	03.05.04.04.01 [0.91304348] [Honourable]; 01.06.06.04 [1.00000000] [Sufficient]; 02.01.17.02-05 [1.00000000] [.worthy of/commanding respect];	Y	02.02.09.02-05	aj	[.worthy of/commanding respect]	125928				
+Charles	charles	NP1	Z1mf Z3c	09:03:01	04.01.01 [Personal Name]; 04.01.03 [Other Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+Manners	manners	NP1	Z1mf Z3c	09:03:02	04.01.01 [Personal Name]; 04.01.03 [Other Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+Sutton	sutton	NP1	Z1mf Z3c	09:03:03	04.01.01 [Personal Name]; 04.01.03 [Other Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+do	do	VD0	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+take	take	VVI	A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 A2.1+ P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@	0	01.02.08.04-02 [0.90909091] [.take/catch game]; 02.07.13 [0.93333333] [Take]; 03.04.07.02 [0.93333333] [Take office];	Y	03.04.07.02	vt	[Take office]	162319				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+chair	chair	NN1	H5 S7.1+mf P1	0	03.04.12.03-15.01 [0.93333333] [..electric chair]; 03.02.07.03.09.07.01 [0.95238095] [Chair]; 03.04.06.13.09-04 [0.95454545] [.president/chairman of];	N	03.04.03.01-11.01.04.01	n	[â€¦.position/chair of]	158517				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+this	this	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.90909091] [.animal house]; 03.02.07.02.06.01 [0.93750000] [A house]; 01.01.10.02.02-02.05 [0.94117647] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+as	as	CSA	Z5	0	01.06.01.09-01 [.like/nearly/as if]; 04.03 [null];	Y	01.16.01.09-01	av	[.so/in such a manner]	104924				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.92857143] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.92857143] [..speaker of Lords]; 03.04.06.13.09-04 [0.95000000] [.president/chairman of];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+PUNC	YQUO	PUNC	0	NULL									#N/A	#N/A
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+Mr.	mr.	NNB	Z1m	10:03:01	04.01.01 [Personal Name];	N	01.15.21.04.01.02.02-05.02	n	[..for a man]	86154				
+Holme	holme	NP1	Z1m	10:03:02	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+Sumner	sumner	NP1	Z1m	10:03:03	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+seconded	second	VVD	M2/I3.1 M2/S8+ A6.1+ Q2.2	0	01.06.04.00.02.05 [0.91666667] [Add to/follow as second]; 01.05.05.12.01.03.03-03 [0.95238095] [.second/speak in favour of]; 03.11.04.13.03.02-10 [0.95238095] [.act as second to];	Y	01.15.12.01.03.03-03	vt	[.second/speak in favour of]	80944				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+motion	motion	NN1	M1 Q1.1	0	01.05.08 [0.85714286] [Movement]; 01.05.08.01 [0.90000000] [Bodily movement]; 01.05.08.02.03 [0.90000000] [Irregular movement/agitation];	N	03.04.06.13.09.04.03-07	n	[.proposal to be debated/voted on]	160082				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+He	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+said	say	VVD	Q2.1	0	01.02.10.04-02.05 [1.00000000] [..try on]; 01.03.05-09 [1.00000000] [.test by tasting]; 01.05.05.03 [1.00000000] [Undertake/set oneself to do];	N	02.07.03	vt	[Speak/say/utter]	142005				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+sat	sit	VVN	M8 C1 P1 G1.1 G2.1 M6 A9+	0	01.05.05.17.03.01.05 [0.94444444] [Remain unused]; 01.05.07.05.26.05-07 [0.94444444] [.sit down]; 01.05.07.05.26.05 [0.94444444] [Be sitting/seated];	N	03.04.06.13.09.04-01; 01.12.05.26.05 [Be sitting/seated]	vi	[.be member of]	159926				
+so	so	RG	A13.3	0	 [MWE] 01.05.05.21.04.01.01-09.01 [Use courteous actions/expressions to ..for temporary absence]	N	01.16.06.01-01	av	[.to this/that extent]	110869				
+long	long	RR	T1.3+	0	 [MWE] 01.05.05.21.04.01.01-09.01 [Use courteous actions/expressions to ..for temporary absence]	N	01.13.02-04	av	[.for a long time]	87990				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+parliament	parliament	NN1	G1.1	0	03.04.06.13.09.04.01 [0.96296296] [English/British parliament]; 03.04.06.13.09.04.01-06 [0.96551724] [.place of]; 03.04.06.13.09.04.01-09 [0.96551724] [.a particular English/British parliament];	Y	03.04.06.13.09.04.01	n	[English/British parliament]	159930				
+without	without	IW	Z5	0	01.05.07.04.04 [With absence of (a thing)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+having	have	VHG	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+obtained	obtain	VVN	A9+	0	03.09.00.07 [0.93333333] [Arrive at/reach]; 01.05.05.01-14 [1.00000000] [.make subject to an action/influence]; 01.05.05.16.02-03 [1.00000000] [.succeed in/achieve a purpose];	N	02.06.08	vt	[Obtain/acquire]	138697				
+some	some	DD	N5 Z5	0	01.06.06-03.01 [0.95000000] [..some at least]; 01.06.02.01-10.07. [0.95454545] [...some or other]; 01.06.02.01-10.07 [0.95454545] [..some kind of/some];	N	01.16.06-03	aj	[.some/any]	110835				
+knowledge	knowledge	NN1	X2.2+ S3.2/B1%	0	01.02.01.03.03-01 [1.00000000] [.diagnosis]; 01.03.02.04.01 [1.00000000] [Sexual intercourse]; 01.05.05.22.01-08 [1.00000000] [.skill/knowledge];	N	02.01.12	n	[Knowledge]	118523				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+arduous	arduous	JJ	A12-	0	01.01.04.04.01.07-04 [1.00000000] [.steep]; 01.05.05.11-06 [1.00000000] [.difficult to do/accomplish]; 01.05.05.20.02 [1.00000000] [Involving effort/exertion];	Y	01.15.20.02	aj	[Involving effort/exertion]	84690				
+duties	duty	NN2	S6+ G1.1/I1.3 T1.3/I3.1	0	03.07.03.21-09 [0.90000000] [.ecclesiastical duty]; 03.10.03 [0.92857143] [Function/duty]; 03.05.01 [0.93750000] [Duty/obligation];	Y	03.06.01	n	[Duty/obligation]	170005				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.96774194] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.96774194] [..speaker of Lords]; 01.03.08.02.02.01-04 [1.00000000] [.loud-speaker];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+:	PUNC	YCOL	PUNC	0	NULL				#N/A	#N/A				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+great	great	JJ	A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3	0	01.06.06.03 [0.92857143] [Great in quantity/amount/degree]; 01.06.06.03-01 [0.93750000] [.great (of quantity/amount)]; 01.06.06.03-02 [0.94117647] [.much/a great amount/quantity of];	Y	01.16.06.03	aj	[Great in quantity/amount/degree]	110919				
+increase	increase	NN1	N5+/A2.1	0	01.06.06.05-06 [0.94117647] [.an increase]; 01.06.06.05-08 [0.94444444] [.increase in quantity/number/frequency]; 01.01.05.08.02.01-03 [1.00000000] [.rising/flowing in flood];	Y	01.16.06.05-06	n	[.an increase]	111233				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+public	public	JJ	S5+ A10+	0	03.01.05.03 [0.93750000] [Public-spirited]; 02.01.17.05.01 [0.95238095] [Well-known]; 01.02.07.08-01 [1.00000000] [.national];	Y	03.09.02.01.01	aj	[Open/unconcealed]	181550				
+business	business	NN1	I2.1 A1.1.1 A5.1+++	0	03.10.05 [0.91666667] [Business/transactions]; 03.10-02.04 [0.93333333] [..a particular business/profession]; 03.10.03 [0.93750000] [Function/duty];	N	03.11.03-05; 01.15.02.03-02.02 [an occupation/affair]	n	[.a duty/piece of business]	198006				
+had	have	VHD	A9+ Z5 A2.2 S4	0	02.01 [0.90909091] [Have in the mind]; 02.01.08 [0.91666667] [Understand]; 02.01.12.01 [0.93333333] [Have knowledge, know];	N	04.03		[Grammatical]	Nill				
+of	of	IO	Z5	0	 [MWE] 01.05.06.08.05.03.01 [Recently Recently]	Y	01.13.08.05.03.01	av	[Recently]	89750	MWE			
+late	late	RR	T4- T1.1	0	 [MWE] 01.05.06.08.05.03.01 [Recently Recently]	Y	01.13.08.05.03.01	av	[Recently]	89750	MWE			
+added	add	VVN	N5+/A2.1 A1.8+	0	01.06.04.08-01 [0.91666667] [.add/sum]; 01.06.06.05.01-02 [1.00000000] [.add]; 02.08.03-37 [1.00000000] [.in addition];	Y	01.16.06.05.01-02	vt	[.add]	111421				
+much	much	RR	A13.3 N6+	0	01.06.06.03.01-03 [0.93750000] [.by/to a great degree/extent]; 01.06.06.03.01-06 [0.94117647] [.very]; 02.01.12.08.02.01.01 [0.95238095] [Nearly, approximately];	N	01.16.06.03-01	n	[.(a) great quantity/amount]	110900				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+severity	severity	NN1	A5.1- S1.2.5+ S1.2.1- E4.1- O4.2-	0	01.02.01.01.04.02-06.01 [0.94117647] [..violence/severity]; 02.01.18.06.01-03.02 [0.94117647] [..quality]; 01.03.07.10.03-02.02 [0.94444444] [..specific];	N	01.15.20.03.01	n	[Severity]	84861				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+burthen	burthen	NN1	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Variant spelling of 01.05.05.11.03.01|03.04.02			
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+In	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+thus	thus	RR	Z5/A2.2	0	01.05.07.06.01-09 [.through]; 04.03 [null];	N	01.15.20-07	av	[.in this way]	84451				
+supporting	support	VVG	S8+ A1.1.1 K5.1 I1.1 A10+	0	01.06.04.15-07 [0.85714286] [.support]; 03.11.03.04.03.05-09 [0.90909091] [.support/assist another actor]; 03.11.04.09 [0.91666667] [Support];	N	01.15.12.01.03.03-03; 01.12.05.09 [Support]	vt	[.second/speak in favour of]	80944				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+proposition	proposition	NN1	Q2.2 X4.1	0	01.02.07.04-06 [1.00000000] [.as having character/qualities]; 01.06.04.02-05.03 [1.00000000] [..proposition]; 02.01.07.04.03.02-05 [1.00000000] [.of debate/discussion];	N	02.05.06-06.14	n	[..suggestion]	137490				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+right	right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	0	02.01.12.08.02.01 [0.90000000] [Precise, accurate, exact]; 02.01.12.08.02-02.01 [0.90909091] [..in judgement]; 02.01.12.08.02.01-05 [0.91304348] [.characterized by precision];	N	02.01.12.08	aj	[In conformity with truth, true]	119029				
+hon.	hon.	JJ	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Abbreviation of 02.01.17.02|05			
+mover	mover	NN1	M1/S2mf Q2.2/S2mf	0	01.05.08-19 [0.93333333] [.person/thing that moves]; 03.04.13.15.03-25.01 [0.95652174] [..one having]; 01.02.08.03.01-18 [1.00000000] [.migrating farmer];	N	02.02.06.02.01-05	n	[.one who puts forward]	123324				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+aware	aware	JJ	X2.2+	0	02.01.12-01 [0.85714286] [.knowing, aware]; 01.05.05.20.07.01 [0.94736842] [Cautious]; 01.05.05.15.01.03-05 [0.95652174] [.on one's guard];	Y	02.01.12-01	aj	[.knowing, aware]	118530				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+placing	place	VVG	M2 X2.2+ I3.1 Q2.2 I1.1	0	01.05.07.04.05 [0.94444444] [Place/put in a position]; 01.05.07.04-04 [0.94736842] [.assign/attribute to particular place]; 01.05.01.05.03-02 [0.95000000] [.implant];	Y	01.12.04-04	vt	[.assign/attribute to particular place]	93476				
+himself	himself	PPX1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+situation	situation	NN1	A3+ O4.1 M6 I3.1@	0	01.05.07.04.01-08 [0.90000000] [.actually occupied]; 01.05.07.04.01-08.01 [0.90476190] [..in respect of surroundings]; 03.11.03.04.03.01-17 [0.92857143] [.situation in a play];	N	01.11.01.07.01-01	n	[.state of affairs/situation]	76479				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	A9+ Z5 A2.2 S4	0	02.01 [0.90909091] [Have in the mind]; 02.01.08 [0.91666667] [Understand]; 02.01.12.01 [0.93333333] [Have knowledge, know];	N	02.06	vt	[Have/possess]	137926				
+no	no	AT	Z6	0	01.05.01.01-04 [.to nothing]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+other	other	JJ	A6.1-	0	01.06.01.06-08 [0.93333333] [.different/other/further]; 01.06.06.05.01-04.03 [0.94444444] [..other additional]; 01.06.01.06-09 [1.00000000] [.also different];	Y	01.16.06.05.01-04.03	aj	[..other additional]	111375				
+claim	claim	NN1	Q2.2 A9+	0	02.08.03.12-02.01 [0.93750000] [..claim]; 03.10.13.21.05-13 [0.94117647] [.insurance claim]; 01.03.08.02.05.04-12 [0.94444444] [.call];	N	03.06.02-03; 02.07.03.12-02.01 [claim]	n	[.right/moral entitlement]	170512				
+than	than	CSN	Z5	0	02.01.15.04.04 [Marking comparison]; 04.03 [null];	Y	02.02.04.04	cj	[Linking comparatives]	122963				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+length	length	NN1	T1.3	11:03:01	01.06.04.12-03.06 [0.85714286] [..other]; 01.05.06.02 [0.86666667] [Duration in time]; 01.05.07.02.04.03-02.04 [0.86956522] [..a long/continuous extent of something];	Y	01.13.02	n	[Duration in time]	87923				
+of	of	IO	T1.3	11:03:02	01.05.06-01 [0.84615385] [.during]; 01.05.06.11 [0.84615385] [Change]; 01.05.06-02 [0.86666667] [.at some time during];	Y	04.03		[Grammatical]	Nill				
+time	time	NNT1	T1.3	11:03:03	01.05.06 [0.81818182] [Time]; 01.05.06-01 [0.83333333] [.personified]; 01.05.06-03 [0.84615385] [.stretch/period/portion of time];	Y	01.13	n	[Time]	87817				
+during	during	II	Z5	0	01.05.06-01 [.during]; 04.03 [null];	Y	01.13-01	p	[.during]	87890				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+filled	fill	VVN	N5.1+	0	01.05.06.01 [0.85714286] [Spend time/allow time to pass]; 01.02.09.15.03.01-01.09 [0.88888889] [..processes involved in]; 01.05.07.04.03.01-04 [0.90000000] [.fill];	N	03.04.07-02; 01.12.04.03.01-04 [fill]	vt	[.hold an office]	161837				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+seat	seat	NN1	H5 B5 S1.1.3+ S7.1+ M7	0	03.04-24 [0.91666667] [.seat of authority]; 03.04.07.06-05 [0.93750000] [.seat of office/authority]; 03.02.07.03.09.07 [0.94444444] [Seat];	N	03.04.06.13.09-07; 03.04.07.06-05 [seat of office/authority]	n	[.seat in]	159745				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+parliament	parliament	NN1	G1.1	0	03.04.06.13.09.04.01 [0.96296296] [English/British parliament]; 03.04.06.13.09.04.01-06 [0.96551724] [.place of]; 03.04.06.13.09.04.01-09 [0.96551724] [.a particular English/British parliament];	Y	03.04.06.13.09.04.01	n	[English/British parliament]	159930				
+:	PUNC	YCOL	PUNC	0	NULL				#N/A	#N/A				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+service	service	NN1	S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@	0	03.08.12.01 [0.90909091] [Broadcasting service]; 03.10-02.14 [0.90909091] [..public service]; 03.04.06.13.08.04 [0.91666667] [Civil service];	Y	03.04.06.13.08.04	n	[Civil service]	159700				
+as	as	II	Z5	0	01.06.01.09-01 [.like/nearly/as if]; 04.03 [null];	Y	01.16.01.09-01	av	[.so/in such a manner]	104924				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+representative	representative	NN1	Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1	0	03.04.08.03-08 [0.94736842] [.representative]; 03.04.08.03-08.03 [0.95833333] [..of a number of persons in a special capacity]; 01.06.02.02.01-05.01 [1.00000000] [..typical/representative thing/person];	Y	03.04.08.03-08	n	[.representative]	162921				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+taught	teach	VVN	P1	0	03.06.02 [0.90909091] [Teach]; 03.06.02 [0.90909091] [Teach (a person)]; 03.06.02-01 [0.92307692] [.teach (a thing)];	N	03.09.05.01-03; 03.07.02 [Teach]	vt	[.inform (a person)]	183476				
+him	he	PPHO1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+how	how	RGQ	Z5 A13.3	0	 [MWE] 02.01.13.08 [Exclamations of doubt Expressions of doubt]	N	01.16.06.01-03	av	[.to what extent]	110871				
+much	much	DA1	N5+ I1.3+	0	 [MWE] 02.01.13.08 [Exclamations of doubt Expressions of doubt]	N	01.16.06.03-01	n	[.(a) great quantity/amount]	110900				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+regularity	regularity	NN1	N6+ A6.1+ A6.2+	0	01.05.05.21.04.03-03 [1.00000000] [.orderly/regular/consistent behaviour]; 01.05.06.10-04 [1.00000000] [.being periodical/regularity]; 01.05.07.03.03 [1.00000000] [Symmetry/regularity];	N	01.16.03.01.02-03	n	[.conformity to rule]	106367				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+dignity	dignity	NN1	S7.2+	0	01.01.10.04.03-04.05. [1.00000000] [....dignity]; 02.01.17.05.05.01 [1.00000000] [Reputability/honourableness]; 02.02.28.08-01 [1.00000000] [.dignity];	Y	02.04.19.08-01	n	[.dignity]	132206				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+their	their	APPGE	Z8	0	02.07.01-03.03.03 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+proceedings	proceeding	NN2	A1.1.1 T2++ M1	0	01.05.05.02.01-06 [0.94117647] [.proceeding/carrying on an action]; 01.05.05.02.01 [1.00000000] [A proceeding]; 01.05.05.05.01 [1.00000000] [Progress/advance/further continuance];	Y	01.15.02.01	n	[A proceeding]	78187				
+were	be	VBDR	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+connected	connect	VVN	A2.2 S5+ M3 A1.1.1	0	01.06.01-01 [1.00000000] [.relate/connect one thing to another]; 01.06.01-02 [1.00000000] [.bring a person into some relation with another]; 01.06.01-04 [1.00000000] [.form relations];	N	01.16.01	vt	[Relate to]	104452				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+office	office	NN1	I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+	0	03.10.10.02 [0.90000000] [Office]; 03.10.02 [0.91666667] [A position/situation/office]; 03.04.07 [0.92307692] [Office];	Y	03.04.07	n	[Office]	161775				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	03.04.06.13.09.04.01-05.15 [0.96551724] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.96551724] [..speaker of Lords]; 01.03.08.02.02.01-04 [1.00000000] [.loud-speaker];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+If	if	CS	Z7	0	01.05.01.07.01 [If/in case/lest]; 04.05 [null];	Y	04.05		[Conditional]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+had	have	VHN	S6+	12:02:01	 [MWE] 02.05.02-04.02 [Necessity ..will be absolutely compelled/obliged]	Y	02.05.02-04.02	vi	[..will be absolutely compelled/obliged]	136373	MWE			
+to	to	TO	S6+	12:02:02	 [MWE] 02.05.02-04.02 [Necessity ..will be absolutely compelled/obliged]	Y	02.05.02-04.02	vi	[..will be absolutely compelled/obliged]	136373	MWE			
+recommend	recommend	VVI	Q2.2	0	02.01.17.04.02.03-02 [0.86956522] [.mention in order to excite kindly remembrance]; 02.01.17.04.02.03-03 [0.87500000] [.name as worthy to hold position/employment]; 02.01.17.01-01 [0.88235294] [.favour];	Y	02.02.09.04.02.03	vt	[Recommend]	126232				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+gentleman	gentleman	NN1	S2.2m	0	02.01.17.05.05.01-03.02 [0.87500000] [..person]; 02.01.17.05.05.01-04.01 [0.88461538] [..person]; 01.02.07.04.01 [0.91666667] [Man];	Y	02.02.09.05.05.01-04.01	n	[..person]	126560				
+who	who	PNQS	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	A3+ Z5	0	02.05.02-04.02 [0.85714286] [..will be absolutely compelled/obliged]; 01.05.01 [0.91666667] [Be/exist]; 01.05.01-01 [0.92307692] [.of inanimate objects];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+unknown	unknown	JJ	X2.2-	0	02.01.12.07.04 [0.94444444] [Unfamiliar with, inexperienced]; 02.01.12.07.05 [0.94444444] [Unknown, strange, unfamiliar]; 02.01.12.07.05-01 [0.95000000] [.outside one's knowledge];	Y	02.01.12.07.05	aj	[Unknown, strange, unfamiliar]	118993				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+would	will	VM	A7+	0	 [MWE] 02.08.06.04 [Maintain/uphold as true Maintain/uphold as true]	N	04.03		[Grammatical]	Nill				
+have	have	VHI	Z5	0	 [MWE] 02.08.06.04 [Maintain/uphold as true Maintain/uphold as true]	N	04.03		[Grammatical]	Nill				
+been	be	VBN	A3+ Z5	0	02.05.02-04.02 [0.83333333] [..will be absolutely compelled/obliged]; 01.05.01 [0.90000000] [Be/exist]; 01.05.01-01 [0.90909091] [.of inanimate objects];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+proper	proper	JJ	A5.4+ A1.2+ A5.3+ S1.2.4+	0	 [MWE] 01.06.02.02.02-09 [In respect of specific form/manner .belonging to a particular thing/person]	N	01.16.03.01.01-18; 03.06.02 [Due/morally fitting/proper]	aj	[.fitting/proper]	106313				
+to	to	TO	Z5	0	 [MWE] 01.06.02.02.02-09 [In respect of specific form/manner .belonging to a particular thing/person]	N	04.03		[Grammatical]	Nill				
+have	have	VHI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+entered	enter	VVN	M1 S5+ Q1.2 T2+ A1.8+	0	01.06.03.03.02 [0.93333333] [Begin]; 03.08.06.01-01 [0.93750000] [.enter on record]; 01.05.05.03-03 [0.94117647] [.a duty/office];	N	02.01.06.03.01	vi	[Think about, consider]	116602	MWE			
+at	at	II	Z5	0	 [MWE] 03.11.03.03.05.04-01 [Copiously .at length]	Y	03.13.03.04.05.04-01	av	[.at length]	218737	MWE			
+some	some	DD	N5 Z5	0	 [MWE] 03.11.03.03.05.04-01 [Copiously .at length]	Y	03.13.03.04.05.04-01	av	[.at length]	218737	MWE			
+length	length	NN1	N3.7 T1.3 M4	0	 [MWE] 03.11.03.03.05.04-01 [Copiously .at length]	Y	03.13.03.04.05.04-01	av	[.at length]	218737	MWE			
+into	into	II	Z5	0	01.05.08.05.10 [In/into (of motion)]; 04.03 [null];	N	02.01.06.03.01	vi	[Think about, consider]	116602	MWE			
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+foundation	foundation	NN1	T2+ H2 S5+c A5.2+ B4	0	01.02.10.02.03.01-01 [0.93333333] [.body/foundation]; 01.05.03.03 [0.93333333] [Basis/foundation]; 03.10.06.04.02.01-01 [0.94736842] [.foundation(s)];	Y	01.11.03.03	n	[Basis/foundation]	77455				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+claim	claim	NN1	Q2.2 A9+	0	02.08.03.12-02.01 [0.92857143] [..claim]; 03.10.13.21.05-13 [0.93333333] [.insurance claim]; 03.05.02-05.01 [0.94736842] [..claim/a demand for something as due];	N	03.06.02-03; 02.07.03.12-02.01 [claim]	n	[.right/moral entitlement]	170512				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+as	as	CSA	Z5	0	01.06.01.09-01 [.like/nearly/as if]; 04.03 [null];	Y	01.16.01.09-01	av	[.so/in such a manner]	104924				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+been	be	VBN	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+already	already	RR	T1.1.1	0	01.05.06.08.04.03-06 [0.94117647] [.already]; 01.05.06.08.04.03-06.01 [0.94736842] [..by that time]; 01.05.06.08.04.03-03 [1.00000000] [.in advance/beforehand];	Y	01.13.08.04.03-06	av	[.already]	89303				
+remarked	remark	VVN	Q2.2	0	02.08.03-09 [0.91666667] [.remark/observe]; 02.01.15.01.01 [1.00000000] [Observe, note]; 02.08.03-03.04 [1.00000000] [..comment on];	Y	02.07.03-09	vt	[.remark/observe]	142024				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+individual	individual	NN1	S2mf	0	01.06.02.02-03 [0.87500000] [.an individual thing/person]; 01.06.02.02-03.02 [0.89473684] [..person]; 01.06.02.02-03.01 [0.90000000] [..as determined by peculiar properties];	N	01.04.04-03; 01.16.02.02-03 [an individual thing/person]	n	[.individual person]	39725				
+now	now	RT	Z4	0	04.02 [Discourse];	N	01.13.08.03	av	[At the present time]	89108				
+proposed	propose	VVD	Q2.2/X7+ X4.1 G1.2 Q2.2/S4	0	03.04.07.04.01-05 [0.95000000] [.propose as candidate]; 01.02.08.02.21-11.04. [1.00000000] [...propose toast]; 01.05.05.11.04-11 [1.00000000] [.confront];	Y	03.04.07.04.01-05	vt	[.propose as candidate]	162511				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+proved	prove	VVN	A5.2+ X2.4	0	01.02.01.03.13-02 [1.00000000] [.test drug]; 01.02.08.01.22.06.06-03 [1.00000000] [.prove]; 01.03.05-03 [1.00000000] [.test by tasting];	N	02.02.06.03	vr	[Prove, demonstrate]	123485				
+himself	himself	PPX1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+every	every	AT1	N5.1+	0	01.06.02.01-10.05. [0.95454545] [...each/every];	Y	01.16.02.01-10.05.01	aj	[â€¦each/every]	105511				
+way	way	NN1	X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3	0	01.05.05.20 [0.92857143] [Manner of action/operation]; 03.09.02.01 [0.93333333] [Route/way]; 01.05.01.07-13 [0.93750000] [.that way/condition];	N	01.16.02; 01.11.01.07-13 [that way/condition]	n	[Kind/sort]	105351				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+worthy	worthy	JJ	S1.1.4+ G2.2+	0	[MWE] 01.06.03.01.01-18 [1.00000000] [In a manner suitable to .fitting/proper]; 03.05.02-03.03 [1.00000000] [Duly/fitly/properly ..deserving by merit];	Y	03.06.02-03.03	aj	[..deserving by merit]	170556	MWE			
+of	of	IO	Z5	0	[MWE] 01.06.03.01.01-18 [1.00000000] [In a manner suitable to .fitting/proper]; 03.05.02-03.03 [1.00000000] [Duly/fitly/properly ..deserving by merit];	Y	03.06.02-03.03	aj	[..deserving by merit]	170556	MWE			
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+confidence	confidence	NN1	E6+ A10-	0	02.01.13.08.11 [0.94444444] [Absence of doubt, confidence]; 02.01.12.10.04-02.01 [1.00000000] [..confiding of]; 02.01.12.10.04-02 [1.00000000] [.private matter/business];	N	02.01.14.05.05; 02.01.13.02 [Belief, trust, confidence]	n	[Confident hope, trust]	121531				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+approbation	approbation	NN1	S7.4+ E2+	0	01.05.05.10.01.01 [1.00000000] [Trial/test/testing]; 02.01.15.06.03 [1.00000000] [Proof, demonstration]; 02.01.17.04-01 [1.00000000] [.formal];	N	02.02.09.04	n	[Approval/sanction]	126051				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.90000000] [.animal house]; 03.02.07.02.06.01 [0.93333333] [A house]; 01.01.10.02.02-02.05 [0.93750000] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+As	as	CSA	Z5	0	01.06.01.09-01 [.like/nearly/as if]; 04.03 [null];	N	04.03		[Grammatical]	Nill				
+be	be	VBI	A3+ Z5	0	01.05.01 [0.87500000] [Be/exist]; 01.05.01-01 [0.88888889] [.of inanimate objects]; 02.01.10.02 [0.90000000] [Mean];	n/a			#N/A	#N/A	Transcription error - should be 'he' 04.06			
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+never	never	RR	T1/Z6	0	01.05.06.10.01-03 [1.00000000] [.never]; 01.06.06.07-16 [1.00000000] [.not at all];	Y	01.13.10.01-03	av	[.never]	89999				
+known	know	VVN	X2.2+ S3.2/B1%	0	02.01.12.01 [0.83333333] [Have knowledge of]; 02.01.12.01 [0.83333333] [Have knowledge, know]; 02.01.12 [0.83333333] [Know, be aware of];	N	02.04.13.15-11.01; 02.01.12 [Know, be aware of]	vt	[..know/be acquainted with]	131420				
+Mr.	mr.	NNB	Z1m	13:03:01	04.01.01 [Personal Name];	N	01.15.21.04.01.02.02-05.02	n	[..for a man]	86154				
+Manners	manners	NP1	Z1m	13:03:02	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+Sutton	sutton	NP1	Z1m	13:03:03	04.01.01 [Personal Name];	Y	04.01.01		[Personal name]	Nill	MWE			
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	01.16.02.02.05-01	cj	[.except]	106075				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+public	public	JJ	S5+ A10+	0	03.01.05.03 [0.93750000] [Public-spirited]; 01.06.02.01-03.02 [0.96153846] [..pertaining to the whole human race]; 01.02.07.08-01 [1.00000000] [.national];	N	03.01-03; 03.04.07-01 [public]	aj	[.pertaining to/engaged in affairs of]	146280				
+capacity	capacity	NN1	N3.2 N3.4 N5.1+ X9.1+ I3.1	0	01.05.07-14.01 [0.93333333] [..capacity]; 03.10.02-16 [0.93333333] [.capacity/position]; 01.04.07.03.06.06-02 [0.94444444] [.potential];	Y	03.11.02-16	n	[.capacity/position]	197990				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+could	can	VM	A7+	0	01.02.08.01.22.07-11 [1.00000000] [.preserve by canning]; 01.04.07.06.04.02-05.01 [1.00000000] [..with jacket]; 01.05.05.03.02 [1.00000000] [Begin action/activity];	N	01.15.22	vi	[Be able to]	87248				
+not	not	XX	Z6	0	01.05.01.01-03 [.my Aunt Fanny]; 04.04 [null];	Y	04.04		[Negative]	Nill				
+propose	propose	VVI	Q2.2/X7+ X4.1 G1.2 Q2.2/S4	0	03.04.07.04.01-05 [0.94736842] [.propose as candidate]; 03.01.04.04-01 [0.95238095] [.nominate for acceptance as member]; 01.02.08.02.21-11.04. [1.00000000] [...propose toast];	Y	03.04.07.04.01-05	vt	[.propose as candidate]	162511				
+him	he	PPHO1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+partiality	partiality	NN1	Z99	0	04.10 [Unrecognised];	N	02.04.13.01-02	n	[.particular liking/partiality]	130457				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+private	private	JJ	A10- S5- G1.1-	0	03.10.09.04.01.01-03 [0.93750000] [.not holding public office]; 02.01.12.10.04 [0.94117647] [Private, secluded]; 02.01.18.08-05 [0.94117647] [.not occupying public position];	N	03.01.04.06-03; 03.04.07-03.02.01 [not]	aj	[.in a non-official capacity]	148592				
+friend-ship	friend-ship	NN1	Z99	0	04.10 [Unrecognised];	N	02.04.13.15	n	[Friendliness]	131227	Punctuation problem			
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+respect	respect	NN1	S7.2+ A4.1	0	02.01.17.02 [0.85714286] [Respect]; 01.06.01-15 [0.90909091] [.regard/side]; 01.06.01-05 [0.91666667] [.relation to something/reference];	Y	02.02.09.02	n	[Respect]	125887				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+regard	regard	VV0	X2.1	0	02.01.17.02 [0.86666667] [Respect]; 01.06.01-04 [0.91666667] [.concern/refer to]; 02.01.17 [0.92857143] [Esteem];	Y	02.02.09	n	[Esteem/regard]	125860				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+excited	excite	VVN	X5.2+	0	01.02.03.03.09 [1.00000000] [Stimulate]; 01.03.00-04 [1.00000000] [.restore to consciousness]; 01.04.07.03.06.08.01 [1.00000000] [Produce by induction];	N	02.04.01.03-02; 02.04.08.01 [Excite]	vt	[.cause/give rise to an emotion]	127577				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+public	public	JJ	S5+ A10+	0	02.01.17.05.01 [0.90476190] [Well-known]; 01.02.07.08-03 [0.93750000] [.done by/for nation]; 01.02.07.08-01 [0.94117647] [.national];	N	03.01-03; 03.04.07-01 [public]	aj	[.pertaining to/engaged in affairs of]	146280				
+capacity	capacity	NN1	N3.2 N3.4 N5.1+ X9.1+ I3.1	0	01.05.07-14.01 [0.93333333] [..capacity]; 03.10.02-16 [0.93333333] [.capacity/position]; 02.01.10.02.02.03 [0.94117647] [Drift, tenor, purport];	Y	03.11.02-16	n	[.capacity/position]	197990				
+were	be	VBDR	A3+ Z5	0	01.05.01 [0.91666667] [Be/exist]; 01.05.01-01 [0.92307692] [.of inanimate objects]; 02.01.10.02 [0.92857143] [Mean];	N	01.11.01.07	vi	[Be/remain in specific state/condition]	76459				
+amply	amply	RR	A13.3	0	01.06.06.04.01 [0.93333333] [Abundantly]; 01.05.07.02.04.01-03 [1.00000000] [.with vast extent]; 01.05.07.02.04.04-01 [1.00000000] [.broadly/widely];	Y	01.16.06.04.01	av	[Abundantly]	111135				
+sufficient	sufficient	JJ	N5	0	 [MWE] 01.06.06.04 [(In) sufficient amount/degree Sufficient]	Y	01.16.06.04	aj	[Sufficient]	111078				
+to	to	TO	Z5	0	 [MWE] 01.06.06.04 [(In) sufficient amount/degree Sufficient]	N	04.03		[Grammatical]	Nill				
+establish	establish	VVI	T2+ X6+	0	01.05.06.11.05.01 [0.88235294] [Make stable, establish]; 01.05.03.04-03 [0.92307692] [.found/establish]; 02.02.18 [0.92857143] [Compose/make calm];	N	02.02.06.03; 01.11.03.04-03 [found/establish]	vt	[Prove, demonstrate]	123477				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+competence	competence	NN1	X9.1	0	01.05.05.22-18 [0.92307692] [.competence/fitness/ability]; 01.01.07.02.08-01.01 [0.94736842] [..competence/capacity]; 02.07.05.01-13 [0.95238095] [.sufficient means];	Y	01.15.22-18	n	[.competence/fitness/ability]	87192				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+S_BEGIN	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
+When	when	CS	Z5	0	01.05.06.03-04 [.when/at the time that]; 04.03 [null];	Y	01.13.03-04	av	[.when/at the time that]	88171				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+was	be	VBDZ	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+recollected	recollect	VVN	X2.2+	0	01.03.00-01.02 [1.00000000] [..from a trance]; 01.03.01.04 [1.00000000] [Refresh/invigorate]; 01.05.05.13.01-01 [1.00000000] [.a thing to/into previous condition];	N	02.01.11-01	vt	[.something specified]	118226				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+education	education	NN1	P1 X2.3+	0	03.06-10 [0.90000000] [.systematic education]; 01.02.08.01.21 [1.00000000] [Providing/receiving food]; 01.02.08.03.08.01-01 [1.00000000] [.taming/training];	N	03.07	n	[Education]	172273				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+that	that	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+right	right	JJ	A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2	0	03.04.13.15 [0.93333333] [Rightful/legally entitled/recognized]; 01.05.07.05.12-05.05 [0.94117647] [..right]; 02.01.12.08.02.01 [0.94736842] [Precise, accurate, exact];	N	02.01.12.08	av	[In accordance with truth, truly]	119041				
+hon.	hon.	JJ	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Contraction of 02.01.17.02|05 aj			
+gentleman	gentleman	NN1	S2.2m	0	03.01.06.01.03.01-08 [0.95000000] [.for gentleman]; 03.01.06.01.01.01-02 [0.95454545] [.gentleman]; 03.01.06.01.01.01-02.01 [0.95833333] [..by birth];	N	02.02.09.05.05.01-04.01; 03.01.06.01.01.01-02 [gentleman]	n	[..person]	126560				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+been	be	VBN	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+directed	direct	VVN	M6 Q2.2 S7.1+ K4	0	03.04.03-05 [0.91666667] [.direct]; 03.11.03.04.02.01-04 [0.92857143] [.direct]; 01.02.01.03.04-06 [1.00000000] [.prescribe treatment];	N	01.14.05; 01.12.06 [Direct]	vt	[Cause to move in a direction]	100841				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+laws	law	NN2	G2.1 S6+	0	03.07.00.20 [0.90000000] [Law]; 03.04.13 [0.92857143] [Law]; 03.04.13.09 [0.93333333] [The rule of law];	N	03.05-04	n	[.a law]	165714				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+country	country	NN1	G1.1c W3 F4/M7 K2	0	03.11.03.01.03.01-01 [0.92857143] [.country and western]; 03.02.07.01.02 [0.94444444] [Country as opposed to town]; 03.02.07.01.01 [0.94736842] [A land/country];	Y	03.02.07.01.01	n	[A land/country]	151380				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+principles	principle	NN2	G2.2 X4.1	0	02.03.27.02-03.03 [0.95000000] [..a principle/axiom]; 03.10.11.42-04.01 [0.95238095] [..principle of operation]; 01.04.07-07.02. [0.95833333] [...specific];	N	01.11.03.03-01	n	[.basis/fundamental principle]	77456				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+its	its	APPGE	Z8	0	02.07.01-03.03.02 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+inestimable	inestimable	JJ	N3.1 A11.1+	0	01.06.05-11 [1.00000000] [.that cannot be estimated]; 01.06.06.03-05.02 [1.00000000] [..therefore not able to be measured/estimated]; 02.01.15.07.08.11-09 [1.00000000] [.beyond valuation];	Y	02.03.01.11-09	aj	[.beyond valuation]	124381				
+constitution	constitution	NN1	G1.1 B2 O1/A1.8+	0	01.04.04 [0.90909091] [Constitution of matter]; 01.02.05.05 [0.91666667] [Bodily constitution]; 01.04.04-02 [0.92857143] [.consistency];	N	03.04.06.12	n	[A/the system of government]	158921				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+that	that	DD1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+alone	alone	RR	S5- A14	0	01.06.07.03-03 [1.00000000] [.simply/only/merely];	N	01.16.04.01.01.01	aj	[Alone]	107167				
+formed	form	VVN	S7.1 O4.1 T2+ A2.1+ A1.8+ A3+ A1.1.1	0	02.01.07.04 [0.92307692] [Conceive, form in the mind]; 01.04.07.03.06.03-01 [0.95454545] [.convert into active form]; 03.03.07.03.01 [0.96000000] [Form (line/column, etc.)];	N	01.11.02-05	vt	[.construct]	76748				
+a	a	AT1	Z5	0	03.08.07.04.01 [Specific written characters]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+high	high	JJ	N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9	0	01.03.08.02-10.03 [0.92307692] [..high in pitch]; 01.01.04.04.01 [0.92857143] [High land]; 01.05.07.05.07 [0.93333333] [High in position];	N	02.03.01.07-01; 01.16.06.03.01 [Great in degree]	aj	[.and superior in quality]	124260				
+claim	claim	NN1	Q2.2 A9+	0	02.08.03.12-02.01 [0.93333333] [..claim]; 03.10.13.21.05-13 [0.93750000] [.insurance claim]; 03.05.02-05.01 [0.95000000] [..claim/a demand for something as due];	Y	03.06.02-05.01	n	[..claim/a demand for something as due]	170532				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+suffrages	suffrage	NN2	G1.2	0	01.05.05.12.01-05.01 [1.00000000] [..a helper]; 01.05.05.12.01.03.03-03 [1.00000000] [.vote in support of]; 01.05.05.12.01 [1.00000000] [Aid/help/assistance];	N	02.05.01.01.02-03.02; 02.02.09.04.02-01 [an instance/act/expression of]	n	[..in favour]	136244				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.90909091] [.animal house]; 03.02.07.02.06.01 [0.93750000] [A house]; 01.01.10.02.02-02.05 [0.94117647] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+;	PUNC	YSCOL	PUNC	0	NULL				#N/A	#N/A				
+but	but	CCB	Z5	0	01.06.02.02.05-01 [.not included in]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+after	after	CS	Z5	0	01.05.06.08.05.02-01 [.subsequent to]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+been	be	VBN	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+seen	see	VVN	X3.4 X2.1 S1.1.1 X2.5+ A7+	0	01.03.07.03 [0.91666667] [See]; 01.03.07.03-01 [0.92307692] [.of eyes]; 01.03.07.03-02 [0.92307692] [.look/behold];	N	02.01.07; 01.09.08.03 [See]	vt	[Perceive]	116662				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+how	how	RGQ	Z5 A13.3	0	01.05.05.20-05 [.in what way]; 04.03 [null];	N	01.16.06.01-03	av	[.to what extent]	110871				
+short	short	RR	N5- T1.3-	0	01.05.06.02.02 [0.88888889] [For a short while]; 01.05.06.08.06-05 [0.94444444] [.imminently/in the near future]; 01.05.07.02.04.03.01 [0.95000000] [Short];	Y	01.13.02.02	aj	[Short/brief]	88082				
+a	a	AT1	Z5	0	[MWE] 02.02.20.09-03.04 [0.96296296] [Expression of displeasure ..unpleasant period of time]; 02.02.19.01-09 [1.00000000] [Such as to please one .pleasant experience];	Y	04.03		[Grammatical]	Nill				
+time	time	NNT1	T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@	0	[MWE] 02.02.20.09-03.04 [0.96296296] [Expression of displeasure ..unpleasant period of time]; 02.02.19.01-09 [1.00000000] [Such as to please one .pleasant experience];	N	01.13-03	n	[.stretch/period/portion of time]	87820				
+after	after	CS	Z5	0	01.05.06.08.05.02-01 [.subsequent to]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+been	be	VBN	A3+ Z5	0	01.05.01 [0.90909091] [Be/exist]; 01.05.01-01 [0.91666667] [.of inanimate objects]; 02.01.10.02 [0.92307692] [Mean];	N	04.03		[Grammatical]	Nill				
+first	first	MD	N4	0	03.08.08.23.01-02.01 [0.93750000] [..first]; 01.06.04.00.01.01.03-02 [0.94444444] [.first instance]; 01.06.04.00.01.01.03-01.01 [0.94736842] [..of its kind];	N	01.16.04	av	[.for the first time]	107216				
+elevated	elevate	VVN	A11.1+/A2.1 N3.7+/A2.1	0	03.07.03.03.30-01 [0.90909091] [.elevate host]; 02.01.01.02 [0.91666667] [Elevate]; 03.01.06-08 [0.94117647] [.elevate/raise to a higher position];	Y	03.01.06-08	vt	[.elevate/raise to a higher position]	149357				
+to	to	II	Z5	0	01.05.07.02-02 [.to (of spatial extension)]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+situation	situation	NN1	A3+ O4.1 M6 I3.1@	0	03.11.03.04.03.01-17 [0.92857143] [.situation in a play]; 01.05.01.07 [0.93333333] [State/condition]; 01.05.01.07.01-02 [0.95000000] [.circumstances of a person/in life];	N	03.11.02; 01.11.01.07.01-01 [state of affairs/situation]	n	[A position/situation/office]	197974				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+Speaker	speaker	NN1	Q2.1/S2mf G1.1/S2mf O3	0	01.03.08.02.02.01-04 [0.93333333] [.loud-speaker]; 03.04.06.13.09.04.01-05.15 [0.96875000] [..speaker of Commons]; 03.04.06.13.09.04.01-05.16 [0.96875000] [..speaker of Lords];	Y	03.04.06.13.09.04.01-05.15	n	[..speaker of Commons]	159953				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+three	three	MC	T1.1.1	14:03:01	01.06.04.00.03 [0.90909091] [Three]; 01.06.04.00.03-02 [0.92857143] [.three things/persons, etc.]; 01.06.04.00.03.04-02 [0.92857143] [.three parts];	Y	01.16.04	aj	[Three]	107338				
+years	year	NNT2	T1.1.1	14:03:02	03.07.03.05 [0.92307692] [Liturgical year (chronological order)]; 01.05.06.04.01-07 [0.95454545] [.reckoned in a specific way]; 01.05.06.04.01-07.02 [0.95652174] [..civil year];	N	01.13.04.01	n	[Year]	88260				
+ago	ago	RA	T1.1.1	14:03:03	NULL	N	01.13.08.04-01	aj	[.ago]	89162				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+appeared	appear	VVN	A8 A10+ A3+ G2.1 K4 Q4	0	01.03.07.11-04 [0.93333333] [.appear/become visible]; 01.03.07.11-04.08 [0.94444444] [..of spirits/angels]; 01.03.07.10.03-04 [1.00000000] [.mere outward appearance];	N	01.09.08.10.03-05	vi	[.seem]	59638				
+to	to	TO	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+have	have	VHI	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+deeply	deeply	RR	A13.3	0	02.02.12 [0.92857143] [With intense/deep emotion]; 01.02.08.02.21-02 [1.00000000] [.deeply]; 01.03.01.01-03 [1.00000000] [.deeply/soundly];	N	02.01.06.03-01	av	[.very thoughtfully]	116575				
+studied	study	VVN	P1 X2.4	0	03.06.03.01 [0.90909091] [Study]; 03.06.03.01-04 [0.92307692] [.study by reading]; 03.06.03.01-02 [0.93333333] [.as a course/training];	N	02.02.03.02.01; 03.07.03.01 [Study]	vt	[Scrutinize]	122635				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+laws	law	NN2	G2.1 S6+	0	03.07.00.20 [0.88888889] [Law]; 03.04.13 [0.92307692] [Law]; 03.04.03-15.04. [0.92857143] [...of technical/scientific treatment];	N	03.05-04	n	[.a law]	165714				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+rules	rule	NN2	G2.1 X4.2 A6.2+ Q3	0	03.04.13-12 [0.84615385] [.rule]; 02.08.04.01-07 [0.85714286] [.grammatical rule/principle]; 03.04.06 [0.90909091] [Rule/government];	N	03.04.03-15.04; 03.05-12 [rule]	n	[..a regulation/rule]	158379				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+and	and	CC	Z5	0	01.06.06.05.01-01 [.and/also]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+investigated	investigate	VVD	X2.4	0	02.01.15.03.02 [1.00000000] [Investigate, examine]; 02.01.15.03.02 [1.00000000] [Investigate, inspect]; 02.01.15.04-12 [1.00000000] [.trace/follow up];	Y	02.02.03.02	vt	[Investigate, examine]	122603				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+principles	principle	NN2	G2.2 X4.1	0	02.03.27.02-03.03 [0.94736842] [..a principle/axiom]; 03.10.11.42-04.01 [0.95000000] [..principle of operation]; 02.08.04.01.02.01-02 [0.95454545] [.root];	N	01.11.03.03-01	n	[.basis/fundamental principle]	77456				
+by	by	II	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+which	which	DDQ	Z8	0	01.06.01-16 [.which/what/who]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+proceedings	proceeding	NN2	A1.1.1 T2++ M1	0	01.05.05.02.01-06 [0.94444444] [.proceeding/carrying on an action]; 01.05.05.02.01 [1.00000000] [A proceeding]; 01.05.05.05.01 [1.00000000] [Progress/advance/further continuance];	Y	01.15.02.01-06	n	[.proceeding/carrying on an action]	78194				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+House	house	NN1	H1 P1/S5+c G1.1c	0	01.02.08.03.08.02-02 [0.92307692] [.animal house]; 03.02.07.02.06.01 [0.94444444] [A house]; 01.01.10.02.02-02.05 [0.94736842] [..house];	N	03.04.06.13.09.04-04	n	[.a chamber/house of]	159895				
+were	be	VBDR	A3+ Z5	0	01.05.01 [0.91666667] [Be/exist]; 01.05.01-01 [0.92307692] [.of inanimate objects]; 02.01.10.02 [0.92857143] [Mean];	N	04.03		[Grammatical]	Nill				
+regulatedafter	regulatedafter	NN1	Z99	0	04.10 [Unrecognised];	Y	04.10		[Unmatched]	Nill	Transcription error; missing space - combination of 03.04.03|12 and 01.05.06.08.05.02|01			
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+readiness	readiness	NN1	X7+ X5.2+ S8+	0	02.05.03.01-03 [0.93750000] [.readiness/promptness]; 01.05.05.14.03-02 [0.95000000] [.a convenience]; 01.05.05.20.05-05 [0.95454545] [.promptness/alacrity];	Y	01.15.20.05-05	n	[.promptness/alacrity]	84963				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+displayed	display	VVN	A10+	0	01.02.08.01.22.06.03-06.06 [0.91666667] [..crane]; 02.02.28.17 [0.94117647] [Make ostentatious display of]; 02.02.28.17 [0.94117647] [Make ostentatious display/show off];	N	03.09.02	vt	[Manifest]	181528				
+in	in	II	Z5	0	01.05.07.05.01 [Within]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+discharge	discharge	NN1	A1.7-/M1 B1 O1.2	0	 [MWE] 03.10.08-01 [Not working/unemployed .resign]	N	01.15.06-02	n	[.of a command/duty/plan]	78950				
+of	of	IO	Z5	0	 [MWE] 03.10.08-01 [Not working/unemployed .resign]	N	04.03		[Grammatical]	Nill				
+every	every	AT1	N5.1+	0	01.06.02.01-10.05. [0.95454545] [...each/every];	Y	01.16.02.01-10.05.01	aj	[â€¦each/every]	105511				
+point	point	NN1	Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5	0	01.04.07.03.06.13-09 [0.90000000] [.point of discharge/collection]; 01.05.04-10 [0.90909091] [.critical point/crisis]; 01.06.04.09.01-04.01 [0.92307692] [..point/place];	N	01.16.02.02.03-08.05	n	[..a detail/particular]	105928				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+duty	duty	NN1	S6+ G1.1/I1.3 T1.3/I3.1	0	03.07.03.21-09 [0.90909091] [.ecclesiastical duty]; 03.10.03 [0.93333333] [Function/duty]; 03.05.01 [0.94117647] [Duty/obligation];	Y	03.06.01	n	[Duty/obligation]	170005				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+it	it	PPH1	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+would	will	VM	A7+	0	 [MWE] 02.08.06.04 [Maintain/uphold as true Maintain/uphold as true]	N	04.03		[Grammatical]	Nill				
+have	have	VHI	Z5	0	 [MWE] 02.08.06.04 [Maintain/uphold as true Maintain/uphold as true]	N	04.03		[Grammatical]	Nill				
+been	be	VBN	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+supposed	suppose	VVN	S6+ X7+	0	02.05.04 [0.90000000] [Intend]; 01.03.07.10.03-05 [1.00000000] [.seem]; 01.05.01.05-02.01 [1.00000000] [..to a person];	N	02.01.13.04	vt	[Suppose, surmise]	120695				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+by	by	II	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+those	those	DD2	Z8	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+unacquainted	unacquainted	JJ	Z99	0	04.10 [Unrecognised];	N	02.01.12.07.04	aj	[Unfamiliar with, inexperienced]	118983				
+with	with	IW	Z5	0	01.06.07.05.03 [Marking combination]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+previous	previous	JJ	N4	0	01.05.06.08.04.03 [1.00000000] [Antecedent/earlier]; 01.05.08.03.05.01 [1.00000000] [Going first/in front]; 01.06.03.03.01-02 [1.00000000] [.preceding in order];	Y	01.13.08.04.03	aj	[Antecedent/earlier]	89273				
+history	history	NN1	T1.1.1 P1/T1.1.1 Q2.1 B2	0	03.08.06.01.04 [0.93750000] [Historical record/chronicle]; 03.11.03.03.07.04.02 [0.95000000] [Historical narrative]; 03.11.03.03.07.04.02-03 [0.95238095] [.history as a branch of knowledge];	N	01.11.04-04.02; 01.13.08.04.05 [History/knowledge about the past]	n	[..connected with a particular person/country etc.]	77748				
+,	PUNC	YCOM	PUNC	0	NULL				#N/A	#N/A				
+that	that	CST	Z8	0	04.06 [Pronoun];	Y	04.03		[Pronoun]	Nill				
+he	he	PPHS1	Z8m	0	04.06 [Pronoun];	Y	04.06		[Pronoun]	Nill				
+had	have	VHD	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+made	make	VVN	A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+	0	01.05.02-05 [0.91666667] [.construct]; 01.05.02-01 [0.92307692] [.of God]; 01.05.02-03 [0.92307692] [.produce/bring forth];	N	01.11.03-10	vt	[.cause to be/become]	77308				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+subject	subject	NN1	X4.1 C1/S2mf Q3 P1 S7.1-/S2mf	0	01.07.01-03.03 [0.83333333] [..subject of]; 02.01.07.04.03.02-06 [0.90909091] [.of particular subject]; 03.06.03.01.01 [0.92857143] [Subject/object of study];	N	02.01.07.04.03	n	[Topic, subject-matter]	116810				
+the	the	AT	Z5	0	04.03 [Grammatical];	Y	04.03		[Grammatical]	Nill				
+diligent	diligent	JJ	X5.1+/S1.2	0	01.05.05.20.07-05.02 [0.95238095] [..diligent in service]; 01.05.05.20.07-05.01 [1.00000000] [..of actions]; 01.05.05.20.07-05 [1.00000000] [.studiously careful/diligent];	Y	01.15.20.07-05	aj	[.studiously careful/diligent]	85140	? - sense not in HT? diligent = carefully chosen			
+occupation	occupation	NN1	I3.1 A1.1.1 G3 H4	0	03.03.03-17 [0.94444444] [.occupation]; 03.03.03-17.01 [0.94736842] [..specific]; 01.05.05.02.02 [1.00000000] [Practice/exercise];	N	03.11	n	[Occupation/work]	197786				
+of	of	IO	Z5	0	01.06.01-03 [.respecting/concerning]; 04.03 [null];	Y	04.03		[Grammatical]	Nill				
+his	his	APPGE	Z8m	0	02.07.01-03.03.01 [null]; 04.06 [null];	Y	04.06		[Pronoun]	Nill				
+life	life	NN1	L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1	0	01.02.00 [0.83333333] [Life]; 01.02.00-01 [0.85714286] [.condition/state of being alive]; 01.02.00-03 [0.85714286] [.as possession];	N	01.02-13; 01.02-09 [course/span of life]	n	[.manner of life]	8222				
+.	PUNC	YSTP	PUNC	0	NULL				#N/A	#N/A				
+S_END	NULL	NULL	Z99	0	04.10 [Unrecognised];				#N/A	#N/A				
